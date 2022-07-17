@@ -33,6 +33,8 @@ namespace MultiplayerEvents
 
         private GameObject skull;
 
+        public override string GetVersion() => Satchel.AssemblyUtils.GetAssemblyVersionHash();
+
         public AppendOnlyList GetDeathListForScene(string scene) {
             AppendOnlyList dl;
             if (!sceneDeaths.TryGetValue(scene, out dl)) { 
