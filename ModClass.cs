@@ -10,6 +10,8 @@ using MagicUI.Core;
 using HutongGames.PlayMaker.Actions;
 using static Satchel.FsmUtil;
 using System.Globalization;
+using Satchel;
+using static Satchel.GameObjectUtils;
 
 namespace MultiplayerEvents
 {
@@ -46,14 +48,14 @@ namespace MultiplayerEvents
             killCount.OnUpdate += (s, e) =>
             {
                 GUI.UpdateText();
-                Log($"Current Kill Count : {e.Count}");
+                LogDebug($"Current Kill Count : {e.Count}");
             };
 
             score = new Counter(pipe, $"{team}score");
             score.OnUpdate += (s, e) =>
             {
                 GUI.UpdateText();
-                Log($"Current score : {e.Count}");
+                LogDebug($"Current score : {e.Count}");
             };
             killCount.Get();
             score.Get();
@@ -124,7 +126,6 @@ namespace MultiplayerEvents
                 DestroyCounters();
                 CreateCountersForTeam(team.ToString());
                 lastTeam = team;
-                GUI.UpdateText();
             }
         }
 
@@ -143,14 +144,14 @@ namespace MultiplayerEvents
         private void ClientManager_DisconnectEvent()
         {
 
-            Log("disconnect");
+            LogDebug("disconnect");
             DestroyCounters();
         }
 
         private void ClientManager_ConnectEvent()
         {
 
-            Log("connect");
+            LogDebug("connect");
             score.Get();
             killCount.Get();
         }
@@ -170,14 +171,30 @@ namespace MultiplayerEvents
 
         private void ModHooks_AfterPlayerDeadHook()
         {
-            score.Decrement();
+            score.Decrement(5);
         }
 
         private void ModHooks_OnReceiveDeathEventHook(EnemyDeathEffects enemyDeathEffects, bool eventAlreadyReceived, ref float? attackDirection, ref bool resetDeathEvent, ref bool spellBurn, ref bool isWatery)
         {
             if(eventAlreadyReceived) { return; }
-            killCount.Increment();
-            score.Increment();
+            killCount.Increment(1);
+            ushort points = 1;
+            var enemyName = enemyDeathEffects.gameObject.GetName(true);
+            foreach (var enemy in EnemyDatabase.hardEnemyTypeNames)
+            {
+                if (enemy.ToLower() == enemyName.ToLower())
+                {
+                    points += 4;
+                }
+            }
+            foreach (var enemy in EnemyDatabase.bigEnemyTypeNames)
+            {
+                if(enemy.ToLower() == enemyName.ToLower())
+                {
+                    points += 1;
+                }
+            }
+            score.Increment(points);
         }
     }
 }
