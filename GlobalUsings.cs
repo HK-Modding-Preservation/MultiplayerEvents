@@ -1,0 +1,14 @@
+global using Modding;
+global using System;
+global using System.Collections;
+global using System.Collections.Generic;
+global using UnityEngine;
+global using UObject = UnityEngine.Object;
+global using HkmpPouch;
+global using HkmpPouch.PouchDataClient;
+global using MagicUI.Core;
+global using HutongGames.PlayMaker.Actions;
+global using static Satchel.FsmUtil;
+global using System.Globalization;
+global using Satchel;
+global using static Satchel.GameObjectUtils;

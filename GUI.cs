@@ -12,36 +12,21 @@ namespace MultiplayerEvents
     {
         public static TextObject mainText;
         public static string team;
-
-        public static string teamName()
-        {
-
-            if (team == "0")
-            {
-                return "None";
-            } else if (team == "1")
-            {
-                return "Moss";
-            }
-            else if (team == "2")
-            {
-                return "Hive";
-            }
-            else if (team == "3")
-            {
-                return "Grimm";
-            }
-            else if (team == "4")
-            {
-                return "Lifeblood";
-            }
-
-            return "None";
+        private static LayoutRoot layout;
+        public static void Init(){
+            On.HeroController.Awake += HeroController_Awake;
         }
-        public static void UpdateText()
+        private static void HeroController_Awake(On.HeroController.orig_Awake orig, HeroController self)
         {
-            if (mainText == null) return;
-            mainText.Text = $"TEAM : {teamName()} | SCORE : {MultiplayerEvents.Instance.score?.Count} | KILLCOUNT : {MultiplayerEvents.Instance.killCount?.Count}";
+            if (layout == null)
+            {
+                layout = new(true, "Persistent layout");
+                layout.RenderDebugLayoutBounds = false;
+                Setup(layout);
+            }
+
+            orig(self);
+
         }
         public static void Setup(LayoutRoot layout)
         {
@@ -56,6 +41,17 @@ namespace MultiplayerEvents
                 Padding = new Padding(0, 0, 15, 15)
             };
 
+        }
+        
+        public static void UpdateText()
+        {
+            if (mainText == null) return;
+            var team = MultiplayerEvents.Instance.CurrentTeam;
+            if(team.TeamId > 0){
+                mainText.Text = $"TEAM : {team.Name} | SCORE : {team.Score?.Count} | KILLCOUNT : {team.KillCount?.Count}";
+            } else {
+                mainText.Text = $"Select a team to join Multiplayer quests";
+            }
         }
     }
 }

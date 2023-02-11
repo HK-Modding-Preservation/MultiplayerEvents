@@ -1,0 +1,437 @@
+{
+    "Aluba": [
+        "lazy flyer enemy"
+    ],
+    "Ambloom": [
+        "fung crawler"
+    ],
+    "Arcane Egg": [
+        "shiny item"
+    ],
+    "Aspid Hatchling": [
+        "hatcher baby spawner"
+    ],
+    "Aspid Hunter": [
+        "spitter"
+    ],
+    "Aspid Mother": [
+        "hatcher np",
+        "hatcher"
+    ],
+    "Baldur": [
+        "roller"
+    ],
+    "Belfly": [
+        "ceiling dropper"
+    ],
+    "Bluggsac": [
+        "egg sac"
+    ],
+    "Boofly": [
+        "blow fly"
+    ],
+    "Broken Vessel": [
+        "infected knight"
+    ],
+    "Brooding Mawlek": [
+        "mawlek body"
+    ],
+    "Carver Hatcher": [
+        "centipede hatcher"
+    ],
+    "Corpse Creeper": [
+        "zombie spider"
+    ],
+    "Cowardly Husk": [
+        "royal zombie coward"
+    ],
+    "Crawlid": [
+        "crawler"
+    ],
+    "Crystal Crawler": [
+        "crystallised lazer bug"
+    ],
+    "Crystal Guardian": [
+        "mega zombie beam miner"
+    ],
+    "Crystal Hunter": [
+        "crystal flyer"
+    ],
+    "Crystallised Husk": [
+        "zombie beam miner"
+    ],
+    "Deephunter": [
+        "spider mini"
+    ],
+    "Deepling": [
+        "tiny spider"
+    ],
+    "Dirtcarver": [
+        "baby centipede",
+        "baby centipede spawner"
+    ],
+    "Dung Defender": [
+        "dung defender"
+    ],
+    "Duranda": [
+        "acid flyer"
+    ],
+    "Durandoo": [
+        "acid walker"
+    ],
+    "Elder Baldur": [
+        "blocker"
+    ],
+    "Enraged Guardian": [
+        "zombie beam miner rematch"
+    ],
+    "Entombed Husk": [
+        "grave zombie"
+    ],
+    "Eternal Zoteling": [
+        "ordeal zoteling"
+    ],
+    "False Knight": [
+        "false knight new"
+    ],
+    "Fluke Larva": [
+        "fluke_baby_"
+    ],
+    "Flukefey": [
+        "fluke fly spawner",
+        "fluke fly"
+    ],
+    "Flukemarm": [
+        "fluke mother"
+    ],
+    "Flukemon": [
+        "flukeman"
+    ],
+    "Flukemunga": [
+        "fat fluke"
+    ],
+    "Folly": [
+        "mage balloon"
+    ],
+    "Fool Eater": [
+        "plant trap"
+    ],
+    "Fungified Husk": [
+        "zombie fungus a",
+        "zombie fungus b"
+    ],
+    "Fungling": [
+        "fungoon baby"
+    ],
+    "Fungoon": [
+        "fungus flyer"
+    ],
+    "Geo Rock": [
+        "geo rock green path",
+        "geo rock grave",
+        "giant geo egg",
+        "geo rock mine",
+        "geo rock city",
+        "geo rock outskirts",
+        "geo rock deepnest",
+        "geo rock hive",
+        "geo rock",
+        "geo rock fung",
+        "geo rock abyss"
+    ],
+    "Glimback": [
+        "crystal crawler"
+    ],
+    "Gluttonous Husk": [
+        "royal zombie fat"
+    ],
+    "God Tamer": [
+        "lobster"
+    ],
+    "Gorgeous Husk": [
+        "gorgeous husk"
+    ],
+    "Great Hopper": [
+        "giant hopper"
+    ],
+    "Great Husk Sentry": [
+        "great shield zombie",
+        "great shield zombie bottom"
+    ],
+    "Grey Prince Zote": [
+        "grey prince"
+    ],
+    "Grub Mimic": [
+        "grub mimic"
+    ],
+    "Gruz Mother": [
+        "giant fly"
+    ],
+    "Gruzzer": [
+        "fly"
+    ],
+    "Gulka": [
+        "plant turret right",
+        "plant turret"
+    ],
+    "Hallownest Seal": [
+        "shiny item",
+        "shiny item relic"
+    ],
+    "Heavy Sentry": [
+        "ruins sentry fatb",
+        "ruins sentry fat"
+    ],
+    "Hive Guardian": [
+        "big bee"
+    ],
+    "Hive Knight": [
+        "hive knight"
+    ],
+    "Hive Soldier": [
+        "bee stinger"
+    ],
+    "Hiveling": [
+        "hiveling spawner",
+        "bee hatchling ambient"
+    ],
+    "Hollow Knight": [
+        "hk prime"
+    ],
+    "Hopper": [
+        "hopper"
+    ],
+    "Hornet": [
+        "hornet boss"
+    ],
+    "Husk Bully": [
+        "zombie barger"
+    ],
+    "Husk Dandy": [
+        "royal zombie"
+    ],
+    "Husk Guard": [
+        "zombie guard"
+    ],
+    "Husk Hive": [
+        "zombie hive"
+    ],
+    "Husk Hornhead": [
+        "zombie hornhead",
+        "zombie hornhead sp"
+    ],
+    "Husk Miner": [
+        "zombie miner"
+    ],
+    "Husk Sentry": [
+        "ruins sentryb",
+        "ruins sentry"
+    ],
+    "Husk Warrior": [
+        "zombie shield"
+    ],
+    "Hwurmp": [
+        "inflater"
+    ],
+    "Infected Balloon": [
+        "parasite balloon"
+    ],
+    "King's Idol": [
+        "shiny item stand",
+        "shiny item",
+        "shiny item relic"
+    ],
+    "Kingsmould": [
+        "royal gaurd"
+    ],
+    "Lance Sentry": [
+        "ruins flying sentry javelin"
+    ],
+    "Leaping Husk": [
+        "zombie leaper"
+    ],
+    "Lesser Mawlek": [
+        "lesser mawlek"
+    ],
+    "Little Weaver": [
+        "spider flyer"
+    ],
+    "Loodle": [
+        "grass hopper"
+    ],
+    "Lost Kin": [
+        "lost kin"
+    ],
+    "Maggot": [
+        "prayer slug"
+    ],
+    "Mantis Petra": [
+        "mantis heavy flyer"
+    ],
+    "Mantis Traitor": [
+        "mantis heavy"
+    ],
+    "Mantis Warrior": [
+        "mantis",
+        "gate mantis"
+    ],
+    "Mantis Youth": [
+        "mantis flyer child"
+    ],
+    "Maskfly": [
+        "pigeon"
+    ],
+    "Massive Moss Charger": [
+        "mega moss charger"
+    ],
+    "Mawlurk": [
+        "mawlek turret",
+        "mawlek turret ceiling"
+    ],
+    "Menderbug": [
+        "mender bug"
+    ],
+    "Mistake": [
+        "mage blob"
+    ],
+    "Moss Charger": [
+        "moss charger"
+    ],
+    "Moss Knight": [
+        "moss knight c",
+        "moss knight",
+        "moss knight b"
+    ],
+    "Mosscreep": [
+        "moss walker"
+    ],
+    "Mossfly": [
+        "moss flyer"
+    ],
+    "Mosskin": [
+        "mossman_runner"
+    ],
+    "Mossy Vagabond": [
+        "moss knight fat"
+    ],
+    "Nightmare King Grimm": [
+        "nightmare grimm boss"
+    ],
+    "Nosk": [
+        "mimic spider"
+    ],
+    "Obble": [
+        "fat fly"
+    ],
+    "Oblobble": [
+        "mega fat bee"
+    ],
+    "Ooma": [
+        "jellyfish"
+    ],
+    "Paintmaster Sheo": [
+        "sheo boss"
+    ],
+    "Pale Lurker": [
+        "pale lurker"
+    ],
+    "Pilflip": [
+        "flip hopper"
+    ],
+    "Primal Aspid": [
+        "super spitter"
+    ],
+    "Royal Retainer": [
+        "enemy"
+    ],
+    "Shadow Creeper": [
+        "abyss crawler"
+    ],
+    "Shardmite": [
+        "mines crawler"
+    ],
+    "Shrumal Ogre": [
+        "mushroom brawler"
+    ],
+    "Shrumal Warrior": [
+        "mushroom roller"
+    ],
+    "Shrumeling": [
+        "mushroom baby"
+    ],
+    "Sly": [
+        "sly boss"
+    ],
+    "Soul Master": [
+        "mage lord phase"
+    ],
+    "Soul Twister": [
+        "mage"
+    ],
+    "Soul Warrior": [
+        "mage knight"
+    ],
+    "Spiny Husk": [
+        "garden zombie"
+    ],
+    "Sporg": [
+        "mushroom turret"
+    ],
+    "Squit": [
+        "mosquito"
+    ],
+    "Stalking Devout": [
+        "slash spider"
+    ],
+    "The Collector": [
+        "jar collector"
+    ],
+    "Tiktik": [
+        "climber"
+    ],
+    "Troupe Master Grimm": [
+        "grimm boss"
+    ],
+    "Uoma": [
+        "jellyfish baby inert",
+        "jellyfish baby"
+    ],
+    "Uumuu": [
+        "mega jellyfish",
+        "mega jellyfish gg"
+    ],
+    "Vengefly": [
+        "buzzer"
+    ],
+    "Vengefly King": [
+        "giant buzzer",
+        "giant buzzer col"
+    ],
+    "Volatile Mosskin": [
+        "mossman_shaker"
+    ],
+    "Volatile Zoteling": [
+        "zote balloon",
+        "zote balloon ordeal"
+    ],
+    "Wanderer's Journal": [
+        "shiny item"
+    ],
+    "Wandering Husk": [
+        "zombie runner",
+        "zombie runner sp"
+    ],
+    "White Defender": [
+        "white defender"
+    ],
+    "Winged Sentry": [
+        "ruins flying sentry",
+        "ruins flying sentryb"
+    ],
+    "Wingmould": [
+        "white palace fly"
+    ],
+    "Zoteling": [
+        "zoteling"
+    ]
+}

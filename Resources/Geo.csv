@@ -1,0 +1,2402 @@
+Abyss_01/Geo Rock 1,Geo Rock,2,5,5,15,15
+Abyss_01/Geo Rock 2,Geo Rock,2,5,5,15,15
+Abyss_01/Geo Rock 2 (1),Geo Rock,2,5,5,15,15
+Abyss_01/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Abyss_01/Ruins Flying Sentry (1),Winged Sentry,2,2,0,12,18
+Abyss_02/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Abyss_02/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Abyss_02/Geo Rock Deepnest (2),Geo Rock,0,3,15,15,15
+Abyss_02/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Abyss_02/Ruins Flying Sentry (1),Winged Sentry,2,2,0,12,18
+Abyss_02/Ruins Flying Sentry Javelin,Lance Sentry,2,2,0,12,18
+Abyss_02/Ruins Flying Sentry Javelin (1),Lance Sentry,2,2,0,12,18
+Abyss_02/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Abyss_02/Shiny Item,Wanderer's Journal,,,,200,200
+Abyss_02/Zombie Barger,Husk Bully,3,0,0,3,4
+Abyss_02/Zombie Barger (1),Husk Bully,3,0,0,3,4
+Abyss_02/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Abyss_03_c/Bee Hatchling Ambient,Hiveling,0,0,0,0,0
+Abyss_03_c/Bee Hatchling Ambient (1),Hiveling,0,0,0,0,0
+Abyss_04/Abyss Crawler,Shadow Creeper,2,0,0,2,3
+Abyss_04/Abyss Crawler (1),Shadow Creeper,2,0,0,2,3
+Abyss_04/Abyss Crawler (10),Shadow Creeper,2,0,0,2,3
+Abyss_04/Abyss Crawler (11),Shadow Creeper,2,0,0,2,3
+Abyss_04/Abyss Crawler (2),Shadow Creeper,2,0,0,2,3
+Abyss_04/Abyss Crawler (3),Shadow Creeper,2,0,0,2,3
+Abyss_04/Abyss Crawler (4),Shadow Creeper,2,0,0,2,3
+Abyss_04/Abyss Crawler (7),Shadow Creeper,2,0,0,2,3
+Abyss_04/Abyss Crawler (9),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler,Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (1),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (10),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (11),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (12),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (13),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (14),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (16),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (17),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (18),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (19),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (2),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (20),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (22),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (3),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (4),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (5),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (6),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (7),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (8),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Enemies/Abyss Crawler (9),Shadow Creeper,2,0,0,2,3
+Abyss_06_Core/_Props/Geo Rock Abyss,Geo Rock,4,5,15,35,35
+Abyss_06_Core/_Props/Geo Rock Abyss (1),Geo Rock,4,5,15,35,35
+Abyss_06_Core/Geo Rock Abyss,Geo Rock,4,5,15,35,35
+Abyss_08/Shiny Item (1),Arcane Egg,,,,"1,200","1,200"
+Abyss_10/Shiny Item,Arcane Egg,,,,"1,200","1,200"
+Abyss_12/Abyss Crawler,Shadow Creeper,2,0,0,2,3
+Abyss_12/Abyss Crawler (1),Shadow Creeper,2,0,0,2,3
+Abyss_12/Abyss Crawler (2),Shadow Creeper,2,0,0,2,3
+Abyss_12/Abyss Crawler (3),Shadow Creeper,2,0,0,2,3
+Abyss_12/Abyss Crawler (4),Shadow Creeper,2,0,0,2,3
+Abyss_15/Shiny Item,Arcane Egg,,,,"1,200","1,200"
+Abyss_17/Battle Scene Ore/Lesser Mawlek 1,Lesser Mawlek,8,2,0,18,25
+Abyss_17/Battle Scene Ore/Lesser Mawlek 2,Lesser Mawlek,8,2,0,18,25
+Abyss_17/Ceiling Dropper,Belfly,0,0,0,0,0
+Abyss_17/Ceiling Dropper (1),Belfly,0,0,0,0,0
+Abyss_17/Ceiling Dropper (2),Belfly,0,0,0,0,0
+Abyss_17/Ceiling Dropper (3),Belfly,0,0,0,0,0
+Abyss_17/Cloth Enemies/Lesser Mawlek (3),Lesser Mawlek,8,2,0,18,25
+Abyss_17/Cloth Enemies/Lesser Mawlek (4),Lesser Mawlek,8,2,0,18,25
+Abyss_17/Cloth Enemies/Spitter (3),Aspid Hunter,6,0,0,6,8
+Abyss_17/Cloth Enemies/Spitter (4),Aspid Hunter,6,0,0,6,8
+Abyss_17/Cloth Enemies/Spitter (5),Aspid Hunter,6,0,0,6,8
+Abyss_17/Lesser Mawlek,Lesser Mawlek,8,2,0,18,25
+Abyss_17/Lesser Mawlek (1),Lesser Mawlek,8,2,0,18,25
+Abyss_17/Lesser Mawlek (2),Lesser Mawlek,8,2,0,18,25
+Abyss_17/Lesser Mawlek (8),Lesser Mawlek,8,2,0,18,25
+Abyss_18/Geo Rock Abyss,Geo Rock,4,5,15,35,35
+Abyss_19/Abyss Crawler,Shadow Creeper,2,0,0,2,3
+Abyss_19/Abyss Crawler (1),Shadow Creeper,2,0,0,2,3
+Abyss_19/Abyss Crawler (2),Shadow Creeper,2,0,0,2,3
+Abyss_19/Geo Rock Abyss,Geo Rock,4,5,15,35,35
+Abyss_19/Geo Rock Abyss (1),Geo Rock,4,5,15,35,35
+Abyss_19/Infected Knight,Broken Vessel,0,0,0,0,0
+Abyss_19/Parasite Balloon (1),Infected Balloon,5,0,0,5,6
+Abyss_19/Parasite Balloon (2),Infected Balloon,5,0,0,5,6
+Abyss_19/Parasite Balloon (3),Infected Balloon,5,0,0,5,6
+Abyss_19/Parasite Balloon (4),Infected Balloon,5,0,0,5,6
+Abyss_20/Abyss Crawler,Shadow Creeper,2,0,0,2,3
+Abyss_20/Abyss Crawler (1),Shadow Creeper,2,0,0,2,3
+Abyss_20/Abyss Crawler (3),Shadow Creeper,2,0,0,2,3
+Abyss_20/Abyss Crawler (4),Shadow Creeper,2,0,0,2,3
+Abyss_20/Mawlek Turret,Mawlurk,10,3,0,25,32
+Abyss_20/Mawlek Turret (1),Mawlurk,10,3,0,25,32
+Abyss_20/Mawlek Turret (2),Mawlurk,10,3,0,25,32
+Abyss_20/Mawlek Turret (3),Mawlurk,10,3,0,25,32
+Abyss_20/Mawlek Turret Ceiling,Mawlurk,10,3,0,25,32
+Abyss_20/Mawlek Turret Ceiling (1),Mawlurk,10,3,0,25,32
+Abyss_20/Parasite Balloon (6),Infected Balloon,5,0,0,5,6
+Abyss_20/Parasite Balloon (7),Infected Balloon,5,0,0,5,6
+Cliffs_01/Buzzer,Vengefly,3,0,0,3,4
+Cliffs_01/Buzzer (1),Vengefly,3,0,0,3,4
+Cliffs_01/Buzzer (2),Vengefly,3,0,0,3,4
+Cliffs_01/Buzzer (3),Vengefly,3,0,0,3,4
+Cliffs_01/Buzzer (5),Vengefly,3,0,0,3,4
+Cliffs_01/Buzzer (6),Vengefly,3,0,0,3,4
+Cliffs_01/Climber,Tiktik,2,0,0,2,3
+Cliffs_01/Climber (1),Tiktik,2,0,0,2,3
+Cliffs_01/Climber (4),Tiktik,2,0,0,2,3
+Cliffs_01/Climber (5),Tiktik,2,0,0,2,3
+Cliffs_01/Climber (6),Tiktik,2,0,0,2,3
+Cliffs_01/Climber (7),Tiktik,2,0,0,2,3
+Cliffs_01/Climber (8),Tiktik,2,0,0,2,3
+Cliffs_01/Crawler,Crawlid,2,0,0,2,3
+Cliffs_01/Crawler (1),Crawlid,2,0,0,2,3
+Cliffs_01/Crawler (2),Crawlid,2,0,0,2,3
+Cliffs_01/Crawler (3),Crawlid,2,0,0,2,3
+Cliffs_01/Crawler (4),Crawlid,2,0,0,2,3
+Cliffs_01/Crawler (5),Crawlid,2,0,0,2,3
+Cliffs_01/Crawler (6),Crawlid,2,0,0,2,3
+Cliffs_01/Crawler (7),Crawlid,2,0,0,2,3
+Cliffs_01/Geo Rock 2 (1),Geo Rock,2,5,5,15,15
+Cliffs_01/Geo Rock 2 (2),Geo Rock,2,5,5,15,15
+Cliffs_01/Geo Rock 2 (3),Geo Rock,2,5,5,15,15
+Cliffs_01/Geo Rock 2 (4),Geo Rock,2,5,5,15,15
+Cliffs_01/Shiny Item,King's Idol,,,,800,800
+Cliffs_01/Shiny Item (1),Wanderer's Journal,,,,200,200
+Cliffs_02/Buzzer,Vengefly,3,0,0,3,4
+Cliffs_02/Buzzer (1),Vengefly,3,0,0,3,4
+Cliffs_02/Buzzer (2),Vengefly,3,0,0,3,4
+Cliffs_02/Climber,Tiktik,2,0,0,2,3
+Cliffs_02/Climber (1),Tiktik,2,0,0,2,3
+Cliffs_02/Crawler,Crawlid,2,0,0,2,3
+Cliffs_02/Crawler (1),Crawlid,2,0,0,2,3
+Cliffs_02/Crawler (2),Crawlid,2,0,0,2,3
+Cliffs_02/Geo Rock 1,Geo Rock,2,5,5,15,15
+Cliffs_02/Geo Rock 1 (1),Geo Rock,2,5,5,15,15
+Cliffs_02/Zombie Barger,Husk Bully,3,0,0,3,4
+Cliffs_02/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Cliffs_04/Buzzer,Vengefly,3,0,0,3,4
+Cliffs_04/Buzzer (1),Vengefly,3,0,0,3,4
+Cliffs_04/Buzzer (2),Vengefly,3,0,0,3,4
+Cliffs_04/Buzzer (3),Vengefly,3,0,0,3,4
+Cliffs_04/Buzzer (4),Vengefly,3,0,0,3,4
+Cliffs_04/Buzzer (5),Vengefly,3,0,0,3,4
+Cliffs_04/Buzzer (6),Vengefly,3,0,0,3,4
+Cliffs_04/Buzzer (7),Vengefly,3,0,0,3,4
+Cliffs_04/Zombie Barger,Husk Bully,3,0,0,3,4
+Cliffs_04/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Cliffs_04/Zombie Leaper,Leaping Husk,3,0,0,3,4
+Cliffs_04/Zombie Leaper (1),Leaping Husk,3,0,0,3,4
+Cliffs_04/Zombie Leaper (2),Leaping Husk,3,0,0,3,4
+Crossroads_01/_Enemies/Climber,Tiktik,2,0,0,2,3
+Crossroads_01/_Enemies/Climber 1,Tiktik,2,0,0,2,3
+Crossroads_01/_Enemies/Crawler 1,Crawlid,2,0,0,2,3
+Crossroads_01/_Enemies/Zombie Runner,Wandering Husk,3,0,0,3,4
+Crossroads_01/_Props/Geo Rock 2,Geo Rock,5,3,4,19,19
+Crossroads_01/_Scenery/Mender Bug,Menderbug,0,0,0,0,0
+Crossroads_01/Shiny Item,Hallownest Seal,,,,450,450
+Crossroads_01/Uninfected Parent/Zombie Runner 1,Wandering Husk,3,0,0,3,4
+Crossroads_03/_Enemies/Climber 1,Tiktik,2,0,0,2,3
+Crossroads_03/_Enemies/Climber 2,Tiktik,2,0,0,2,3
+Crossroads_03/_Enemies/Crawler,Crawlid,2,0,0,2,3
+Crossroads_03/_Enemies/Spitter (1),Aspid Hunter,6,0,0,6,8
+Crossroads_03/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_03/Uninfected Parent/Buzzer,Vengefly,3,0,0,3,4
+Crossroads_04/_Enemies/Fly Spawn/Fly,Gruzzer,0,0,0,0,0
+Crossroads_04/_Enemies/Fly Spawn/Fly 1,Gruzzer,0,0,0,0,0
+Crossroads_04/_Enemies/Fly Spawn/Fly 2,Gruzzer,0,0,0,0,0
+Crossroads_04/_Enemies/Fly Spawn/Fly 3,Gruzzer,0,0,0,0,0
+Crossroads_04/_Enemies/Fly Spawn/Fly 4,Gruzzer,0,0,0,0,0
+Crossroads_04/_Enemies/Fly Spawn/Fly 5,Gruzzer,0,0,0,0,0
+Crossroads_04/_Enemies/Fly Spawn/Fly 6,Gruzzer,0,0,0,0,0
+Crossroads_04/_Enemies/Giant Fly,Gruz Mother,0,0,0,0,0
+Crossroads_04/_Enemies/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Crossroads_04/UnInfected Parent/Zombie Barger,Husk Bully,3,0,0,3,4
+Crossroads_04/UnInfected Parent/Zombie Runner,Wandering Husk,3,0,0,3,4
+Crossroads_05/_Enemies/Climber 1,Tiktik,2,0,0,2,3
+Crossroads_05/_Enemies/Climber 2,Tiktik,2,0,0,2,3
+Crossroads_05/_Props/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_05/Crawler (1),Crawlid,2,0,0,2,3
+Crossroads_05/Crawler (2),Crawlid,2,0,0,2,3
+Crossroads_05/Uninfected Parent/Buzzer,Vengefly,3,0,0,3,4
+Crossroads_05/Uninfected Parent/Crawler,Crawlid,2,0,0,2,3
+Crossroads_05/Uninfected Parent/Zombie Runner,Wandering Husk,3,0,0,3,4
+Crossroads_07/_Enemies/Climber 3,Tiktik,2,0,0,2,3
+Crossroads_07/_Enemies/Climber 4,Tiktik,2,0,0,2,3
+Crossroads_07/_Enemies/Climber 5,Tiktik,2,0,0,2,3
+Crossroads_07/_Enemies/Climber 6,Tiktik,2,0,0,2,3
+Crossroads_07/_Enemies/Climber 7,Tiktik,2,0,0,2,3
+Crossroads_07/_Enemies/Climber 8,Tiktik,2,0,0,2,3
+Crossroads_07/_Enemies/Climber 9,Tiktik,2,0,0,2,3
+Crossroads_07/_Enemies/Crawler,Crawlid,2,0,0,2,3
+Crossroads_07/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_07/Geo Rock 1 (1),Geo Rock,2,5,5,15,15
+Crossroads_07/Geo Rock 1 (2),Geo Rock,2,5,5,15,15
+Crossroads_07/Uninfected Parent/Fly,Gruzzer,2,0,0,2,3
+Crossroads_07/Uninfected Parent/Fly 1,Gruzzer,2,0,0,2,3
+Crossroads_07/Uninfected Parent/Fly 10,Gruzzer,2,0,0,2,3
+Crossroads_07/Uninfected Parent/Fly 2,Gruzzer,2,0,0,2,3
+Crossroads_07/Uninfected Parent/Fly 3,Gruzzer,2,0,0,2,3
+Crossroads_07/Uninfected Parent/Fly 4,Gruzzer,2,0,0,2,3
+Crossroads_07/Uninfected Parent/Fly 5,Gruzzer,2,0,0,2,3
+Crossroads_07/Uninfected Parent/Fly 6,Gruzzer,2,0,0,2,3
+Crossroads_07/Uninfected Parent/Fly 7,Gruzzer,2,0,0,2,3
+Crossroads_08/_Props/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_08/_Props/Geo Rock 1 (1),Geo Rock,1,6,4,10,10
+Crossroads_08/_Props/Geo Rock 1 (2),Geo Rock,1,6,4,10,10
+Crossroads_08/_Props/Geo Rock 1 (3),Geo Rock,1,6,4,10,10
+Crossroads_08/Battle Scene/Wave 1/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_08/Battle Scene/Wave 2/Spitter Summon v2 (1)/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_08/Battle Scene/Wave 2/Spitter Summon v2/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_09/_Enemies/Mawlek Body,Brooding Mawlek,0,0,0,0,0
+Crossroads_10/_Props/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_10_boss/Battle Scene/False Knight New,False Knight,0,0,0,0,0
+Crossroads_10_boss/Battle Scene/Pre Battle Enemies/Zombie Barger,Husk Bully,3,0,0,3,4
+Crossroads_10_boss/Battle Scene/Pre Battle Enemies/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Crossroads_10_boss/Battle Scene/Pre Battle Enemies/Zombie Runner,Wandering Husk,3,0,0,3,4
+Crossroads_10_boss_defeated/Prayer Room/Prayer Slug,Maggot,2,0,0,2,3
+Crossroads_10_boss_defeated/Prayer Room/Prayer Slug (1),Maggot,2,0,0,2,3
+Crossroads_11_alt/_Enemies/Battle Scene/Blocker,Elder Baldur,25,5,0,50,61
+Crossroads_12/_Props/Geo Rock 2,Geo Rock,2,5,5,15,15
+Crossroads_13/_Props/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_13/_Props/Geo Rock 2,Geo Rock,2,5,5,15,15
+Crossroads_13/UnInfected Parent/Buzzer,Vengefly,3,0,0,3,4
+Crossroads_13/UnInfected Parent/Zombie Barger,Husk Bully,3,0,0,3,4
+Crossroads_15/_Enemies/Zombie Shield,Husk Warrior,6,0,0,6,8
+Crossroads_15/_Enemies/Zombie Shield 1,Husk Warrior,6,0,0,6,8
+Crossroads_16/_Enemies/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Crossroads_16/_Props/Geo Rock 2,Geo Rock,2,5,5,15,15
+Crossroads_16/Uninfected Parent/Buzzer,Vengefly,3,0,0,3,4
+Crossroads_16/Uninfected Parent/Buzzer 1,Vengefly,3,0,0,3,4
+Crossroads_16/Uninfected Parent/Buzzer 2,Vengefly,3,0,0,3,4
+Crossroads_18/_Props/Geo Rock 2,Geo Rock,2,5,5,15,15
+Crossroads_18/_Props/Geo Rock 3,Geo Rock,2,5,5,15,15
+Crossroads_18/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_19/_Enemies/Hatcher,Aspid Mother,10,0,0,10,12
+Crossroads_19/_Enemies/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_19/_Enemies/Zombie Leaper,Leaping Husk,3,0,0,3,4
+Crossroads_19/_Scenery/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner,Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (1),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (10),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (11),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (12),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (13),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (14),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (2),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (3),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (4),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (5),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (6),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (7),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (8),Aspid Hatchling,0,0,0,0,0
+Crossroads_19/Hatcher Cage (1)/Hatcher Baby Spawner (9),Aspid Hatchling,0,0,0,0,0
+Crossroads_21/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_21/non_infected_event/Zombie Guard,Husk Guard,20,5,0,45,54
+Crossroads_21/non_infected_event/Zombie Leaper,Leaping Husk,3,0,0,3,4
+Crossroads_21/non_infected_event/Zombie Runner,Wandering Husk,3,0,0,3,4
+Crossroads_21/Zombie Barger,Husk Bully,3,0,0,3,4
+Crossroads_21/Zombie Barger (1),Husk Bully,3,0,0,3,4
+Crossroads_22/Battle Scene/Wave 1/Hatcher Summon/Hatcher NP,Aspid Mother,10,0,0,10,12
+Crossroads_22/Battle Scene/Wave 1/Spitter Summon v2/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_22/Battle Scene/Wave 2/Hatcher Summon (1)/Hatcher NP,Aspid Mother,10,0,0,10,12
+Crossroads_22/Battle Scene/Wave 2/Spitter Summon v2 (1)/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_22/Battle Scene/Wave 2/Spitter Summon v2/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_22/Battle Scene/Wave 3/Spitter Summon v2 (1)/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_22/Battle Scene/Wave 3/Spitter Summon v2 (2)/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_22/Battle Scene/Wave 3/Spitter Summon v2 (3)/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_22/Battle Scene/Wave 4/Hatcher Summon (2)/Hatcher NP,Aspid Mother,10,0,0,10,12
+Crossroads_22/Battle Scene/Wave 4/Hatcher Summon (3)/Hatcher NP,Aspid Mother,10,0,0,10,12
+Crossroads_22/Battle Scene/Wave 4/Spitter Summon v2 (3)/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_22/Battle Scene/Wave 4/Spitter Summon v2 (4)/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_22/Hatcher,Aspid Mother,10,0,0,10,12
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner,Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (1),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (10),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (11),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (12),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (13),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (14),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (15),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (16),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (17),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (18),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (19),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (2),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (20),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (21),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (22),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (3),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (4),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (5),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (6),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (7),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (8),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Hatcher Cage (2)/Hatcher Baby Spawner (9),Aspid Hatchling,0,0,0,0,0
+Crossroads_22/Spitter,Aspid Hunter,6,0,0,6,8
+Crossroads_22/Spitter (1),Aspid Hunter,0,0,0,0,0
+Crossroads_22/Spitter (2),Aspid Hunter,0,0,0,0,0
+Crossroads_22/Spitter (3),Aspid Hunter,0,0,0,0,0
+Crossroads_25/_Enemies/Fly (3),Gruzzer,2,0,0,2,3
+Crossroads_25/Fly,Gruzzer,2,0,0,2,3
+Crossroads_25/Uninfected Parent/Fly (2),Gruzzer,2,0,0,2,3
+Crossroads_27/_Enemies/Hatcher,Aspid Mother,10,0,0,10,12
+Crossroads_27/_Enemies/Hatcher 1,Aspid Mother,10,0,0,10,12
+Crossroads_27/_Enemies/Hatcher 2,Aspid Mother,10,0,0,10,12
+Crossroads_27/_Props/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner,Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (1),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (10),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (11),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (12),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (13),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (14),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (2),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (3),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (4),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (5),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (6),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (7),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (8),Aspid Hatchling,0,0,0,0,0
+Crossroads_27/Hatcher Cage/Hatcher Baby Spawner (9),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/_Enemies/Hatcher,Aspid Mother,10,0,0,10,12
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner,Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (1),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (10),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (11),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (12),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (13),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (14),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (2),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (3),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (4),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (5),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (6),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (7),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (8),Aspid Hatchling,0,0,0,0,0
+Crossroads_35/Hatcher Cage (2)/Hatcher Baby Spawner (9),Aspid Hatchling,0,0,0,0,0
+Crossroads_36/_Props/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_37/_Enemies/Zombie Barger,Husk Bully,3,0,0,3,4
+Crossroads_37/_Enemies/Zombie Barger (1),Husk Bully,3,0,0,3,4
+Crossroads_37/_Enemies/Zombie Barger 1,Husk Bully,3,0,0,3,4
+Crossroads_37/_Enemies/Zombie Barger 3,Husk Bully,3,0,0,3,4
+Crossroads_37/_Enemies/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Crossroads_37/_Enemies/Zombie Hornhead 1,Husk Hornhead,4,0,0,4,5
+Crossroads_37/_Enemies/Zombie Hornhead 2,Husk Hornhead,4,0,0,4,5
+Crossroads_37/_Enemies/Zombie Leaper,Leaping Husk,3,0,0,3,4
+Crossroads_37/_Enemies/Zombie Runner 1,Wandering Husk,3,0,0,3,4
+Crossroads_37/_Props/Geo Rock 2,Geo Rock,2,5,5,15,15
+Crossroads_37/Zombie Barger,Husk Bully,3,0,0,3,4
+Crossroads_37/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Crossroads_37/Zombie Leaper,Leaping Husk,3,0,0,3,4
+Crossroads_37/Zombie Runner (1),Wandering Husk,3,0,0,3,4
+Crossroads_38/Loose Rewards/Shiny Item Relic2,Hallownest Seal,,,,450,450
+Crossroads_38/Loose Rewards/Shiny Item Relic3,King's Idol,,,,800,800
+Crossroads_39/_Enemies/Zombie Hornhead 1,Husk Hornhead,4,0,0,4,5
+Crossroads_39/non_infected_event/Zombie Runner,Wandering Husk,3,0,0,3,4
+Crossroads_39/non_infected_event/Zombie Runner 1,Wandering Husk,3,0,0,3,4
+Crossroads_40/_Enemies/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Crossroads_40/Uninfected Parent/Zombie Leaper,Leaping Husk,3,0,0,3,4
+Crossroads_40/Uninfected Parent/Zombie Leaper 1,Leaping Husk,3,0,0,3,4
+Crossroads_40/Uninfected Parent/Zombie Runner 2,Wandering Husk,3,0,0,3,4
+Crossroads_42/_Enemies/Buzzer 3,Vengefly,3,0,0,3,4
+Crossroads_42/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_42/Geo Rock 2,Geo Rock,2,5,5,15,15
+Crossroads_42/Uninfected Parent/Buzzer,Vengefly,3,0,0,3,4
+Crossroads_42/Uninfected Parent/Buzzer 1,Vengefly,3,0,0,3,4
+Crossroads_42/Uninfected Parent/Buzzer 2,Vengefly,3,0,0,3,4
+Crossroads_46/_Props/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_48/Zombie Guard,Husk Guard,20,5,0,45,54
+Crossroads_50/Buzzer,Vengefly,3,0,0,3,4
+Crossroads_50/Buzzer (1),Vengefly,3,0,0,3,4
+Crossroads_50/Buzzer (2),Vengefly,3,0,0,3,4
+Crossroads_50/Climber,Tiktik,2,0,0,2,3
+Crossroads_50/Crawler,Crawlid,2,0,0,2,3
+Crossroads_50/Egg Sac,Bluggsac,0,0,0,0,0
+Crossroads_52/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_52/Geo Rock 2,Geo Rock,2,5,5,15,15
+Crossroads_ShamanTemple/_Enemies/Buzzer,Vengefly,3,0,0,3,4
+Crossroads_ShamanTemple/_Enemies/Buzzer 1,Vengefly,3,0,0,3,4
+Crossroads_ShamanTemple/_Enemies/Climber,Tiktik,2,0,0,2,3
+Crossroads_ShamanTemple/_Enemies/Roller,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Roller 1,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Roller 10,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Roller 11,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Roller 2,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Roller 3,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Roller 4,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Roller 6,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Roller 7,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Roller 8,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Roller 9,Baldur,4,0,0,4,5
+Crossroads_ShamanTemple/_Enemies/Zombie Runner,Wandering Husk,3,0,0,3,4
+Crossroads_ShamanTemple/_Items/Geo Rock 1,Geo Rock,2,5,5,15,15
+Crossroads_ShamanTemple/_Items/Geo Rock 2,Geo Rock,2,5,5,15,15
+Crossroads_ShamanTemple/Battle Scene/Blocker,Elder Baldur,25,5,0,50,61
+Crossroads_ShamanTemple/Geo Rock 2,Geo Rock,2,5,5,15,15
+Crossroads_ShamanTemple/Geo Rock 2 (1),Geo Rock,2,5,5,15,15
+Deepnest_01/_Props/Geo Rock 1,Geo Rock,2,5,5,15,15
+Deepnest_01/_Props/Geo Rock 2,Geo Rock,2,5,5,15,15
+Deepnest_01b/_Enemies/Baby Centipede,Dirtcarver,1,1,0,6,12
+Deepnest_01b/_Enemies/Baby Centipede (1),Dirtcarver,1,1,0,6,12
+Deepnest_01b/_Enemies/Baby Centipede (10),Dirtcarver,1,1,0,6,12
+Deepnest_01b/_Enemies/Baby Centipede (2),Dirtcarver,1,1,0,6,12
+Deepnest_01b/_Enemies/Baby Centipede (3),Dirtcarver,1,1,0,6,12
+Deepnest_01b/_Enemies/Baby Centipede (4),Dirtcarver,1,1,0,6,12
+Deepnest_01b/_Enemies/Baby Centipede (5),Dirtcarver,1,1,0,6,12
+Deepnest_01b/_Enemies/Baby Centipede (6),Dirtcarver,1,1,0,6,12
+Deepnest_01b/_Enemies/Baby Centipede (7),Dirtcarver,1,1,0,6,12
+Deepnest_01b/_Enemies/Baby Centipede (8),Dirtcarver,1,1,0,6,12
+Deepnest_01b/_Enemies/Baby Centipede (9),Dirtcarver,1,1,0,6,12
+Deepnest_02/Baby Centipede,Dirtcarver,1,1,0,6,12
+Deepnest_02/Baby Centipede (1),Dirtcarver,1,1,0,6,12
+Deepnest_02/Baby Centipede (2),Dirtcarver,1,1,0,6,12
+Deepnest_02/Baby Centipede (3),Dirtcarver,1,1,0,6,12
+Deepnest_02/Baby Centipede (4),Dirtcarver,1,1,0,6,12
+Deepnest_02/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Deepnest_02/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Deepnest_02/Spider Mini,Deephunter,2,1,0,7,13
+Deepnest_02/Spider Mini (1),Deephunter,2,1,0,7,13
+Deepnest_03/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Deepnest_03/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Deepnest_03/Geo Rock Deepnest (2),Geo Rock,0,3,15,15,15
+Deepnest_03/Spider Mini,Deephunter,2,1,0,7,13
+Deepnest_03/Spider Mini (1),Deephunter,2,1,0,7,13
+Deepnest_03/Spider Mini (2),Deephunter,2,1,0,7,13
+Deepnest_03/Spider Mini (4),Deephunter,2,1,0,7,13
+Deepnest_03/Spider Mini (5),Deephunter,2,1,0,7,13
+Deepnest_03/Spider Mini (6),Deephunter,2,1,0,7,13
+Deepnest_03/Spider Mini (7),Deephunter,2,1,0,7,13
+Deepnest_03/Zombie Hornhead Sp,Husk Hornhead,4,0,0,4,5
+Deepnest_03/Zombie Hornhead Sp (2),Husk Hornhead,4,0,0,4,5
+Deepnest_03/Zombie Hornhead Sp (3),Husk Hornhead,4,0,0,4,5
+Deepnest_03/Zombie Hornhead Sp (4),Husk Hornhead,4,0,0,4,5
+Deepnest_03/Zombie Runner Sp,Wandering Husk,3,0,0,3,4
+Deepnest_03/Zombie Runner Sp (2),Wandering Husk,3,0,0,3,4
+Deepnest_03/Zombie Runner Sp (5),Wandering Husk,3,0,0,3,4
+Deepnest_16/Baby Centipede,Dirtcarver,1,1,0,6,12
+Deepnest_16/Baby Centipede (1),Dirtcarver,1,1,0,6,12
+Deepnest_16/Baby Centipede (2),Dirtcarver,1,1,0,6,12
+Deepnest_16/Baby Centipede (3),Dirtcarver,1,1,0,6,12
+Deepnest_16/Baby Centipede (4),Dirtcarver,1,1,0,6,12
+Deepnest_16/Baby Centipede (5),Dirtcarver,1,1,0,6,12
+Deepnest_16/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Deepnest_16/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Deepnest_16/Geo Rock Deepnest (2),Geo Rock,0,3,15,15,15
+Deepnest_16/Geo Rock Deepnest (3),Geo Rock,0,3,15,15,15
+Deepnest_16/Geo Rock Deepnest (4),Geo Rock,0,3,15,15,15
+Deepnest_16/Shiny Item,Hallownest Seal,,,,450,450
+Deepnest_16/Spider Mini,Deephunter,2,1,0,7,13
+Deepnest_16/Spider Mini (1),Deephunter,2,1,0,7,13
+Deepnest_16/Spider Mini (2),Deephunter,2,1,0,7,13
+Deepnest_16/Spider Mini (3),Deephunter,2,1,0,7,13
+Deepnest_16/Spider Mini (4),Deephunter,2,1,0,7,13
+Deepnest_16/Spider Mini (5),Deephunter,2,1,0,7,13
+Deepnest_16/Spider Mini (6),Deephunter,2,1,0,7,13
+Deepnest_16/Spider Mini (7),Deephunter,2,1,0,7,13
+Deepnest_17/Baby Centipede,Dirtcarver,1,1,0,6,12
+Deepnest_17/Baby Centipede (1),Dirtcarver,1,1,0,6,12
+Deepnest_17/Baby Centipede (2),Dirtcarver,1,1,0,6,12
+Deepnest_26/Centipede Cage/Baby Centipede Spawner,Dirtcarver,1,1,0,6,12
+Deepnest_26/Centipede Cage/Baby Centipede Spawner (1),Dirtcarver,1,1,0,6,12
+Deepnest_26/Centipede Cage/Baby Centipede Spawner (2),Dirtcarver,1,1,0,6,12
+Deepnest_26/Centipede Cage/Baby Centipede Spawner (3),Dirtcarver,1,1,0,6,12
+Deepnest_26/Centipede Cage/Baby Centipede Spawner (4),Dirtcarver,1,1,0,6,12
+Deepnest_26/Centipede Cage/Baby Centipede Spawner (5),Dirtcarver,1,1,0,6,12
+Deepnest_26/Centipede Hatcher,Carver Hatcher,10,3,0,25,32
+Deepnest_26/Centipede Hatcher (2),Carver Hatcher,10,3,0,25,32
+Deepnest_26b/Centipede Cage/Baby Centipede Spawner,Dirtcarver,1,1,0,6,12
+Deepnest_26b/Centipede Cage/Baby Centipede Spawner (1),Dirtcarver,1,1,0,6,12
+Deepnest_26b/Centipede Cage/Baby Centipede Spawner (2),Dirtcarver,1,1,0,6,12
+Deepnest_26b/Centipede Cage/Baby Centipede Spawner (3),Dirtcarver,1,1,0,6,12
+Deepnest_26b/Centipede Cage/Baby Centipede Spawner (4),Dirtcarver,1,1,0,6,12
+Deepnest_26b/Centipede Cage/Baby Centipede Spawner (5),Dirtcarver,1,1,0,6,12
+Deepnest_26b/Centipede Hatcher (4),Carver Hatcher,10,3,0,25,32
+Deepnest_26b/Centipede Hatcher (5),Carver Hatcher,10,3,0,25,32
+Deepnest_26b/Centipede Hatcher (7),Carver Hatcher,10,3,0,25,32
+Deepnest_26b/Centipede Hatcher (9),Carver Hatcher,10,3,0,25,32
+Deepnest_30/_Enemies/Baby Centipede,Dirtcarver,1,1,0,6,12
+Deepnest_30/_Enemies/Baby Centipede (1),Dirtcarver,1,1,0,6,12
+Deepnest_30/_Enemies/Baby Centipede (2),Dirtcarver,1,1,0,6,12
+Deepnest_31/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Deepnest_31/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Deepnest_31/Geo Rock Deepnest (2),Geo Rock,0,3,15,15,15
+Deepnest_32/Mimic Spider,Nosk,0,0,0,0,0
+Deepnest_33/Battle Scene v2/Wave 1/Zombie Spider 1,Corpse Creeper,10,0,0,10,12
+Deepnest_33/Battle Scene v2/Wave 1/Zombie Spider 1 (1),Corpse Creeper,10,0,0,10,12
+Deepnest_33/Battle Scene v2/Wave 1/Zombie Spider 2,Corpse Creeper,10,0,0,10,12
+Deepnest_33/Battle Scene v2/Wave 1/Zombie Spider 2 (1),Corpse Creeper,10,0,0,10,12
+Deepnest_33/Battle Scene v2/Wave 2/Zombie Spider 1 (1),Corpse Creeper,10,0,0,10,12
+Deepnest_33/Battle Scene v2/Wave 2/Zombie Spider 2 (1),Corpse Creeper,10,0,0,10,12
+Deepnest_33/Battle Scene v2/Wave 3/Zombie Spider 1 (1),Corpse Creeper,10,0,0,10,12
+Deepnest_33/Battle Scene v2/Wave 3/Zombie Spider 2 (1),Corpse Creeper,10,0,0,10,12
+Deepnest_33/Battle Scene v2/Wave 4/Zombie Spider 1 (1),Corpse Creeper,10,0,0,10,12
+Deepnest_33/Battle Scene v2/Wave 4/Zombie Spider 2 (1),Corpse Creeper,10,0,0,10,12
+Deepnest_33/Shiny Item,King's Idol,,,,800,800
+Deepnest_33/Spider Mini (1),Deephunter,2,1,0,7,13
+Deepnest_33/Spider Mini (2),Deephunter,2,1,0,7,13
+Deepnest_33/Spider Mini (3),Deephunter,2,1,0,7,13
+Deepnest_33/Spider Mini (4),Deephunter,2,1,0,7,13
+Deepnest_33/Spider Mini (5),Deephunter,2,1,0,7,13
+Deepnest_33/Zombie Hornhead Sp,Husk Hornhead,4,0,0,4,5
+Deepnest_33/Zombie Hornhead Sp (1),Husk Hornhead,4,0,0,4,5
+Deepnest_33/Zombie Hornhead Sp (2),Husk Hornhead,4,0,0,4,5
+Deepnest_33/Zombie Runner Sp (1),Wandering Husk,3,0,0,3,4
+Deepnest_34/Slash Spider,Stalking Devout,8,2,1,43,75
+Deepnest_34/Spider Mini,Deephunter,2,1,0,7,13
+Deepnest_34/Zombie Hornhead Sp,Husk Hornhead,4,0,0,4,5
+Deepnest_34/Zombie Runner Sp,Wandering Husk,3,0,0,3,4
+Deepnest_34/Zombie Runner Sp (1),Wandering Husk,3,0,0,3,4
+Deepnest_35/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Deepnest_35/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Deepnest_35/Spider Mini,Deephunter,2,1,0,7,13
+Deepnest_35/Spider Mini (1),Deephunter,2,1,0,7,13
+Deepnest_35/Spider Mini (2),Deephunter,2,1,0,7,13
+Deepnest_35/Spider Mini (3),Deephunter,2,1,0,7,13
+Deepnest_35/Spider Mini (5),Deephunter,2,1,0,7,13
+Deepnest_35/Spider Mini (6),Deephunter,2,1,0,7,13
+Deepnest_35/Zombie Hornhead Sp,Husk Hornhead,4,0,0,4,5
+Deepnest_35/Zombie Hornhead Sp (2),Husk Hornhead,4,0,0,4,5
+Deepnest_35/Zombie Runner Sp,Wandering Husk,3,0,0,3,4
+Deepnest_36/Grub Mimic Top (1)/Grub Mimic 2,Grub Mimic,0,0,0,0,0
+Deepnest_36/Grub Mimic Top (2)/Grub Mimic 3,Grub Mimic,0,0,0,0,0
+Deepnest_36/Grub Mimic Top/Grub Mimic 1,Grub Mimic,0,0,0,0,0
+Deepnest_37/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Deepnest_37/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Deepnest_38/Baby Centipede,Dirtcarver,1,1,0,6,12
+Deepnest_39/Egg Sac,Bluggsac,0,0,0,0,0
+Deepnest_39/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Deepnest_39/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Deepnest_39/Geo Rock Deepnest (2),Geo Rock,0,3,15,15,15
+Deepnest_39/Slash Spider,Stalking Devout,8,2,1,43,75
+Deepnest_39/Slash Spider (2),Stalking Devout,8,2,1,43,75
+Deepnest_39/Slash Spider (3),Stalking Devout,8,2,1,43,75
+Deepnest_39/Slash Spider (4),Stalking Devout,8,2,1,43,75
+Deepnest_39/Spider Flyer,Little Weaver,7,2,0,17,24
+Deepnest_39/Spider Flyer (1),Little Weaver,7,2,0,17,24
+Deepnest_39/Spider Flyer (10),Little Weaver,7,2,0,17,24
+Deepnest_39/Spider Flyer (11),Little Weaver,7,2,0,17,24
+Deepnest_39/Spider Flyer (12),Little Weaver,7,2,0,17,24
+Deepnest_39/Spider Flyer (2),Little Weaver,7,2,0,17,24
+Deepnest_39/Spider Flyer (4),Little Weaver,7,2,0,17,24
+Deepnest_39/Spider Flyer (5),Little Weaver,7,2,0,17,24
+Deepnest_39/Spider Flyer (6),Little Weaver,7,2,0,17,24
+Deepnest_39/Spider Flyer (8),Little Weaver,7,2,0,17,24
+Deepnest_39/Spider Flyer (9),Little Weaver,7,2,0,17,24
+Deepnest_39/Tiny Spider,Deepling,0,0,0,0,0
+Deepnest_39/Tiny Spider (2),Deepling,0,0,0,0,0
+Deepnest_39/Tiny Spider (4),Deepling,0,0,0,0,0
+Deepnest_39/Tiny Spider (5),Deepling,0,0,0,0,0
+Deepnest_39/Tiny Spider (6),Deepling,0,0,0,0,0
+Deepnest_39/Tiny Spider (7),Deepling,0,0,0,0,0
+Deepnest_41/Slash Spider,Stalking Devout,8,2,1,43,75
+Deepnest_41/Spider Flyer,Little Weaver,7,2,0,17,24
+Deepnest_41/Spider Flyer (1),Little Weaver,7,2,0,17,24
+Deepnest_41/Spider Flyer (2),Little Weaver,7,2,0,17,24
+Deepnest_41/Spider Flyer (3),Little Weaver,7,2,0,17,24
+Deepnest_41/Spider Flyer (4),Little Weaver,7,2,0,17,24
+Deepnest_41/Spider Flyer (5),Little Weaver,7,2,0,17,24
+Deepnest_41/Spider Mini,Deephunter,2,1,0,7,13
+Deepnest_41/Spider Mini (1),Deephunter,2,1,0,7,13
+Deepnest_41/Spider Mini (2),Deephunter,2,1,0,7,13
+Deepnest_41/Tiny Spider,Deepling,0,0,0,0,0
+Deepnest_41/Tiny Spider (1),Deepling,0,0,0,0,0
+Deepnest_42/Spider Flyer,Little Weaver,7,2,0,17,24
+Deepnest_42/Spider Flyer (1),Little Weaver,7,2,0,17,24
+Deepnest_42/Spider Flyer (2),Little Weaver,7,2,0,17,24
+Deepnest_42/Spider Flyer (3),Little Weaver,7,2,0,17,24
+Deepnest_42/Spider Flyer (4),Little Weaver,7,2,0,17,24
+Deepnest_42/Spider Flyer (5),Little Weaver,7,2,0,17,24
+Deepnest_42/Spider Flyer (6),Little Weaver,7,2,0,17,24
+Deepnest_42/Spider Flyer (7),Little Weaver,7,2,0,17,24
+Deepnest_42/Spider Mini,Deephunter,2,1,0,7,13
+Deepnest_42/Spider Mini (1),Deephunter,2,1,0,7,13
+Deepnest_42/Spider Mini (2),Deephunter,2,1,0,7,13
+Deepnest_42/Spider Mini (3),Deephunter,2,1,0,7,13
+Deepnest_42/Tiny Spider,Deepling,0,0,0,0,0
+Deepnest_42/Tiny Spider (1),Deepling,0,0,0,0,0
+Deepnest_43/Garden Zombie,Spiny Husk,2,2,0,12,18
+Deepnest_43/Garden Zombie (1),Spiny Husk,2,2,0,12,18
+Deepnest_43/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Deepnest_43/Geo Rock Green Path 01 (1),Geo Rock,4,5,6,26,26
+Deepnest_43/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Deepnest_43/Moss Flyer,Mossfly,2,0,0,2,3
+Deepnest_43/Moss Flyer (1),Mossfly,2,0,0,2,3
+Deepnest_43/Moss Walker,Mosscreep,2,0,0,2,3
+Deepnest_45_v02/Spider Mini,Deephunter,2,1,0,7,13
+Deepnest_45_v02/Spider Mini (1),Deephunter,2,1,0,7,13
+Deepnest_45_v02/Spider Mini (2),Deephunter,2,1,0,7,13
+Deepnest_45_v02/Spider Mini (5),Deephunter,2,1,0,7,13
+Deepnest_45_v02/Spider Mini (6),Deephunter,2,1,0,7,13
+Deepnest_East_01/Bee Hatchling Ambient,Hiveling,0,0,0,0,0
+Deepnest_East_01/Bee Hatchling Ambient (1),Hiveling,0,0,0,0,0
+Deepnest_East_01/Bee Hatchling Ambient (2),Hiveling,0,0,0,0,0
+Deepnest_East_01/Bee Hatchling Ambient (3),Hiveling,0,0,0,0,0
+Deepnest_East_01/Bee Hatchling Ambient (4),Hiveling,0,0,0,0,0
+Deepnest_East_01/Blow Fly,Boofly,8,0,0,8,10
+Deepnest_East_01/Blow Fly (1),Boofly,8,0,0,8,10
+Deepnest_East_01/Blow Fly (2),Boofly,8,0,0,8,10
+Deepnest_East_01/Blow Fly (3),Boofly,8,0,0,8,10
+Deepnest_East_01/Blow Fly (4),Boofly,8,0,0,8,10
+Deepnest_East_01/Blow Fly (5),Boofly,8,0,0,8,10
+Deepnest_East_01/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Deepnest_East_01/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Deepnest_East_02/_Props/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Deepnest_East_02/_Props/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Deepnest_East_02/Bee Hatchling Ambient,Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (1),Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (10),Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (11),Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (2),Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (3),Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (4),Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (5),Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (6),Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (7),Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (8),Hiveling,0,0,0,0,0
+Deepnest_East_02/Bee Hatchling Ambient (9),Hiveling,0,0,0,0,0
+Deepnest_East_03/Blow Fly,Boofly,8,0,0,8,10
+Deepnest_East_03/Blow Fly (1),Boofly,8,0,0,8,10
+Deepnest_East_03/Blow Fly (2),Boofly,8,0,0,8,10
+Deepnest_East_03/Blow Fly (3),Boofly,8,0,0,8,10
+Deepnest_East_03/Blow Fly (4),Boofly,8,0,0,8,10
+Deepnest_East_03/Blow Fly (5),Boofly,8,0,0,8,10
+Deepnest_East_04/Blow Fly,Boofly,8,0,0,8,10
+Deepnest_East_04/Blow Fly (2),Boofly,8,0,0,8,10
+Deepnest_East_04/Blow Fly (3),Boofly,8,0,0,8,10
+Deepnest_East_04/Geo Rock Outskirts,Geo Rock,6,5,14,44,44
+Deepnest_East_04/Super Spitter,Primal Aspid,6,0,0,6,8
+Deepnest_East_04/Super Spitter (1),Primal Aspid,6,0,0,6,8
+Deepnest_East_04/Super Spitter (2),Primal Aspid,6,0,0,6,8
+Deepnest_East_04/Super Spitter (3),Primal Aspid,6,0,0,6,8
+Deepnest_East_04/Super Spitter (4),Primal Aspid,6,0,0,6,8
+Deepnest_East_06/Geo Rock Outskirts,Geo Rock,6,5,14,44,44
+Deepnest_East_06/Geo Rock Outskirts (1),Geo Rock,6,5,14,44,44
+Deepnest_East_06/Giant Hopper (1),Great Hopper,5,0,1,30,56
+Deepnest_East_06/Giant Hopper (2),Great Hopper,5,0,1,30,56
+Deepnest_East_06/Hopper,Hopper,6,2,0,16,23
+Deepnest_East_06/Hopper (1),Hopper,6,2,0,16,23
+Deepnest_East_06/Hopper (3),Hopper,6,2,0,16,23
+Deepnest_East_06/Hopper (4),Hopper,6,2,0,16,23
+Deepnest_East_06/Hopper (5),Hopper,6,2,0,16,23
+Deepnest_East_06/Hopper (6),Hopper,6,2,0,16,23
+Deepnest_East_06/Hopper (7),Hopper,6,2,0,16,23
+Deepnest_East_06/Hopper (8),Hopper,6,2,0,16,23
+Deepnest_East_06/Hopper (9),Hopper,6,2,0,16,23
+Deepnest_East_06/Hopper Spawn/Giant Hopper,Great Hopper,5,0,1,30,56
+Deepnest_East_06/Super Spitter,Primal Aspid,6,0,0,6,8
+Deepnest_East_06/Super Spitter (1),Primal Aspid,6,0,0,6,8
+Deepnest_East_06/Super Spitter (2),Primal Aspid,6,0,0,6,8
+Deepnest_East_07/Blow Fly,Boofly,8,0,0,8,10
+Deepnest_East_07/Blow Fly (1),Boofly,8,0,0,8,10
+Deepnest_East_07/Blow Fly (2),Boofly,8,0,0,8,10
+Deepnest_East_07/Ceiling Dropper,Belfly,0,0,0,0,0
+Deepnest_East_07/Ceiling Dropper (1),Belfly,0,0,0,0,0
+Deepnest_East_07/Ceiling Dropper (2),Belfly,0,0,0,0,0
+Deepnest_East_07/Ceiling Dropper (4),Belfly,0,0,0,0,0
+Deepnest_East_07/Ceiling Dropper (5),Belfly,0,0,0,0,0
+Deepnest_East_07/Ceiling Dropper (6),Belfly,0,0,0,0,0
+Deepnest_East_07/Ceiling Dropper (7),Belfly,0,0,0,0,0
+Deepnest_East_07/Geo Rock Outskirts,Geo Rock,6,5,14,44,44
+Deepnest_East_07/Geo Rock Outskirts (1),Geo Rock,6,5,14,44,44
+Deepnest_East_07/Hopper,Hopper,6,2,0,16,23
+Deepnest_East_07/Hopper (10),Hopper,6,2,0,16,23
+Deepnest_East_07/Hopper (11),Hopper,6,2,0,16,23
+Deepnest_East_07/Hopper (12),Hopper,6,2,0,16,23
+Deepnest_East_07/Hopper (13),Hopper,6,2,0,16,23
+Deepnest_East_07/Hopper (14),Hopper,6,2,0,16,23
+Deepnest_East_07/Hopper (3),Hopper,6,2,0,16,23
+Deepnest_East_07/Hopper (4),Hopper,6,2,0,16,23
+Deepnest_East_07/Hopper (6),Hopper,6,2,0,16,23
+Deepnest_East_07/Hopper (8),Hopper,6,2,0,16,23
+Deepnest_East_07/Hopper (9),Hopper,6,2,0,16,23
+Deepnest_East_07/Shiny Item,Wanderer's Journal,,,,200,200
+Deepnest_East_07/Super Spitter,Primal Aspid,6,0,0,6,8
+Deepnest_East_07/Super Spitter (1),Primal Aspid,6,0,0,6,8
+Deepnest_East_07/Super Spitter (2),Primal Aspid,6,0,0,6,8
+Deepnest_East_07/Super Spitter (4),Primal Aspid,6,0,0,6,8
+Deepnest_East_07/Super Spitter (5),Primal Aspid,6,0,0,6,8
+Deepnest_East_08/Ceiling Dropper,Belfly,0,0,0,0,0
+Deepnest_East_08/Ceiling Dropper (1),Belfly,0,0,0,0,0
+Deepnest_East_08/Ceiling Dropper (2),Belfly,0,0,0,0,0
+Deepnest_East_08/Ceiling Dropper (3),Belfly,0,0,0,0,0
+Deepnest_East_08/Geo Rock Outskirts,Geo Rock,6,5,14,44,44
+Deepnest_East_08/Hopper,Hopper,6,2,0,16,23
+Deepnest_East_08/Hopper (1),Hopper,6,2,0,16,23
+Deepnest_East_08/Hopper (2),Hopper,6,2,0,16,23
+Deepnest_East_08/Hopper (3),Hopper,6,2,0,16,23
+Deepnest_East_08/Hopper (4),Hopper,6,2,0,16,23
+Deepnest_East_08/Hopper (5),Hopper,6,2,0,16,23
+Deepnest_East_08/Hopper (6),Hopper,6,2,0,16,23
+Deepnest_East_08/Hopper (7),Hopper,6,2,0,16,23
+Deepnest_East_08/Hopper (8),Hopper,6,2,0,16,23
+Deepnest_East_08/Shiny Item,King's Idol,,,,800,800
+Deepnest_East_09/Ceiling Dropper,Belfly,0,0,0,0,0
+Deepnest_East_09/Ceiling Dropper (1),Belfly,0,0,0,0,0
+Deepnest_East_09/Ceiling Dropper (2),Belfly,0,0,0,0,0
+Deepnest_East_09/Ceiling Dropper (3),Belfly,0,0,0,0,0
+Deepnest_East_09/Ceiling Dropper (4),Belfly,0,0,0,0,0
+Deepnest_East_09/Ceiling Dropper (5),Belfly,0,0,0,0,0
+Deepnest_East_09/Ceiling Dropper (6),Belfly,0,0,0,0,0
+Deepnest_East_11/Hopper (13),Hopper,6,2,0,16,23
+Deepnest_East_11/Hopper (3),Hopper,6,2,0,16,23
+Deepnest_East_11/Hopper (6),Hopper,6,2,0,16,23
+Deepnest_East_11/Hopper (7),Hopper,6,2,0,16,23
+Deepnest_East_11/Super Spitter,Primal Aspid,6,0,0,6,8
+Deepnest_East_11/Super Spitter (1),Primal Aspid,6,0,0,6,8
+Deepnest_East_11/Super Spitter (3),Primal Aspid,6,0,0,6,8
+Deepnest_East_11/Super Spitter (4),Primal Aspid,6,0,0,6,8
+Deepnest_East_13/Shiny Item,Wanderer's Journal,,,,200,200
+Deepnest_East_14/Egg Sac,Bluggsac,0,0,0,0,0
+Deepnest_East_14/Hopper (2),Hopper,6,2,0,16,23
+Deepnest_East_14/Hopper (3),Hopper,6,2,0,16,23
+Deepnest_East_14/Super Spitter,Primal Aspid,6,0,0,6,8
+Deepnest_East_14/Super Spitter (1),Primal Aspid,6,0,0,6,8
+Deepnest_East_14b/Bee Hatchling Ambient,Hiveling,0,0,0,0,0
+Deepnest_East_14b/Bee Hatchling Ambient (1),Hiveling,0,0,0,0,0
+Deepnest_East_14b/Bee Hatchling Ambient (2),Hiveling,0,0,0,0,0
+Deepnest_East_14b/Bee Hatchling Ambient (3),Hiveling,0,0,0,0,0
+Deepnest_East_14b/Bee Hatchling Ambient (4),Hiveling,0,0,0,0,0
+Deepnest_East_14b/Giant Hopper,Great Hopper,5,0,1,30,56
+Deepnest_East_14b/Hopper (4),Hopper,6,2,0,16,23
+Deepnest_East_14b/Super Spitter (2),Primal Aspid,6,0,0,6,8
+Deepnest_East_14b/Super Spitter (3),Primal Aspid,6,0,0,6,8
+Deepnest_East_14b/Super Spitter (4),Primal Aspid,6,0,0,6,8
+Deepnest_East_14b/Super Spitter (5),Primal Aspid,6,0,0,6,8
+Deepnest_East_17/Geo Rock Outskirts,Geo Rock,6,5,14,44,44
+Deepnest_East_17/Giant Geo Egg,Geo Rock,40,10,20,420,420
+Deepnest_East_17/Hopper,Hopper,6,2,0,16,23
+Deepnest_East_17/Hopper (1),Hopper,6,2,0,16,23
+Deepnest_East_17/Hopper (2),Hopper,6,2,0,16,23
+Deepnest_East_18/Hopper (10),Hopper,6,2,0,16,23
+Deepnest_East_18/Hopper (11),Hopper,6,2,0,16,23
+Deepnest_East_18/Hopper (12),Hopper,6,2,0,16,23
+Deepnest_East_18/Hopper (2),Hopper,6,2,0,16,23
+Deepnest_East_18/Hopper (5),Hopper,6,2,0,16,23
+Deepnest_East_18/Hopper (8),Hopper,6,2,0,16,23
+Deepnest_East_18/Hopper (9),Hopper,6,2,0,16,23
+Deepnest_East_18/Shiny Item,Wanderer's Journal,,,,200,200
+Deepnest_East_Hornet_boss/Hornet Boss 2,Hornet,0,0,0,0,0
+Deepnest_Spider_Town/Egg Sac,Bluggsac,0,0,0,0,0
+Deepnest_Spider_Town/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Deepnest_Spider_Town/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Deepnest_Spider_Town/Geo Rock Deepnest (2),Geo Rock,0,3,15,15,15
+Deepnest_Spider_Town/Geo Rock Deepnest (3),Geo Rock,0,3,15,15,15
+Deepnest_Spider_Town/Geo Rock Deepnest (4),Geo Rock,0,3,15,15,15
+Deepnest_Spider_Town/Geo Rock Deepnest (5),Geo Rock,0,3,20,20,20
+Deepnest_Spider_Town/Geo Rock Deepnest (6),Geo Rock,0,3,20,20,20
+Deepnest_Spider_Town/Geo Rock Deepnest (7),Geo Rock,0,3,30,30,30
+Deepnest_Spider_Town/Shiny Item,Hallownest Seal,,,,450,450
+Deepnest_Spider_Town/Slash Spider,Stalking Devout,8,2,1,43,75
+Deepnest_Spider_Town/Slash Spider (1),Stalking Devout,8,2,1,43,75
+Deepnest_Spider_Town/Slash Spider (2),Stalking Devout,8,2,1,43,75
+Deepnest_Spider_Town/Slash Spider (3),Stalking Devout,8,2,1,43,75
+Deepnest_Spider_Town/Slash Spider (4),Stalking Devout,8,2,1,43,75
+Deepnest_Spider_Town/Spider Mini,Deephunter,2,1,0,7,13
+Deepnest_Spider_Town/Spider Mini (1),Deephunter,2,1,0,7,13
+Deepnest_Spider_Town/Spider Mini (2),Deephunter,2,1,0,7,13
+Deepnest_Spider_Town/Spider Mini (3),Deephunter,2,1,0,7,13
+Deepnest_Spider_Town/Spider Mini (4),Deephunter,2,1,0,7,13
+Deepnest_Spider_Town/Tiny Spider,Deepling,0,0,0,0,0
+Deepnest_Spider_Town/Tiny Spider (1),Deepling,0,0,0,0,0
+Deepnest_Spider_Town/Tiny Spider (2),Deepling,0,0,0,0,0
+Deepnest_Spider_Town/Tiny Spider (3),Deepling,0,0,0,0,0
+Deepnest_Spider_Town/Tiny Spider (4),Deepling,0,0,0,0,0
+Deepnest_Spider_Town/Tiny Spider (5),Deepling,0,0,0,0,0
+Deepnest_Spider_Town/Tiny Spider (6),Deepling,0,0,0,0,0
+Deepnest_Spider_Town/Tiny Spider (7),Deepling,0,0,0,0,0
+Deepnest_Spider_Town/Tiny Spider (8),Deepling,0,0,0,0,0
+Deepnest_Spider_Town/Zombie Spider Wake/Zombie Spider 1 (1),Corpse Creeper,10,0,0,10,12
+Deepnest_Spider_Town/Zombie Spider Wake/Zombie Spider 2,Corpse Creeper,10,0,0,10,12
+Dream_03_Infected_Knight/Lost Kin,Lost Kin,0,0,0,0,0
+Dream_04_White_Defender/White Defender,White Defender,0,0,0,0,0
+Dream_Mighty_Zote/Grey Prince,Grey Prince Zote,0,0,0,0,0
+Dream_Mighty_Zote/Zote Balloon,Volatile Zoteling,0,0,0,0,0
+Dream_Mighty_Zote/Zote Balloon (1),Volatile Zoteling,0,0,0,0,0
+Dream_Mighty_Zote/Zote Balloon (2),Volatile Zoteling,0,0,0,0,0
+Dream_Mighty_Zote/Zote Balloon (3),Volatile Zoteling,0,0,0,0,0
+Dream_Mighty_Zote/Zoteling,Zoteling,0,0,0,0,0
+Dream_Mighty_Zote/Zoteling (1),Zoteling,0,0,0,0,0
+Dream_Mighty_Zote/Zoteling (2),Zoteling,0,0,0,0,0
+Dream_Mighty_Zote/Zoteling (3),Zoteling,0,0,0,0,0
+Fungus1_01/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_01/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_01/Moss Walker (1),Mosscreep,2,0,0,2,3
+Fungus1_01/Moss Walker (2),Mosscreep,2,0,0,2,3
+Fungus1_01/Moss Walker (3),Mosscreep,2,0,0,2,3
+Fungus1_01/Mossman_Runner,Mosskin,3,0,0,3,4
+Fungus1_01/Mossman_Shaker,Volatile Mosskin,5,0,0,5,6
+Fungus1_01/Mossman_Shaker (1),Volatile Mosskin,5,0,0,5,6
+Fungus1_01/Pigeon,Maskfly,0,0,0,0,0
+Fungus1_01/Pigeon (1),Maskfly,0,0,0,0,0
+Fungus1_01/Pigeon (2),Maskfly,0,0,0,0,0
+Fungus1_01/Pigeon (3),Maskfly,0,0,0,0,0
+Fungus1_01/Pigeon (4),Maskfly,0,0,0,0,0
+Fungus1_01/Pigeon (5),Maskfly,0,0,0,0,0
+Fungus1_01/Pigeon (6),Maskfly,0,0,0,0,0
+Fungus1_01/Pigeon (7),Maskfly,0,0,0,0,0
+Fungus1_01/Plant Trap,Fool Eater,9,0,0,9,11
+Fungus1_01b/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_01b/Pigeon,Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (1),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (10),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (11),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (12),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (13),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (14),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (15),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (16),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (17),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (2),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (3),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (4),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (5),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (6),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (7),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (8),Maskfly,0,0,0,0,0
+Fungus1_01b/Pigeon (9),Maskfly,0,0,0,0,0
+Fungus1_02/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_02/Geo Rock Green Path 01 (1),Geo Rock,4,5,6,26,26
+Fungus1_02/Mosquito,Squit,5,0,0,5,6
+Fungus1_02/Mossman_Shaker,Volatile Mosskin,5,0,0,5,6
+Fungus1_03/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_03/Geo Rock Green Path 01 (1),Geo Rock,4,5,6,26,26
+Fungus1_03/Geo Rock Green Path 01 (2),Geo Rock,4,5,6,26,26
+Fungus1_03/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_03/Moss Walker (1),Mosscreep,2,0,0,2,3
+Fungus1_03/Moss Walker (3),Mosscreep,2,0,0,2,3
+Fungus1_03/Moss Walker (4),Mosscreep,2,0,0,2,3
+Fungus1_03/Pigeon,Maskfly,0,0,0,0,0
+Fungus1_03/Pigeon (1),Maskfly,0,0,0,0,0
+Fungus1_03/Pigeon (2),Maskfly,0,0,0,0,0
+Fungus1_03/Pigeon (3),Maskfly,0,0,0,0,0
+Fungus1_03/Pigeon (5),Maskfly,0,0,0,0,0
+Fungus1_03/Plant Trap,Fool Eater,9,0,0,9,11
+Fungus1_03/Zombie Barger,Husk Bully,3,0,0,3,4
+Fungus1_03/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Fungus1_03/Zombie Runner,Wandering Husk,3,0,0,3,4
+Fungus1_03/Zombie Runner (1),Wandering Husk,3,0,0,3,4
+Fungus1_04/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_04_boss/Hornet Boss 1,Hornet,0,0,0,0,0
+Fungus1_05/Geo Rock 2,Geo Rock,2,5,5,15,15
+Fungus1_05/Mosquito,Squit,5,0,0,5,6
+Fungus1_05/Mosquito (1),Squit,5,0,0,5,6
+Fungus1_05/Mosquito (2),Squit,5,0,0,5,6
+Fungus1_05/Mosquito (3),Squit,5,0,0,5,6
+Fungus1_05/Mosquito (4),Squit,5,0,0,5,6
+Fungus1_05/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_05/Moss Walker (1),Mosscreep,2,0,0,2,3
+Fungus1_05/Moss Walker (2),Mosscreep,2,0,0,2,3
+Fungus1_05/Moss Walker (3),Mosscreep,2,0,0,2,3
+Fungus1_05/Mossman_Runner,Mosskin,3,0,0,3,4
+Fungus1_05/Mossman_Shaker,Volatile Mosskin,5,0,0,5,6
+Fungus1_05/Mossman_Shaker (1),Volatile Mosskin,5,0,0,5,6
+Fungus1_06/Mosquito,Squit,5,0,0,5,6
+Fungus1_06/Mosquito (1),Squit,5,0,0,5,6
+Fungus1_06/Mosquito (2),Squit,5,0,0,5,6
+Fungus1_06/Mosquito (3),Squit,5,0,0,5,6
+Fungus1_06/Mossman_Runner,Mosskin,3,0,0,3,4
+Fungus1_06/Mossman_Shaker,Volatile Mosskin,5,0,0,5,6
+Fungus1_06/Mossman_Shaker (1),Volatile Mosskin,5,0,0,5,6
+Fungus1_07/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_07/Mosquito,Squit,5,0,0,5,6
+Fungus1_07/Mosquito (2),Squit,5,0,0,5,6
+Fungus1_07/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_07/Mossman_Runner,Mosskin,3,0,0,3,4
+Fungus1_07/Mossman_Runner (1),Mosskin,3,0,0,3,4
+Fungus1_09/Acid Flyer,Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (1),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (10),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (11),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (12),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (13),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (14),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (15),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (16),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (17),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (2),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (3),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (4),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (5),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (6),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (7),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (8),Duranda,4,0,0,4,5
+Fungus1_09/Acid Flyer (9),Duranda,4,0,0,4,5
+Fungus1_10/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_10/Moss Charger,Moss Charger,8,0,0,8,10
+Fungus1_10/Moss Charger (1),Moss Charger,8,0,0,8,10
+Fungus1_10/Moss Charger 1 (1),Moss Charger,8,0,0,8,10
+Fungus1_10/Moss Charger 1 (2),Moss Charger,8,0,0,8,10
+Fungus1_10/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_10/Moss Walker (2),Mosscreep,2,0,0,2,3
+Fungus1_10/Moss Walker (3),Mosscreep,2,0,0,2,3
+Fungus1_10/Shiny Item,Hallownest Seal,,,,450,450
+Fungus1_11/Acid Walker,Durandoo,6,0,0,6,8
+Fungus1_11/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_11/Plant Turret,Gulka,6,0,0,6,8
+Fungus1_11/Plant Turret (2),Gulka,6,0,0,6,8
+Fungus1_11/Plant Turret (3),Gulka,6,0,0,6,8
+Fungus1_11/Shiny Item,Wanderer's Journal,,,,200,200
+Fungus1_12/Acid Walker,Durandoo,6,0,0,6,8
+Fungus1_12/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_12/Geo Rock Green Path 01 (1),Geo Rock,4,5,6,26,26
+Fungus1_12/Geo Rock Green Path 02,Geo Rock,4,5,10,30,30
+Fungus1_12/Pigeon,Maskfly,0,0,0,0,0
+Fungus1_12/Pigeon (1),Maskfly,0,0,0,0,0
+Fungus1_12/Pigeon (2),Maskfly,0,0,0,0,0
+Fungus1_12/Pigeon (3),Maskfly,0,0,0,0,0
+Fungus1_12/Pigeon (4),Maskfly,0,0,0,0,0
+Fungus1_12/Pigeon (5),Maskfly,0,0,0,0,0
+Fungus1_12/Pigeon (6),Maskfly,0,0,0,0,0
+Fungus1_12/Plant Turret,Gulka,6,0,0,6,8
+Fungus1_12/Plant Turret (2),Gulka,6,0,0,6,8
+Fungus1_12/Plant Turret (3),Gulka,6,0,0,6,8
+Fungus1_12/Plant Turret (4),Gulka,6,0,0,6,8
+Fungus1_12/Plant Turret (5),Gulka,6,0,0,6,8
+Fungus1_12/Plant Turret Right,Gulka,6,0,0,6,8
+Fungus1_13/Acid Walker,Durandoo,6,0,0,6,8
+Fungus1_13/Acid Walker (1),Durandoo,6,0,0,6,8
+Fungus1_13/Acid Walker (2),Durandoo,6,0,0,6,8
+Fungus1_13/Acid Walker (3),Durandoo,6,0,0,6,8
+Fungus1_13/Acid Walker (4),Durandoo,6,0,0,6,8
+Fungus1_13/Acid Walker (5),Durandoo,6,0,0,6,8
+Fungus1_13/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_13/Moss Walker (1),Mosscreep,2,0,0,2,3
+Fungus1_17/Mosquito,Squit,5,0,0,5,6
+Fungus1_17/Mosquito (1),Squit,5,0,0,5,6
+Fungus1_17/Moss Charger,Moss Charger,8,0,0,8,10
+Fungus1_19/_Enemies/Fat Fly,Obble,4,0,0,4,5
+Fungus1_19/_Enemies/Fat Fly 1,Obble,4,0,0,4,5
+Fungus1_19/_Enemies/Fat Fly 3,Obble,4,0,0,4,5
+Fungus1_19/_Enemies/Fat Fly 4,Obble,4,0,0,4,5
+Fungus1_19/_Enemies/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_19/_Enemies/Mossman_Shaker,Volatile Mosskin,5,0,0,5,6
+Fungus1_19/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_19/Plant Trap,Fool Eater,9,0,0,9,11
+Fungus1_20_v02/_Enemies/Buzzer,Vengefly,3,0,0,3,4
+Fungus1_20_v02/_Enemies/Buzzer 1,Vengefly,3,0,0,3,4
+Fungus1_20_v02/_Enemies/Buzzer 2,Vengefly,3,0,0,3,4
+Fungus1_20_v02/_Enemies/Buzzer 2 (1),Vengefly,3,0,0,3,4
+Fungus1_20_v02/_Enemies/Giant Buzzer,Vengefly King,40,5,0,65,78
+Fungus1_20_v02/Climber,Tiktik,2,0,0,2,3
+Fungus1_20_v02/Crawler,Crawlid,2,0,0,2,3
+Fungus1_20_v02/Crawler (1),Crawlid,2,0,0,2,3
+Fungus1_21/Battle Scene/Moss Knight,Moss Knight,30,2,0,40,51
+Fungus1_21/Geo Rock Green Path 02,Geo Rock,4,5,10,30,30
+Fungus1_21/Geo Rock Green Path 02 (1),Geo Rock,4,5,10,30,30
+Fungus1_21/Geo Rock Green Path 02 (2),Geo Rock,4,5,10,30,30
+Fungus1_21/Moss Charger,Moss Charger,8,0,0,8,10
+Fungus1_21/Moss Charger (1),Moss Charger,8,0,0,8,10
+Fungus1_21/Moss Charger (2),Moss Charger,8,0,0,8,10
+Fungus1_21/Moss Knight,Moss Knight,30,2,0,40,51
+Fungus1_21/Moss Knight (1),Moss Knight,30,2,0,40,51
+Fungus1_21/Moss Walker (1),Mosscreep,2,0,0,2,3
+Fungus1_22/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_22/Geo Rock Green Path 01 (1),Geo Rock,4,5,6,26,26
+Fungus1_22/Mosquito,Squit,5,0,0,5,6
+Fungus1_22/Mosquito (1),Squit,5,0,0,5,6
+Fungus1_22/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_22/Moss Walker (1),Mosscreep,2,0,0,2,3
+Fungus1_22/Mossman_Shaker,Volatile Mosskin,5,0,0,5,6
+Fungus1_22/Mossman_Shaker (1),Volatile Mosskin,5,0,0,5,6
+Fungus1_22/Mossman_Shaker (2),Volatile Mosskin,5,0,0,5,6
+Fungus1_22/Plant Trap,Fool Eater,9,0,0,9,11
+Fungus1_22/Plant Trap (1),Fool Eater,9,0,0,9,11
+Fungus1_22/Plant Trap (2),Fool Eater,9,0,0,9,11
+Fungus1_22/Plant Trap (3),Fool Eater,9,0,0,9,11
+Fungus1_22/Plant Trap (4),Fool Eater,9,0,0,9,11
+Fungus1_22/Plant Trap (5),Fool Eater,9,0,0,9,11
+Fungus1_22/Shiny Item,Wanderer's Journal,,,,200,200
+Fungus1_23/Grass Hopper,Loodle,9,0,0,9,11
+Fungus1_23/Grass Hopper (1),Loodle,9,0,0,9,11
+Fungus1_23/Grass Hopper (2),Loodle,9,0,0,9,11
+Fungus1_23/Grass Hopper (3),Loodle,9,0,0,9,11
+Fungus1_23/Grass Hopper (4),Loodle,9,0,0,9,11
+Fungus1_23/Grass Hopper (5),Loodle,9,0,0,9,11
+Fungus1_23/Grass Hopper (6),Loodle,9,0,0,9,11
+Fungus1_23/Grass Hopper (7),Loodle,9,0,0,9,11
+Fungus1_23/Pigeon,Maskfly,0,0,0,0,0
+Fungus1_23/Pigeon (1),Maskfly,0,0,0,0,0
+Fungus1_23/Pigeon (2),Maskfly,0,0,0,0,0
+Fungus1_23/Pigeon (3),Maskfly,0,0,0,0,0
+Fungus1_23/Pigeon (4),Maskfly,0,0,0,0,0
+Fungus1_24/Pigeon,Maskfly,0,0,0,0,0
+Fungus1_24/Pigeon (1),Maskfly,0,0,0,0,0
+Fungus1_24/Pigeon (2),Maskfly,0,0,0,0,0
+Fungus1_24/Pigeon (3),Maskfly,0,0,0,0,0
+Fungus1_24/Pigeon (4),Maskfly,0,0,0,0,0
+Fungus1_24/Pigeon (5),Maskfly,0,0,0,0,0
+Fungus1_24/Pigeon (6),Maskfly,0,0,0,0,0
+Fungus1_26/Lazy Flyer Enemy,Aluba,0,0,0,0,0
+Fungus1_26/Moss Knight,Moss Knight,30,2,0,40,51
+Fungus1_26/Pigeon,Maskfly,0,0,0,0,0
+Fungus1_26/Pigeon (1),Maskfly,0,0,0,0,0
+Fungus1_26/Pigeon (2),Maskfly,0,0,0,0,0
+Fungus1_26/Pigeon (3),Maskfly,0,0,0,0,0
+Fungus1_26/Pigeon (4),Maskfly,0,0,0,0,0
+Fungus1_26/Pigeon (5),Maskfly,0,0,0,0,0
+Fungus1_26/Pigeon (7),Maskfly,0,0,0,0,0
+Fungus1_28/Battle Music/Blocker 1,Elder Baldur,25,5,0,50,61
+Fungus1_28/Battle Music/Blocker 2,Elder Baldur,25,5,0,50,61
+Fungus1_28/Buzzer (3),Vengefly,3,0,0,3,4
+Fungus1_28/Climber,Tiktik,2,0,0,2,3
+Fungus1_28/Climber (1),Tiktik,2,0,0,2,3
+Fungus1_28/Crawler,Crawlid,2,0,0,2,3
+Fungus1_28/Crawler (1),Crawlid,2,0,0,2,3
+Fungus1_28/Crawler (3),Crawlid,2,0,0,2,3
+Fungus1_28/Geo Rock 1 (2),Geo Rock,2,5,5,15,15
+Fungus1_28/Geo Rock 2,Geo Rock,2,5,5,15,15
+Fungus1_29/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_29/Mega Moss Charger,Massive Moss Charger,50,30,4,300,366
+Fungus1_29/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_29/Moss Walker (1),Mosscreep,2,0,0,2,3
+Fungus1_29/Plant Turret,Gulka,6,0,0,6,8
+Fungus1_29/Plant Turret (1),Gulka,6,0,0,6,8
+Fungus1_29/Plant Turret (2),Gulka,6,0,0,6,8
+Fungus1_31/_Enemies/Fat Fly (1),Obble,4,0,0,4,5
+Fungus1_31/_Enemies/Fat Fly (2),Obble,4,0,0,4,5
+Fungus1_31/_Enemies/Fat Fly (3),Obble,4,0,0,4,5
+Fungus1_31/_Enemies/Fat Fly (5),Obble,4,0,0,4,5
+Fungus1_31/_Enemies/Fat Fly (6),Obble,4,0,0,4,5
+Fungus1_31/_Enemies/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_31/_Enemies/Moss Walker (1),Mosscreep,2,0,0,2,3
+Fungus1_31/_Enemies/Moss Walker (2),Mosscreep,2,0,0,2,3
+Fungus1_31/_Enemies/Mossman_Runner,Mosskin,3,0,0,3,4
+Fungus1_31/_Enemies/Mossman_Shaker,Volatile Mosskin,5,0,0,5,6
+Fungus1_31/_Enemies/Mossman_Shaker (1),Volatile Mosskin,5,0,0,5,6
+Fungus1_31/_Props/Geo Rock 1 (1),Geo Rock,2,5,5,15,15
+Fungus1_31/_Props/Geo Rock 2 (1),Geo Rock,2,5,5,15,15
+Fungus1_31/_Props/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus1_32/Moss Knight B,Moss Knight,30,2,0,40,51
+Fungus1_32/Moss Knight C,Moss Knight,30,2,0,40,51
+Fungus1_32/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_34/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus1_34/Plant Trap,Fool Eater,9,0,0,9,11
+Fungus1_34/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Fungus1_34/Zombie Leaper,Leaping Husk,3,0,0,3,4
+Fungus1_34/Zombie Runner,Wandering Husk,3,0,0,3,4
+Fungus1_36/Pigeon,Maskfly,0,0,0,0,0
+Fungus1_36/Pigeon (1),Maskfly,0,0,0,0,0
+Fungus1_36/Pigeon (2),Maskfly,0,0,0,0,0
+Fungus1_36/Pigeon (3),Maskfly,0,0,0,0,0
+Fungus1_36/Pigeon (4),Maskfly,0,0,0,0,0
+Fungus2_03/Fungoon Baby,Fungling,2,0,0,2,3
+Fungus2_03/Fungoon Baby (1),Fungling,2,0,0,2,3
+Fungus2_03/Fungoon Baby (2),Fungling,2,0,0,2,3
+Fungus2_03/Fungus Flyer,Fungoon,6,0,0,6,8
+Fungus2_03/Fungus Flyer (1),Fungoon,6,0,0,6,8
+Fungus2_03/Fungus Flyer (2),Fungoon,6,0,0,6,8
+Fungus2_03/Mushroom Turret,Sporg,3,0,0,3,4
+Fungus2_03/Mushroom Turret (1),Sporg,3,0,0,3,4
+Fungus2_03/Mushroom Turret (2),Sporg,3,0,0,3,4
+Fungus2_03/Mushroom Turret (3),Sporg,3,0,0,3,4
+Fungus2_03/Mushroom Turret (4),Sporg,3,0,0,3,4
+Fungus2_03/Shiny Item,Hallownest Seal,,,,450,450
+Fungus2_03/Zombie Fungus B,Fungified Husk,5,0,0,5,6
+Fungus2_03/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Fungus2_04/Fung Crawler,Ambloom,2,0,0,2,3
+Fungus2_04/Geo Rock Fung 01,Geo Rock,3,5,7,22,22
+Fungus2_04/Mushroom Turret,Sporg,3,0,0,3,4
+Fungus2_04/Mushroom Turret (2),Sporg,3,0,0,3,4
+Fungus2_04/Mushroom Turret (3),Sporg,3,0,0,3,4
+Fungus2_04/Shiny Item,Wanderer's Journal,,,,200,200
+Fungus2_05/Battle Scene v2/Uncompleted/Mushroom Baby,Shrumeling,0,0,0,0,0
+Fungus2_05/Battle Scene v2/Uncompleted/Mushroom Baby (1),Shrumeling,0,0,0,0,0
+Fungus2_05/Battle Scene v2/Uncompleted/Mushroom Baby (2),Shrumeling,0,0,0,0,0
+Fungus2_05/Mushroom Brawler 1,Shrumal Ogre,30,3,0,45,56
+Fungus2_05/Mushroom Brawler 2,Shrumal Ogre,30,3,0,45,56
+Fungus2_06/Fung Crawler,Ambloom,2,0,0,2,3
+Fungus2_06/Fung Crawler (1),Ambloom,2,0,0,2,3
+Fungus2_06/Fungus Flyer,Fungoon,6,0,0,6,8
+Fungus2_06/Fungus Flyer (1),Fungoon,6,0,0,6,8
+Fungus2_06/Fungus Flyer (2),Fungoon,6,0,0,6,8
+Fungus2_06/Fungus Flyer (3),Fungoon,6,0,0,6,8
+Fungus2_07/Mushroom Baby,Shrumeling,0,0,0,0,0
+Fungus2_07/Mushroom Baby (1),Shrumeling,0,0,0,0,0
+Fungus2_07/Mushroom Baby (2),Shrumeling,0,0,0,0,0
+Fungus2_07/Mushroom Roller,Shrumal Warrior,3,1,0,8,14
+Fungus2_07/Mushroom Roller (1),Shrumal Warrior,3,1,0,8,14
+Fungus2_08/Fungus Flyer,Fungoon,6,0,0,6,8
+Fungus2_08/Geo Rock Fung 01,Geo Rock,3,5,7,22,22
+Fungus2_08/Mushroom Turret,Sporg,3,0,0,3,4
+Fungus2_08/Mushroom Turret (1),Sporg,3,0,0,3,4
+Fungus2_08/Mushroom Turret (2),Sporg,3,0,0,3,4
+Fungus2_10/Geo Rock Fung 01,Geo Rock,3,5,7,22,22
+Fungus2_10/Zombie Fungus A,Fungified Husk,5,0,0,5,6
+Fungus2_10/Zombie Fungus B,Fungified Husk,5,0,0,5,6
+Fungus2_11/Fung Crawler,Ambloom,2,0,0,2,3
+Fungus2_11/Fung Crawler (1),Ambloom,2,0,0,2,3
+Fungus2_11/Fungus Flyer,Fungoon,6,0,0,6,8
+Fungus2_11/Geo Rock Fung 01,Geo Rock,3,5,7,22,22
+Fungus2_11/Geo Rock Fung 02,Geo Rock,4,3,5,17,17
+Fungus2_11/Mushroom Turret,Sporg,3,0,0,3,4
+Fungus2_11/Mushroom Turret (1),Sporg,3,0,0,3,4
+Fungus2_12/Mantis,Mantis Warrior,2,2,0,12,18
+Fungus2_12/Mantis (1),Mantis Warrior,2,2,0,12,18
+Fungus2_12/Mantis (2),Mantis Warrior,2,2,0,12,18
+Fungus2_12/Mantis Flyer Child,Mantis Youth,5,0,0,5,6
+Fungus2_12/Mantis Flyer Child (1),Mantis Youth,5,0,0,5,6
+Fungus2_12/Mantis Flyer Child (2),Mantis Youth,5,0,0,5,6
+Fungus2_12/Mantis Flyer Child (3),Mantis Youth,5,0,0,5,6
+Fungus2_13/Geo Rock Fung 01,Geo Rock,3,5,7,22,22
+Fungus2_13/Geo Rock Fung 01 (1),Geo Rock,3,5,7,22,22
+Fungus2_13/Geo Rock Fung 02,Geo Rock,4,3,5,17,17
+Fungus2_13/Mantis,Mantis Warrior,2,2,0,12,18
+Fungus2_13/Mantis (1),Mantis Warrior,2,2,0,12,18
+Fungus2_13/Mantis (2),Mantis Warrior,2,2,0,12,18
+Fungus2_13/Mantis (3),Mantis Warrior,2,2,0,12,18
+Fungus2_13/Mantis (4),Mantis Warrior,2,2,0,12,18
+Fungus2_13/Mantis Flyer Child,Mantis Youth,5,0,0,5,6
+Fungus2_13/Mantis Flyer Child (1),Mantis Youth,5,0,0,5,6
+Fungus2_13/Mantis Flyer Child (2),Mantis Youth,5,0,0,5,6
+Fungus2_13/Mantis Flyer Child (3),Mantis Youth,5,0,0,5,6
+Fungus2_14/Gate Mantis,Mantis Warrior,2,2,0,12,18
+Fungus2_14/Geo Rock 1,Geo Rock,2,5,5,15,15
+Fungus2_14/Geo Rock 2,Geo Rock,2,5,5,15,15
+Fungus2_14/Geo Rock 2 (1),Geo Rock,2,5,5,15,15
+Fungus2_14/Geo Rock 2 (2),Geo Rock,2,5,5,15,15
+Fungus2_14/Geo Rock 2 (3),Geo Rock,2,5,5,15,15
+Fungus2_14/Mantis (1),Mantis Warrior,2,2,0,12,18
+Fungus2_14/Mantis (2),Mantis Warrior,2,2,0,12,18
+Fungus2_14/Mantis Flyer Child,Mantis Youth,5,0,0,5,6
+Fungus2_14/Mantis Flyer Child (1),Mantis Youth,5,0,0,5,6
+Fungus2_14/Mantis Flyer Child (2),Mantis Youth,5,0,0,5,6
+Fungus2_14/Mantis Flyer Child (3),Mantis Youth,5,0,0,5,6
+Fungus2_14/Mantis Flyer Child (4),Mantis Youth,5,0,0,5,6
+Fungus2_15/Geo Rock 1,Geo Rock,2,5,5,15,15
+Fungus2_15/Geo Rock 1 (1),Geo Rock,2,5,5,15,15
+Fungus2_15/Mantis,Mantis Warrior,2,2,0,12,18
+Fungus2_15/Mantis (1),Mantis Warrior,2,2,0,12,18
+Fungus2_15/Mantis (2),Mantis Warrior,2,2,0,12,18
+Fungus2_15/Mantis Flyer Child,Mantis Youth,5,0,0,5,6
+Fungus2_15/Mantis Flyer Child (1),Mantis Youth,5,0,0,5,6
+Fungus2_15/Mantis Flyer Child (2),Mantis Youth,5,0,0,5,6
+Fungus2_15/Mantis Flyer Child (3),Mantis Youth,5,0,0,5,6
+Fungus2_17/Fung Crawler,Ambloom,2,0,0,2,3
+Fungus2_17/Fung Crawler (1),Ambloom,2,0,0,2,3
+Fungus2_17/Fungoon Baby,Fungling,2,0,0,2,3
+Fungus2_17/Fungoon Baby (1),Fungling,2,0,0,2,3
+Fungus2_17/Fungoon Baby (2),Fungling,2,0,0,2,3
+Fungus2_17/Fungoon Baby (3),Fungling,2,0,0,2,3
+Fungus2_17/Fungoon Baby (4),Fungling,2,0,0,2,3
+Fungus2_17/Shiny Item,Wanderer's Journal,,,,200,200
+Fungus2_18/_Scenery/Fungoon Baby,Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungoon Baby (1),Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungoon Baby (10),Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungoon Baby (11),Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungoon Baby (12),Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungoon Baby (3),Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungoon Baby (4),Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungoon Baby (5),Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungoon Baby (6),Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungoon Baby (8),Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungoon Baby (9),Fungling,2,0,0,2,3
+Fungus2_18/_Scenery/Fungus Flyer,Fungoon,6,0,0,6,8
+Fungus2_18/Fung Crawler,Ambloom,2,0,0,2,3
+Fungus2_18/Fung Crawler (1),Ambloom,2,0,0,2,3
+Fungus2_18/Geo Rock Fung 01,Geo Rock,3,5,7,22,22
+Fungus2_18/Geo Rock Fung 01 (1),Geo Rock,3,5,7,22,22
+Fungus2_18/Geo Rock Fung 02 (1),Geo Rock,4,3,5,17,17
+Fungus2_18/Geo Rock Fung 02 (2),Geo Rock,4,3,5,17,17
+Fungus2_18/Zombie Fungus A,Fungified Husk,5,0,0,5,6
+Fungus2_19/Fungoon Baby,Fungling,2,0,0,2,3
+Fungus2_19/Fungoon Baby (1),Fungling,2,0,0,2,3
+Fungus2_20/Mushroom Turret,Sporg,3,0,0,3,4
+Fungus2_21/Fung Crawler,Ambloom,2,0,0,2,3
+Fungus2_21/Geo Rock 1,Geo Rock,2,5,5,15,15
+Fungus2_23/Mushroom Baby,Shrumeling,0,0,0,0,0
+Fungus2_23/Mushroom Baby (1),Shrumeling,0,0,0,0,0
+Fungus2_23/Mushroom Baby (2),Shrumeling,0,0,0,0,0
+Fungus2_23/Mushroom Baby (3),Shrumeling,0,0,0,0,0
+Fungus2_23/Mushroom Baby (4),Shrumeling,0,0,0,0,0
+Fungus2_23/Mushroom Roller,Shrumal Warrior,3,1,0,8,14
+Fungus2_23/Mushroom Roller (1),Shrumal Warrior,3,1,0,8,14
+Fungus2_23/Mushroom Turret,Sporg,3,0,0,3,4
+Fungus2_25/Geo Rock Deepnest,Geo Rock,0,3,15,15,15
+Fungus2_25/Geo Rock Deepnest (1),Geo Rock,0,3,15,15,15
+Fungus2_25/Geo Rock Deepnest (2),Geo Rock,0,3,15,15,15
+Fungus2_28/Fung Crawler,Ambloom,2,0,0,2,3
+Fungus2_28/Fung Crawler (1),Ambloom,2,0,0,2,3
+Fungus2_28/Mushroom Baby,Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Baby (1),Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Baby (10),Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Baby (11),Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Baby (12),Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Baby (2),Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Baby (3),Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Baby (4),Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Baby (5),Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Baby (6),Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Baby (8),Shrumeling,0,0,0,0,0
+Fungus2_28/Mushroom Roller,Shrumal Warrior,3,1,0,8,14
+Fungus2_28/Mushroom Roller (1),Shrumal Warrior,3,1,0,8,14
+Fungus2_28/Mushroom Roller (2),Shrumal Warrior,3,1,0,8,14
+Fungus2_28/Mushroom Roller (3),Shrumal Warrior,3,1,0,8,14
+Fungus2_29/Fungoon Baby,Fungling,2,0,0,2,3
+Fungus2_29/Fungoon Baby (1),Fungling,2,0,0,2,3
+Fungus2_29/Fungoon Baby (2),Fungling,2,0,0,2,3
+Fungus2_29/Fungoon Baby (3),Fungling,2,0,0,2,3
+Fungus2_29/Fungoon Baby (4),Fungling,2,0,0,2,3
+Fungus2_29/Fungoon Baby (5),Fungling,2,0,0,2,3
+Fungus2_29/Fungus Flyer,Fungoon,6,0,0,6,8
+Fungus2_29/Fungus Flyer (1),Fungoon,6,0,0,6,8
+Fungus2_29/Geo Rock Fung 01,Geo Rock,3,5,7,22,22
+Fungus2_29/Mushroom Baby (2),Shrumeling,0,0,0,0,0
+Fungus2_29/Mushroom Brawler,Shrumal Ogre,30,3,0,45,56
+Fungus2_29/Mushroom Brawler (1),Shrumal Ogre,30,3,0,45,56
+Fungus2_29/Mushroom Roller,Shrumal Warrior,3,1,0,8,14
+Fungus2_29/Mushroom Roller (1),Shrumal Warrior,3,1,0,8,14
+Fungus2_29/Mushroom Roller (2),Shrumal Warrior,3,1,0,8,14
+Fungus2_29/Mushroom Roller (3),Shrumal Warrior,3,1,0,8,14
+Fungus2_29/Mushroom Turret,Sporg,3,0,0,3,4
+Fungus2_29/Mushroom Turret (1),Sporg,3,0,0,3,4
+Fungus2_29/Mushroom Turret (2),Sporg,3,0,0,3,4
+Fungus2_29/Mushroom Turret (3),Sporg,3,0,0,3,4
+Fungus2_30/Fung Crawler,Ambloom,2,0,0,2,3
+Fungus2_30/Fung Crawler (1),Ambloom,2,0,0,2,3
+Fungus2_30/Fung Crawler (2),Ambloom,2,0,0,2,3
+Fungus2_30/Fung Crawler (3),Ambloom,2,0,0,2,3
+Fungus2_30/Fungoon Baby,Fungling,2,0,0,2,3
+Fungus2_30/Fungoon Baby (1),Fungling,2,0,0,2,3
+Fungus2_30/Fungoon Baby (10),Fungling,2,0,0,2,3
+Fungus2_30/Fungoon Baby (2),Fungling,2,0,0,2,3
+Fungus2_30/Fungoon Baby (3),Fungling,2,0,0,2,3
+Fungus2_30/Fungoon Baby (4),Fungling,2,0,0,2,3
+Fungus2_30/Fungoon Baby (5),Fungling,2,0,0,2,3
+Fungus2_30/Fungoon Baby (6),Fungling,2,0,0,2,3
+Fungus2_30/Fungoon Baby (9),Fungling,2,0,0,2,3
+Fungus2_30/Fungus Flyer,Fungoon,6,0,0,6,8
+Fungus2_30/Fungus Flyer (1),Fungoon,6,0,0,6,8
+Fungus2_30/Geo Rock Fung 01,Geo Rock,3,5,7,22,22
+Fungus2_30/Geo Rock Fung 01 (1),Geo Rock,3,5,7,22,22
+Fungus2_30/Mushroom Baby,Shrumeling,0,0,0,0,0
+Fungus2_30/Mushroom Baby (1),Shrumeling,0,0,0,0,0
+Fungus2_30/Mushroom Baby (2),Shrumeling,0,0,0,0,0
+Fungus2_30/Mushroom Baby (5),Shrumeling,0,0,0,0,0
+Fungus2_30/Mushroom Baby (6),Shrumeling,0,0,0,0,0
+Fungus2_30/Mushroom Baby (7),Shrumeling,0,0,0,0,0
+Fungus2_30/Mushroom Baby (8),Shrumeling,0,0,0,0,0
+Fungus2_30/Mushroom Brawler,Shrumal Ogre,30,3,0,45,56
+Fungus2_30/Mushroom Brawler (1),Shrumal Ogre,30,3,0,45,56
+Fungus2_30/Mushroom Roller,Shrumal Warrior,3,1,0,8,14
+Fungus2_30/Mushroom Roller (1),Shrumal Warrior,3,1,0,8,14
+Fungus2_30/Mushroom Roller (2),Shrumal Warrior,3,1,0,8,14
+Fungus2_30/Mushroom Roller (3),Shrumal Warrior,3,1,0,8,14
+Fungus2_30/Mushroom Turret,Sporg,3,0,0,3,4
+Fungus2_31/Lords Defeated Group/Mantis,Mantis Warrior,2,2,0,12,18
+Fungus2_31/Mantis Chest (1)/Item/Shiny Item,Hallownest Seal,,,,450,450
+Fungus2_33/Fungoon Baby,Fungling,2,0,0,2,3
+Fungus2_33/Fungoon Baby (2),Fungling,2,0,0,2,3
+Fungus2_33/Fungoon Baby (3),Fungling,2,0,0,2,3
+Fungus2_33/Fungus Flyer,Fungoon,6,0,0,6,8
+Fungus2_33/Fungus Flyer (1),Fungoon,6,0,0,6,8
+Fungus2_34/Shiny Item,Hallownest Seal,,,,450,450
+Fungus3_01/_Enemies/Jellyfish,Ooma,5,0,0,5,6
+Fungus3_01/_Enemies/Jellyfish 1,Ooma,5,0,0,5,6
+Fungus3_01/_Enemies/Jellyfish 2,Ooma,5,0,0,5,6
+Fungus3_01/_Enemies/Jellyfish 3,Ooma,5,0,0,5,6
+Fungus3_01/_Enemies/Jellyfish 4,Ooma,5,0,0,5,6
+Fungus3_01/_Enemies/Jellyfish 6,Ooma,5,0,0,5,6
+Fungus3_01/Jellyfish Baby,Uoma,0,0,0,0,0
+Fungus3_01/Jellyfish Baby (1),Uoma,0,0,0,0,0
+Fungus3_01/Jellyfish Baby (2),Uoma,0,0,0,0,0
+Fungus3_01/Jellyfish Baby (3),Uoma,0,0,0,0,0
+Fungus3_01/Jellyfish Baby (4),Uoma,0,0,0,0,0
+Fungus3_01/Jellyfish Baby (5),Uoma,0,0,0,0,0
+Fungus3_01/Jellyfish Baby (6),Uoma,0,0,0,0,0
+Fungus3_02/Jellyfish,Ooma,5,0,0,5,6
+Fungus3_02/Jellyfish (1),Ooma,5,0,0,5,6
+Fungus3_02/Jellyfish (2),Ooma,5,0,0,5,6
+Fungus3_02/Jellyfish (3),Ooma,5,0,0,5,6
+Fungus3_02/Jellyfish (4),Ooma,5,0,0,5,6
+Fungus3_02/Jellyfish Baby,Uoma,0,0,0,0,0
+Fungus3_02/Jellyfish Baby (1),Uoma,0,0,0,0,0
+Fungus3_02/Jellyfish Baby (2),Uoma,0,0,0,0,0
+Fungus3_02/Jellyfish Baby (3),Uoma,0,0,0,0,0
+Fungus3_02/Jellyfish Baby (4),Uoma,0,0,0,0,0
+Fungus3_02/Jellyfish Baby (5),Uoma,0,0,0,0,0
+Fungus3_02/Jellyfish Baby (6),Uoma,0,0,0,0,0
+Fungus3_02/Jellyfish Baby (7),Uoma,0,0,0,0,0
+Fungus3_02/Jellyfish Baby (8),Uoma,0,0,0,0,0
+Fungus3_02/Jellyfish Baby (9),Uoma,0,0,0,0,0
+Fungus3_03/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus3_04/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_04/Mantis Heavy Flyer (1),Mantis Petra,2,2,0,12,18
+Fungus3_04/Moss Flyer,Mossfly,2,0,0,2,3
+Fungus3_04/Moss Flyer (1),Mossfly,2,0,0,2,3
+Fungus3_05/Battle Scene/Wave 1/Dragonfly Summon/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_05/Battle Scene/Wave 2/Dragonfly Summon (1)/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_05/Battle Scene/Wave 2/Dragonfly Summon (2)/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_05/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_05/Plant Trap,Fool Eater,9,0,0,9,11
+Fungus3_05/Plant Trap (1),Fool Eater,9,0,0,9,11
+Fungus3_05/Plant Trap (2),Fool Eater,9,0,0,9,11
+Fungus3_08/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_08/Mantis Heavy Flyer (1),Mantis Petra,2,2,0,12,18
+Fungus3_08/Mantis Heavy Flyer (2),Mantis Petra,2,2,0,12,18
+Fungus3_08/Mantis Heavy Flyer (3),Mantis Petra,2,2,0,12,18
+Fungus3_08/Moss Flyer,Mossfly,2,0,0,2,3
+Fungus3_08/Moss Flyer (1),Mossfly,2,0,0,2,3
+Fungus3_08/Moss Flyer (2),Mossfly,2,0,0,2,3
+Fungus3_08/Moss Flyer (3),Mossfly,2,0,0,2,3
+Fungus3_10/Battle Scene/Wave 2/Dragonfly Summon (1)/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_10/Battle Scene/Wave 2/Garden Zombie,Spiny Husk,2,2,0,12,18
+Fungus3_10/Battle Scene/Wave 2/Garden Zombie (1),Spiny Husk,2,2,0,12,18
+Fungus3_10/Battle Scene/Wave 3/Dragonfly Summon (2)/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_10/Battle Scene/Wave 4/Dragonfly Summon (2)/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_10/Battle Scene/Wave 5/Garden Zombie,Spiny Husk,2,2,0,12,18
+Fungus3_10/Battle Scene/Wave 5/Garden Zombie (1),Spiny Husk,2,2,0,12,18
+Fungus3_10/Battle Scene/Wave 6/Dragonfly Summon (3)/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_10/Geo Rock Green Path 01,Geo Rock,4,5,6,26,26
+Fungus3_10/Moss Flyer (1),Mossfly,2,0,0,2,3
+Fungus3_10/Moss Flyer (2),Mossfly,2,0,0,2,3
+Fungus3_10/Moss Flyer (3),Mossfly,2,0,0,2,3
+Fungus3_10/Moss Flyer (4),Mossfly,2,0,0,2,3
+Fungus3_11/Moss Flyer,Mossfly,2,0,0,2,3
+Fungus3_11/Moss Flyer (1),Mossfly,2,0,0,2,3
+Fungus3_11/Moss Flyer (2),Mossfly,2,0,0,2,3
+Fungus3_11/Moss Flyer (3),Mossfly,2,0,0,2,3
+Fungus3_11/Moss Flyer (5),Mossfly,2,0,0,2,3
+Fungus3_13/Moss Flyer,Mossfly,2,0,0,2,3
+Fungus3_13/Moss Flyer (1),Mossfly,2,0,0,2,3
+Fungus3_13/Moss Flyer (2),Mossfly,2,0,0,2,3
+Fungus3_13/Moss Flyer (3),Mossfly,2,0,0,2,3
+Fungus3_13/Moss Flyer (4),Mossfly,2,0,0,2,3
+Fungus3_13/Moss Flyer (5),Mossfly,2,0,0,2,3
+Fungus3_22/Garden Zombie,Spiny Husk,2,2,0,12,18
+Fungus3_22/Garden Zombie (1),Spiny Husk,2,2,0,12,18
+Fungus3_22/Garden Zombie (2),Spiny Husk,2,2,0,12,18
+Fungus3_22/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_22/Mantis Heavy Flyer (1),Mantis Petra,2,2,0,12,18
+Fungus3_22/Moss Flyer (3),Mossfly,2,0,0,2,3
+Fungus3_22/Moss Flyer (4),Mossfly,2,0,0,2,3
+Fungus3_22/Moss Flyer (5),Mossfly,2,0,0,2,3
+Fungus3_22/Moss Flyer (6),Mossfly,2,0,0,2,3
+Fungus3_25/Jellyfish,Ooma,5,0,0,5,6
+Fungus3_25/Jellyfish (1),Ooma,5,0,0,5,6
+Fungus3_25/Jellyfish (2),Ooma,5,0,0,5,6
+Fungus3_25/Jellyfish (3),Ooma,5,0,0,5,6
+Fungus3_25/Jellyfish (4),Ooma,5,0,0,5,6
+Fungus3_25/Jellyfish (5),Ooma,5,0,0,5,6
+Fungus3_25/Jellyfish Baby,Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (1),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (10),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (11),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (12),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (2),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (3),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (4),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (5),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (6),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (7),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (8),Uoma,0,0,0,0,0
+Fungus3_25/Jellyfish Baby (9),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish,Ooma,5,0,0,5,6
+Fungus3_25b/Jellyfish (1),Ooma,5,0,0,5,6
+Fungus3_25b/Jellyfish (2),Ooma,5,0,0,5,6
+Fungus3_25b/Jellyfish Baby,Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (1),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (10),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (11),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (2),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (3),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (4),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (5),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (6),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (7),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (8),Uoma,0,0,0,0,0
+Fungus3_25b/Jellyfish Baby (9),Uoma,0,0,0,0,0
+Fungus3_26/Geo Rock Green Path 01,Geo Rock,4,5,10,30,30
+Fungus3_26/Jellyfish,Ooma,5,0,0,5,6
+Fungus3_26/Jellyfish (1),Ooma,5,0,0,5,6
+Fungus3_26/Jellyfish (2),Ooma,5,0,0,5,6
+Fungus3_26/Jellyfish (3),Ooma,5,0,0,5,6
+Fungus3_26/Jellyfish (4),Ooma,5,0,0,5,6
+Fungus3_26/Jellyfish Baby,Uoma,0,0,0,0,0
+Fungus3_26/Jellyfish Baby (1),Uoma,0,0,0,0,0
+Fungus3_26/Jellyfish Baby (2),Uoma,0,0,0,0,0
+Fungus3_26/Jellyfish Baby (3),Uoma,0,0,0,0,0
+Fungus3_26/Jellyfish Baby (4),Uoma,0,0,0,0,0
+Fungus3_26/Jellyfish Baby (5),Uoma,0,0,0,0,0
+Fungus3_26/Jellyfish Baby (6),Uoma,0,0,0,0,0
+Fungus3_26/Jellyfish Baby (7),Uoma,0,0,0,0,0
+Fungus3_26/Jellyfish Baby (8),Uoma,0,0,0,0,0
+Fungus3_26/Jellyfish Baby (9),Uoma,0,0,0,0,0
+Fungus3_26/Shiny Item,Hallownest Seal,,,,450,450
+Fungus3_27/Jellyfish,Ooma,5,0,0,5,6
+Fungus3_27/Jellyfish (1),Ooma,5,0,0,5,6
+Fungus3_27/Jellyfish (2),Ooma,5,0,0,5,6
+Fungus3_27/Jellyfish (3),Ooma,5,0,0,5,6
+Fungus3_27/Jellyfish Baby,Uoma,0,0,0,0,0
+Fungus3_27/Jellyfish Baby (1),Uoma,0,0,0,0,0
+Fungus3_27/Jellyfish Baby (2),Uoma,0,0,0,0,0
+Fungus3_27/Jellyfish Baby (3),Uoma,0,0,0,0,0
+Fungus3_27/Jellyfish Baby (4),Uoma,0,0,0,0,0
+Fungus3_27/Jellyfish Baby (5),Uoma,0,0,0,0,0
+Fungus3_27/Jellyfish Baby (6),Uoma,0,0,0,0,0
+Fungus3_27/Jellyfish Baby (7),Uoma,0,0,0,0,0
+Fungus3_27/Jellyfish Baby (8),Uoma,0,0,0,0,0
+Fungus3_28/Jellyfish (1),Ooma,5,0,0,5,6
+Fungus3_28/Jellyfish (2),Ooma,5,0,0,5,6
+Fungus3_28/Jellyfish (3),Ooma,5,0,0,5,6
+Fungus3_28/Jellyfish (4),Ooma,5,0,0,5,6
+Fungus3_28/Jellyfish (5),Ooma,5,0,0,5,6
+Fungus3_28/Jellyfish Baby,Uoma,0,0,0,0,0
+Fungus3_28/Jellyfish Baby (1),Uoma,0,0,0,0,0
+Fungus3_28/Jellyfish Baby (11),Uoma,0,0,0,0,0
+Fungus3_28/Jellyfish Baby (2),Uoma,0,0,0,0,0
+Fungus3_28/Jellyfish Baby (3),Uoma,0,0,0,0,0
+Fungus3_28/Jellyfish Baby (4),Uoma,0,0,0,0,0
+Fungus3_28/Jellyfish Baby (5),Uoma,0,0,0,0,0
+Fungus3_28/Jellyfish Baby (6),Uoma,0,0,0,0,0
+Fungus3_28/Jellyfish Baby (7),Uoma,0,0,0,0,0
+Fungus3_28/Jellyfish Baby (8),Uoma,0,0,0,0,0
+Fungus3_30/Shiny Item,Hallownest Seal,,,,450,450
+Fungus3_34/Egg Sac,Bluggsac,0,0,0,0,0
+Fungus3_34/Garden Zombie,Spiny Husk,2,2,0,12,18
+Fungus3_34/Garden Zombie (1),Spiny Husk,2,2,0,12,18
+Fungus3_34/Garden Zombie (2),Spiny Husk,2,2,0,12,18
+Fungus3_34/Moss Flyer,Mossfly,2,0,0,2,3
+Fungus3_34/Moss Flyer (1),Mossfly,2,0,0,2,3
+Fungus3_34/Moss Flyer (3),Mossfly,2,0,0,2,3
+Fungus3_39/Acid Walker,Durandoo,6,0,0,6,8
+Fungus3_39/Battle Scene/Mantis Heavy,Mantis Traitor,12,2,0,22,30
+Fungus3_39/Battle Scene/Mantis Heavy (1),Mantis Traitor,12,2,0,22,30
+Fungus3_39/Geo Rock Green Path 01,Geo Rock,4,5,10,30,30
+Fungus3_39/Geo Rock Green Path 01 (1),Geo Rock,4,5,7,27,27
+Fungus3_39/Moss Flyer,Mossfly,2,0,0,2,3
+Fungus3_39/Moss Flyer (1),Mossfly,2,0,0,2,3
+Fungus3_39/Moss Flyer (2),Mossfly,2,0,0,2,3
+Fungus3_39/Moss Flyer (3),Mossfly,2,0,0,2,3
+Fungus3_39/Moss Knight Fat,Mossy Vagabond,8,0,0,8,10
+Fungus3_39/Moss Knight Fat (1),Mossy Vagabond,8,0,0,8,10
+Fungus3_39/Moss Knight Fat (2),Mossy Vagabond,8,0,0,8,10
+Fungus3_40/Moss Flyer,Mossfly,2,0,0,2,3
+Fungus3_40/Moss Flyer (1),Mossfly,2,0,0,2,3
+Fungus3_40/Moss Walker,Mosscreep,2,0,0,2,3
+Fungus3_40/Moss Walker (1),Mosscreep,2,0,0,2,3
+Fungus3_44/Moss Flyer (1),Mossfly,2,0,0,2,3
+Fungus3_44/Moss Flyer (2),Mossfly,2,0,0,2,3
+Fungus3_44/Moss Flyer (3),Mossfly,2,0,0,2,3
+Fungus3_44/Moss Flyer (4),Mossfly,2,0,0,2,3
+Fungus3_44/Moss Flyer (5),Mossfly,2,0,0,2,3
+Fungus3_47/Jellyfish,Ooma,5,0,0,5,6
+Fungus3_47/Jellyfish (1),Ooma,5,0,0,5,6
+Fungus3_47/Jellyfish (10),Ooma,5,0,0,5,6
+Fungus3_47/Jellyfish (2),Ooma,5,0,0,5,6
+Fungus3_47/Jellyfish (3),Ooma,5,0,0,5,6
+Fungus3_47/Jellyfish (4),Ooma,5,0,0,5,6
+Fungus3_47/Jellyfish (5),Ooma,5,0,0,5,6
+Fungus3_47/Jellyfish (6),Ooma,5,0,0,5,6
+Fungus3_47/Jellyfish (7),Ooma,5,0,0,5,6
+Fungus3_47/Jellyfish (8),Ooma,5,0,0,5,6
+Fungus3_47/Jellyfish (9),Ooma,5,0,0,5,6
+Fungus3_48/Geo Rock Green Path 02,Geo Rock,4,5,10,30,30
+Fungus3_48/Grass Hopper,Loodle,9,0,0,9,11
+Fungus3_48/Grass Hopper (1),Loodle,9,0,0,9,11
+Fungus3_48/Grass Hopper (2),Loodle,9,0,0,9,11
+Fungus3_48/Grass Hopper (3),Loodle,9,0,0,9,11
+Fungus3_48/Grass Hopper (4),Loodle,9,0,0,9,11
+Fungus3_48/Grass Hopper (5),Loodle,9,0,0,9,11
+Fungus3_48/Grass Hopper (6),Loodle,9,0,0,9,11
+Fungus3_48/Grass Hopper (7),Loodle,9,0,0,9,11
+Fungus3_48/Grass Hopper (8),Loodle,9,0,0,9,11
+Fungus3_48/Lazy Flyer Enemy,Aluba,0,0,0,0,0
+Fungus3_48/Mantis Heavy Flyer,Mantis Petra,2,2,0,12,18
+Fungus3_48/Mantis Heavy Flyer (1),Mantis Petra,2,2,0,12,18
+Fungus3_48/Moss Flyer,Mossfly,2,0,0,2,3
+Fungus3_48/Moss Flyer (1),Mossfly,2,0,0,2,3
+Fungus3_48/Plant Trap,Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (1),Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (10),Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (11),Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (2),Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (3),Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (4),Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (5),Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (6),Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (7),Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (8),Fool Eater,9,0,0,9,11
+Fungus3_48/Plant Trap (9),Fool Eater,9,0,0,9,11
+Fungus3_48/Shiny Item,Hallownest Seal,,,,450,450
+Fungus3_archive_02/Jellyfish,Ooma,5,0,0,5,6
+Fungus3_archive_02/Jellyfish (1),Ooma,5,0,0,5,6
+Fungus3_archive_02/Jellyfish (2),Ooma,5,0,0,5,6
+Fungus3_archive_02/Jellyfish (3),Ooma,5,0,0,5,6
+Fungus3_archive_02/Jellyfish (4),Ooma,5,0,0,5,6
+Fungus3_archive_02/Jellyfish (5),Ooma,5,0,0,5,6
+Fungus3_archive_02/Jellyfish (6),Ooma,5,0,0,5,6
+Fungus3_archive_02/Jellyfish Baby,Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby (1),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby (2),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby (3),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby (4),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby (5),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby (6),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby (7),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby (8),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby (9),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert,Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (1),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (10),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (11),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (12),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (13),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (14),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (15),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (16),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (17),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (18),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (19),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (2),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (20),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (21),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (22),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (23),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (3),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (4),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (5),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (6),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (7),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (8),Uoma,0,0,0,0,0
+Fungus3_archive_02/Jellyfish Baby Inert (9),Uoma,0,0,0,0,0
+Fungus3_archive_02_boss/Mega Jellyfish,Uumuu,0,0,0,0,0
+GG_Broken_Vessel/Infected Knight,Broken Vessel,0,0,0,0,0
+GG_Collector/Battle Scene/Jar Collector,The Collector,0,0,0,0,0
+GG_Collector_V/Battle Scene/Jar Collector,The Collector,0,0,0,0,0
+GG_Dung_Defender/Dung Defender,Dung Defender,0,0,0,0,0
+GG_Flukemarm/Fluke Mother,Flukemarm,0,0,0,0,0
+GG_Flukemarm/Hatcher Cage (2)/Fluke Fly Spawner,Flukefey,0,0,0,0,0
+GG_Flukemarm/Hatcher Cage (2)/Fluke Fly Spawner (1),Flukefey,0,0,0,0,0
+GG_Flukemarm/Hatcher Cage (2)/Fluke Fly Spawner (2),Flukefey,0,0,0,0,0
+GG_Flukemarm/Hatcher Cage (2)/Fluke Fly Spawner (3),Flukefey,0,0,0,0,0
+GG_Flukemarm/Hatcher Cage (2)/Fluke Fly Spawner (4),Flukefey,0,0,0,0,0
+GG_Flukemarm/Hatcher Cage (2)/Fluke Fly Spawner (5),Flukefey,0,0,0,0,0
+GG_God_Tamer/Entry Object/Lobster,God Tamer,0,0,0,0,0
+GG_Grey_Prince_Zote/Grey Prince,Grey Prince Zote,0,0,0,0,0
+GG_Grey_Prince_Zote/Zote Balloon,Volatile Zoteling,0,0,0,0,0
+GG_Grey_Prince_Zote/Zote Balloon (1),Volatile Zoteling,0,0,0,0,0
+GG_Grey_Prince_Zote/Zote Balloon (2),Volatile Zoteling,0,0,0,0,0
+GG_Grey_Prince_Zote/Zote Balloon (3),Volatile Zoteling,0,0,0,0,0
+GG_Grey_Prince_Zote/Zoteling,Zoteling,0,0,0,0,0
+GG_Grey_Prince_Zote/Zoteling (1),Zoteling,0,0,0,0,0
+GG_Grey_Prince_Zote/Zoteling (2),Zoteling,0,0,0,0,0
+GG_Grey_Prince_Zote/Zoteling (3),Zoteling,0,0,0,0,0
+GG_Grimm_Nightmare/Grimm Control/Nightmare Grimm Boss,Nightmare King Grimm,0,0,0,0,0
+GG_Gruz_Mother/_Enemies/Giant Fly,Gruz Mother,0,0,0,0,0
+GG_Gruz_Mother_V/_Enemies/Giant Fly,Gruz Mother,0,0,0,0,0
+GG_Hive_Knight/Battle Scene/Hive Knight,Hive Knight,0,0,0,0,0
+GG_Hollow_Knight/Battle Scene/HK Prime,Pure Vessel,0,0,0,0,0
+GG_Hornet_1/Boss Holder/Hornet Boss 1,Hornet,0,0,0,0,0
+GG_Hornet_2/Boss Holder/Hornet Boss 2,Hornet,0,0,0,0,0
+GG_Lost_Kin/Lost Kin,Lost Kin,0,0,0,0,0
+GG_Lurker/Geo Rock Outskirts,Geo Rock,6,5,14,44,44
+GG_Lurker/Lurker Control/Pale Lurker,Pale Lurker,0,0,0,0,0
+GG_Lurker/Shiny Item,King's Idol,,,,800,800
+GG_Mage_Knight/Mage Knight,Soul Warrior,50,10,4,200,246
+GG_Mage_Knight_V/Balloon Spawner/Mage Knight,Soul Warrior,50,10,4,200,246
+GG_Mega_Moss_Charger/Mega Moss Charger,Massive Moss Charger,50,30,4,300,366
+GG_Mighty_Zote/Battle Control/Zote Balloon Ordeal,Volatile Zoteling,0,0,0,0,0
+GG_Mighty_Zote/Battle Control/Zotelings/Ordeal Zoteling,Eternal Zoteling,0,0,0,0,0
+GG_Mighty_Zote/Battle Control/Zotelings/Ordeal Zoteling (1),Eternal Zoteling,0,0,0,0,0
+GG_Mighty_Zote/Zote Balloon (1),Volatile Zoteling,0,0,0,0,0
+GG_Nosk/Mimic Spider,Nosk,0,0,0,0,0
+GG_Nosk_V/Mimic Spider,Nosk,0,0,0,0,0
+GG_Oblobbles/Mega Fat Bee,Oblobble,0,0,0,0,0
+GG_Oblobbles/Mega Fat Bee (1),Oblobble,0,0,0,0,0
+GG_Painter/Battle Scene/Sheo Boss,Paintmaster Sheo,0,0,0,0,0
+GG_Pipeway/Fat Fluke,Flukemunga,8,3,0,23,30
+GG_Pipeway/Fat Fluke (1),Flukemunga,8,3,0,23,30
+GG_Pipeway/Fat Fluke (2),Flukemunga,8,3,0,23,30
+GG_Pipeway/Fat Fluke (3),Flukemunga,8,3,0,23,30
+GG_Pipeway/Fluke Fly,Flukefey,0,0,0,0,0
+GG_Pipeway/Fluke Fly (1),Flukefey,0,0,0,0,0
+GG_Pipeway/Fluke Fly (2),Flukefey,0,0,0,0,0
+GG_Pipeway/Fluke Fly (3),Flukefey,0,0,0,0,0
+GG_Pipeway/Fluke Fly (5),Flukefey,0,0,0,0,0
+GG_Pipeway/fluke_baby_01,Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_01 (1),Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_01 (2),Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_01 (3),Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_02,Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_02 (1),Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_02 (2),Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_02 (3),Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_02 (5),Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_03,Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_03 (1),Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_03 (2),Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_03 (3),Fluke Larva,0,0,0,0,0
+GG_Pipeway/fluke_baby_03 (4),Fluke Larva,0,0,0,0,0
+GG_Pipeway/Flukeman,Flukemon,0,0,0,0,0
+GG_Pipeway/Flukeman (1),Flukemon,0,0,0,0,0
+GG_Pipeway/Geo Rock City 1,Geo Rock,4,5,10,30,30
+GG_Sly/Battle Scene/Sly Boss,Sly,5,0,0,5,6
+GG_Soul_Master/Mage Lord Phase2,Soul Master,0,0,0,0,0
+GG_Uumuu/Mega Jellyfish GG,Uumuu,0,0,0,0,0
+GG_Uumuu_V/Mega Jellyfish GG,Uumuu,0,0,0,0,0
+GG_Vengefly/Giant Buzzer Col,Vengefly King,0,0,0,0,0
+GG_Vengefly_V/Giant Buzzer Col,Vengefly King,0,0,0,0,0
+GG_Vengefly_V/Giant Buzzer Col (1),Vengefly King,0,0,0,0,0
+GG_White_Defender/White Defender,White Defender,0,0,0,0,0
+Grimm_Main_Tent_boss/Grimm Boss,Troupe Master Grimm,0,0,0,0,0
+Grimm_Nightmare/Grimm Control/Nightmare Grimm Boss,Nightmare King Grimm,0,0,0,0,0
+Hive_01/Bee Hatchling Ambient,Hiveling,0,0,0,0,0
+Hive_01/Bee Hatchling Ambient (1),Hiveling,0,0,0,0,0
+Hive_01/Bee Hatchling Ambient (35),Hiveling,0,0,0,0,0
+Hive_01/Bee Stinger,Hive Soldier,10,1,0,15,22
+Hive_01/Geo Rock Hive,Geo Rock,6,6,20,56,56
+Hive_01/Hatcher Cage (1)/Hiveling Spawner,Hiveling,0,0,0,0,0
+Hive_01/Hatcher Cage (1)/Hiveling Spawner (1),Hiveling,0,0,0,0,0
+Hive_01/Hatcher Cage (1)/Hiveling Spawner (2),Hiveling,0,0,0,0,0
+Hive_01/Hatcher Cage (1)/Hiveling Spawner (3),Hiveling,0,0,0,0,0
+Hive_01/Hatcher Cage (1)/Hiveling Spawner (4),Hiveling,0,0,0,0,0
+Hive_01/Hatcher Cage (1)/Hiveling Spawner (5),Hiveling,0,0,0,0,0
+Hive_01/Hatcher Cage (1)/Hiveling Spawner (6),Hiveling,0,0,0,0,0
+Hive_01/Hatcher Cage (1)/Hiveling Spawner (7),Hiveling,0,0,0,0,0
+Hive_01/Hatcher Cage (1)/Hiveling Spawner (8),Hiveling,0,0,0,0,0
+Hive_01/Hiveling Spawner,Hiveling,0,0,0,0,0
+Hive_01/Zombie Hive,Husk Hive,6,2,0,16,23
+Hive_02/Bee Hatchling Ambient (10),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (11),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (12),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (13),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (14),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (2),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (3),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (4),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (5),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (6),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (7),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (8),Hiveling,0,0,0,0,0
+Hive_02/Bee Hatchling Ambient (9),Hiveling,0,0,0,0,0
+Hive_02/Bee Stinger (1),Hive Soldier,10,1,0,15,22
+Hive_02/Bee Stinger (2),Hive Soldier,10,1,0,15,22
+Hive_02/Bee Stinger (3),Hive Soldier,10,1,0,15,22
+Hive_02/Geo Rock Hive,Geo Rock,6,6,20,56,56
+Hive_02/Geo Rock Hive (1),Geo Rock,6,6,20,56,56
+Hive_02/Geo Rock Hive (2),Geo Rock,6,6,20,56,56
+Hive_02/Hatcher Cage (2)/Hiveling Spawner,Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (1),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (10),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (11),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (12),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (13),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (14),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (15),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (16),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (17),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (18),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (19),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (2),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (3),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (4),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (5),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (6),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (7),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (8),Hiveling,0,0,0,0,0
+Hive_02/Hatcher Cage (2)/Hiveling Spawner (9),Hiveling,0,0,0,0,0
+Hive_02/Zombie Hive (1),Husk Hive,6,2,0,16,23
+Hive_02/Zombie Hive (2),Husk Hive,6,2,0,16,23
+Hive_02/Zombie Hive (3),Husk Hive,6,2,0,16,23
+Hive_03/Bee Hatchling Ambient (16),Hiveling,0,0,0,0,0
+Hive_03/Bee Hatchling Ambient (17),Hiveling,0,0,0,0,0
+Hive_03/Bee Hatchling Ambient (21),Hiveling,0,0,0,0,0
+Hive_03/Bee Hatchling Ambient (22),Hiveling,0,0,0,0,0
+Hive_03/Bee Hatchling Ambient (23),Hiveling,0,0,0,0,0
+Hive_03/Bee Hatchling Ambient (24),Hiveling,0,0,0,0,0
+Hive_03/Bee Hatchling Ambient (25),Hiveling,0,0,0,0,0
+Hive_03/Bee Hatchling Ambient (26),Hiveling,0,0,0,0,0
+Hive_03/Bee Hatchling Ambient (27),Hiveling,0,0,0,0,0
+Hive_03/Bee Hatchling Ambient (29),Hiveling,0,0,0,0,0
+Hive_03/Bee Hatchling Ambient (30),Hiveling,0,0,0,0,0
+Hive_03/Bee Stinger (7),Hive Soldier,10,1,0,15,22
+Hive_03/Bee Stinger (8),Hive Soldier,10,1,0,15,22
+Hive_03/Big Bee (2),Hive Guardian,10,3,0,25,32
+Hive_03/Geo Rock Hive,Geo Rock,6,6,20,56,56
+Hive_03/Geo Rock Hive (1),Geo Rock,6,6,20,56,56
+Hive_03/Geo Rock Hive (2),Geo Rock,6,6,20,56,56
+Hive_03_c/Bee Hatchling Ambient (11),Hiveling,0,0,0,0,0
+Hive_03_c/Bee Hatchling Ambient (12),Hiveling,0,0,0,0,0
+Hive_03_c/Bee Hatchling Ambient (13),Hiveling,0,0,0,0,0
+Hive_03_c/Bee Hatchling Ambient (14),Hiveling,0,0,0,0,0
+Hive_03_c/Bee Hatchling Ambient (15),Hiveling,0,0,0,0,0
+Hive_03_c/Bee Hatchling Ambient (18),Hiveling,0,0,0,0,0
+Hive_03_c/Bee Hatchling Ambient (19),Hiveling,0,0,0,0,0
+Hive_03_c/Bee Hatchling Ambient (20),Hiveling,0,0,0,0,0
+Hive_03_c/Bee Hatchling Ambient (35),Hiveling,0,0,0,0,0
+Hive_03_c/Bee Stinger (4),Hive Soldier,10,1,0,15,22
+Hive_03_c/Bee Stinger (5),Hive Soldier,10,1,0,15,22
+Hive_03_c/Bee Stinger (6),Hive Soldier,10,1,0,15,22
+Hive_03_c/Big Bee,Hive Guardian,10,3,0,25,32
+Hive_03_c/Big Bee (1),Hive Guardian,10,3,0,25,32
+Hive_04/Bee Hatchling Ambient (22),Hiveling,0,0,0,0,0
+Hive_04/Bee Hatchling Ambient (31),Hiveling,0,0,0,0,0
+Hive_04/Bee Hatchling Ambient (32),Hiveling,0,0,0,0,0
+Hive_04/Bee Hatchling Ambient (34),Hiveling,0,0,0,0,0
+Hive_04/Bee Stinger (10),Hive Soldier,10,1,0,15,22
+Hive_04/Bee Stinger (11),Hive Soldier,10,1,0,15,22
+Hive_04/Bee Stinger (12),Hive Soldier,10,1,0,15,22
+Hive_04/Bee Stinger (9),Hive Soldier,10,1,0,15,22
+Hive_04/Big Bee (3),Hive Guardian,10,3,0,25,32
+Hive_04/Big Bee (4),Hive Guardian,10,3,0,25,32
+Hive_04/Geo Rock Hive,Geo Rock,6,6,20,56,56
+Hive_04/Geo Rock Hive (1),Geo Rock,6,6,20,56,56
+Hive_04/Hatcher Cage (2)/Hiveling Spawner,Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (1),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (10),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (11),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (12),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (13),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (14),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (15),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (16),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (17),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (18),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (19),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (2),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (3),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (4),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (5),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (6),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (7),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (8),Hiveling,0,0,0,0,0
+Hive_04/Hatcher Cage (2)/Hiveling Spawner (9),Hiveling,0,0,0,0,0
+Hive_04/Zombie Hive (4),Husk Hive,6,2,0,16,23
+Hive_04/Zombie Hive (6),Husk Hive,6,2,0,16,23
+Hive_05/Battle Scene/Hive Knight,Hive Knight,0,0,0,0,0
+Mines_01/Egg Sac,Bluggsac,0,0,0,0,0
+Mines_02/Crystal Crawler,Glimback,6,0,0,6,8
+Mines_02/Crystal Crawler (1),Glimback,6,0,0,6,8
+Mines_02/Geo Rock 1,Geo Rock,2,5,5,15,15
+Mines_02/Geo Rock Mine,Geo Rock,4,4,8,24,24
+Mines_02/Geo Rock Mine (1),Geo Rock,4,4,6,22,22
+Mines_02/Zombie Miner 1,Husk Miner,10,0,0,10,12
+Mines_02/Zombie Miner 1 (1),Husk Miner,10,0,0,10,12
+Mines_03/Crystal Crawler,Glimback,6,0,0,6,8
+Mines_03/Crystal Crawler (1),Glimback,6,0,0,6,8
+Mines_03/Zombie Miner 1 (1),Husk Miner,10,0,0,10,12
+Mines_03/Zombie Miner 1 (2),Husk Miner,10,0,0,10,12
+Mines_03/Zombie Miner 1 (3),Husk Miner,10,0,0,10,12
+Mines_04/Crystal Flyer,Crystal Hunter,2,1,0,7,13
+Mines_04/Crystal Flyer (1),Crystal Hunter,2,1,0,7,13
+Mines_04/Crystal Flyer (2),Crystal Hunter,2,1,0,7,13
+Mines_04/Crystal Flyer (3),Crystal Hunter,2,1,0,7,13
+Mines_04/Geo Rock Mine,Geo Rock,4,3,4,16,16
+Mines_04/Geo Rock Mine (1),Geo Rock,4,3,4,16,16
+Mines_04/Zombie Miner 1,Husk Miner,10,0,0,10,12
+Mines_04/Zombie Miner 1 (1),Husk Miner,10,0,0,10,12
+Mines_05/Crystallised Lazer Bug,Crystal Crawler,8,0,0,8,10
+Mines_05/Crystallised Lazer Bug (1),Crystal Crawler,8,0,0,8,10
+Mines_05/Crystallised Lazer Bug (10),Crystal Crawler,8,0,0,8,10
+Mines_05/Crystallised Lazer Bug (11),Crystal Crawler,8,0,0,8,10
+Mines_05/Crystallised Lazer Bug (12),Crystal Crawler,8,0,0,8,10
+Mines_05/Crystallised Lazer Bug (2),Crystal Crawler,8,0,0,8,10
+Mines_05/Crystallised Lazer Bug (3),Crystal Crawler,8,0,0,8,10
+Mines_05/Crystallised Lazer Bug (5),Crystal Crawler,8,0,0,8,10
+Mines_05/Crystallised Lazer Bug (6),Crystal Crawler,8,0,0,8,10
+Mines_05/Crystallised Lazer Bug (9),Crystal Crawler,8,0,0,8,10
+Mines_05/Geo Rock Mine,Geo Rock,4,4,8,24,24
+Mines_05/Zombie Miner 1,Husk Miner,10,0,0,10,12
+Mines_07/Crystal Crawler,Glimback,6,0,0,6,8
+Mines_07/Crystal Flyer,Crystal Hunter,2,1,0,7,13
+Mines_07/Crystal Flyer (2),Crystal Hunter,2,1,0,7,13
+Mines_11/Crystal Crawler,Glimback,6,0,0,6,8
+Mines_11/Crystallised Lazer Bug,Crystal Crawler,8,0,0,8,10
+Mines_11/Crystallised Lazer Bug (1),Crystal Crawler,8,0,0,8,10
+Mines_11/Crystallised Lazer Bug (2),Crystal Crawler,8,0,0,8,10
+Mines_11/Crystallised Lazer Bug (3),Crystal Crawler,8,0,0,8,10
+Mines_11/Crystallised Lazer Bug (4),Crystal Crawler,8,0,0,8,10
+Mines_11/Mines Crawler,Shardmite,2,0,0,2,3
+Mines_11/Mines Crawler (1),Shardmite,2,0,0,2,3
+Mines_11/Zombie Miner 1,Husk Miner,10,0,0,10,12
+Mines_16/Crystal Flyer,Crystal Hunter,2,1,0,7,13
+Mines_16/Crystal Flyer (1),Crystal Hunter,2,1,0,7,13
+Mines_16/Geo Rock Mine,Geo Rock,4,4,8,24,24
+Mines_16/Grub Mimic Top/Grub Mimic,Grub Mimic,0,0,0,0,0
+Mines_17/_Enemies/Zombie Miner 1,Husk Miner,10,0,0,10,12
+Mines_17/_Enemies/Zombie Miner 1 (1),Husk Miner,10,0,0,10,12
+Mines_18_boss/Mega Zombie Beam Miner (1),Crystal Guardian,35,20,10,385,462
+Mines_20/Crystal Crawler,Glimback,6,0,0,6,8
+Mines_20/Crystal Crawler (1),Glimback,6,0,0,6,8
+Mines_20/Crystal Flyer,Crystal Hunter,2,1,0,7,13
+Mines_20/Crystal Flyer (1),Crystal Hunter,2,1,0,7,13
+Mines_20/Crystal Flyer (2),Crystal Hunter,2,1,0,7,13
+Mines_20/Crystal Flyer (3),Crystal Hunter,2,1,0,7,13
+Mines_20/Crystallised Lazer Bug (3),Crystal Crawler,8,0,0,8,10
+Mines_20/Crystallised Lazer Bug (4),Crystal Crawler,8,0,0,8,10
+Mines_20/Crystallised Lazer Bug (5),Crystal Crawler,8,0,0,8,10
+Mines_20/Crystallised Lazer Bug (6),Crystal Crawler,8,0,0,8,10
+Mines_20/Crystallised Lazer Bug (7),Crystal Crawler,8,0,0,8,10
+Mines_20/Crystallised Lazer Bug (8),Crystal Crawler,8,0,0,8,10
+Mines_20/Crystallised Lazer Bug (9),Crystal Crawler,8,0,0,8,10
+Mines_20/Egg Sac,Bluggsac,0,0,0,0,0
+Mines_20/Geo Rock Mine (2),Geo Rock,4,4,8,24,24
+Mines_20/Geo Rock Mine (3),Geo Rock,4,4,8,24,24
+Mines_20/Geo Rock Mine (4),Geo Rock,4,4,8,24,24
+Mines_20/Mines Crawler,Shardmite,2,0,0,2,3
+Mines_20/Shiny Item (1),Wanderer's Journal,,,,200,200
+Mines_20/Zombie Miner 1,Husk Miner,10,0,0,10,12
+Mines_20/Zombie Miner 1 (1),Husk Miner,10,0,0,10,12
+Mines_20/Zombie Miner 1 (9),Husk Miner,10,0,0,10,12
+Mines_23/Crystal Flyer,Crystal Hunter,2,1,0,7,13
+Mines_23/Crystal Flyer (1),Crystal Hunter,2,1,0,7,13
+Mines_23/Crystal Flyer (2),Crystal Hunter,2,1,0,7,13
+Mines_23/Zombie Beam Miner,Crystallised Husk,10,2,0,20,27
+Mines_23/Zombie Beam Miner (1),Crystallised Husk,10,2,0,20,27
+Mines_23/Zombie Beam Miner (2),Crystallised Husk,10,2,0,20,27
+Mines_23/Zombie Beam Miner (3),Crystallised Husk,10,2,0,20,27
+Mines_23/Zombie Beam Miner (4),Crystallised Husk,10,2,0,20,27
+Mines_24/Mines Crawler,Shardmite,2,0,0,2,3
+Mines_24/Mines Crawler (1),Shardmite,2,0,0,2,3
+Mines_24/Zombie Beam Miner,Crystallised Husk,10,2,0,20,27
+Mines_25/Crystal Flyer,Crystal Hunter,2,1,0,7,13
+Mines_25/Crystal Flyer (1),Crystal Hunter,2,1,0,7,13
+Mines_25/Crystal Flyer (2),Crystal Hunter,2,1,0,7,13
+Mines_25/Geo Rock Mine,Geo Rock,4,4,8,24,24
+Mines_25/Geo Rock Mine (1),Geo Rock,4,4,8,24,24
+Mines_25/Geo Rock Mine (2),Geo Rock,4,4,8,24,24
+Mines_25/Geo Rock Mine (3),Geo Rock,4,4,8,24,24
+Mines_25/Geo Rock Mine (4),Geo Rock,4,4,8,24,24
+Mines_25/Mines Crawler,Shardmite,2,0,0,2,3
+Mines_25/Mines Crawler (1),Shardmite,2,0,0,2,3
+Mines_25/Mines Crawler (2),Shardmite,2,0,0,2,3
+Mines_25/Mines Crawler (4),Shardmite,2,0,0,2,3
+Mines_25/Mines Crawler (5),Shardmite,2,0,0,2,3
+Mines_25/Mines Crawler (6),Shardmite,2,0,0,2,3
+Mines_25/Zombie Beam Miner,Crystallised Husk,10,2,0,20,27
+Mines_25/Zombie Beam Miner (1),Crystallised Husk,10,2,0,20,27
+Mines_25/Zombie Beam Miner (2),Crystallised Husk,10,2,0,20,27
+Mines_25/Zombie Beam Miner (3),Crystallised Husk,10,2,0,20,27
+Mines_30/Crystal Crawler,Glimback,6,0,0,6,8
+Mines_30/Shiny Item Stand,King's Idol,,,,800,800
+Mines_31/Geo Rock Mine,Geo Rock,4,4,8,24,24
+Mines_32/Battle Scene/Zombie Beam Miner Rematch,Enraged Guardian,50,50,10,550,666
+Mines_33/Crystal Crawler (1),Glimback,6,0,0,6,8
+Mines_33/Crystal Crawler (2),Glimback,6,0,0,6,8
+Mines_33/Geo Rock 2,Geo Rock,2,5,5,15,15
+Mines_33/Geo Rock 2 (1),Geo Rock,2,5,5,15,15
+Mines_33/Geo Rock 2 (2),Geo Rock,2,5,5,15,15
+Mines_34/Crystal Crawler,Glimback,6,0,0,6,8
+Mines_34/Crystal Flyer,Crystal Hunter,2,1,0,7,13
+Mines_34/Mines Crawler,Shardmite,2,0,0,2,3
+Mines_34/Mines Crawler (1),Shardmite,2,0,0,2,3
+Mines_34/Mines Crawler (2),Shardmite,2,0,0,2,3
+Mines_34/Mines Crawler (3),Shardmite,2,0,0,2,3
+Mines_35/Crystal Flyer,Crystal Hunter,2,1,0,7,13
+Mines_35/Crystal Flyer (1),Crystal Hunter,2,1,0,7,13
+Mines_35/Crystal Flyer (2),Crystal Hunter,2,1,0,7,13
+Mines_35/Mines Crawler,Shardmite,2,0,0,2,3
+Mines_35/Roller,Baldur,4,0,0,4,5
+Mines_37/Crystallised Lazer Bug,Crystal Crawler,8,0,0,8,10
+Mines_37/Crystallised Lazer Bug (1),Crystal Crawler,8,0,0,8,10
+Mines_37/Geo Rock Mine,Geo Rock,4,4,8,24,24
+Mines_37/Geo Rock Mine (1),Geo Rock,4,4,8,24,24
+Mines_37/Mines Crawler (1),Shardmite,2,0,0,2,3
+Mines_37/Zombie Miner 1 (2),Husk Miner,10,0,0,10,12
+Mines_37/Zombie Miner 1 (3),Husk Miner,10,0,0,10,12
+Mines_37/Zombie Miner 1 (4),Husk Miner,10,0,0,10,12
+Mines_37/Zombie Miner 1 (5),Husk Miner,10,0,0,10,12
+Mines_37/Zombie Miner 1 (6),Husk Miner,10,0,0,10,12
+RestingGrounds_06/Great Shield Zombie,Great Husk Sentry,0,5,1,50,80
+RestingGrounds_06/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+RestingGrounds_08/Shiny Item,King's Idol,,,,800,800
+RestingGrounds_10/Ceiling Dropper,Belfly,0,0,0,0,0
+RestingGrounds_10/Ceiling Dropper (1),Belfly,0,0,0,0,0
+RestingGrounds_10/Ceiling Dropper (2),Belfly,0,0,0,0,0
+RestingGrounds_10/Ceiling Dropper (3),Belfly,0,0,0,0,0
+RestingGrounds_10/Geo Rock Grave 01,Geo Rock,0,3,25,25,25
+RestingGrounds_10/Geo Rock Grave 02,Geo Rock,0,3,25,25,25
+RestingGrounds_10/Geo Rock Grave 02 (1),Geo Rock,0,3,25,25,25
+RestingGrounds_10/Grave Zombie,Entombed Husk,5,2,0,15,21
+RestingGrounds_10/Grave Zombie (1),Entombed Husk,5,2,0,15,21
+RestingGrounds_10/Grave Zombie (2),Entombed Husk,5,2,0,15,21
+RestingGrounds_10/Grave Zombie (4),Entombed Husk,5,2,0,15,21
+RestingGrounds_10/Shiny Item,Wanderer's Journal,,,,200,200
+RestingGrounds_10/Shiny Item (1),Hallownest Seal,,,,450,450
+Room_Colosseum_Gold/Colosseum Manager/Waves/Lobster Lancer/Entry Object/Lobster,God Tamer,0,0,0,0,0
+Room_Colosseum_Gold/Colosseum Manager/Waves/Wave 24/Mage Knight,Soul Warrior,0,0,0,0,0
+Room_Colosseum_Gold/Colosseum Manager/Waves/Wave 29/Mage,Soul Twister,0,0,0,0,0
+Room_Colosseum_Gold/Colosseum Manager/Waves/Wave 29/Mage Knight,Soul Warrior,0,0,0,0,0
+Room_Fungus_Shaman/Geo Rock Green Path 02,Geo Rock,4,5,10,30,30
+Room_Fungus_Shaman/Mosquito,Squit,5,0,0,5,6
+Room_Fungus_Shaman/Mosquito (1),Squit,5,0,0,5,6
+Room_Fungus_Shaman/Mosquito (3),Squit,5,0,0,5,6
+Room_Fungus_Shaman/Mosquito (4),Squit,5,0,0,5,6
+Room_Fungus_Shaman/Mosquito (6),Squit,5,0,0,5,6
+Room_Fungus_Shaman/Mosquito (7),Squit,5,0,0,5,6
+Room_GG_Shortcut/Fungoon Baby,Fungling,2,0,0,2,3
+Room_GG_Shortcut/Fungoon Baby (1),Fungling,2,0,0,2,3
+Room_GG_Shortcut/Fungoon Baby (2),Fungling,2,0,0,2,3
+Room_GG_Shortcut/Fungoon Baby (3),Fungling,2,0,0,2,3
+Room_GG_Shortcut/Fungoon Baby (4),Fungling,2,0,0,2,3
+Room_GG_Shortcut/Geo Rock Fung 01,Geo Rock,3,5,7,22,22
+Room_GG_Shortcut/Geo Rock Fung 02 (1),Geo Rock,4,3,5,17,17
+Ruins_Elevator/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Ruins_Elevator/Shiny Item (1),Wanderer's Journal,,,,200,200
+Ruins_House_01/Battle Scene/Great Shield Zombie,Great Husk Sentry,0,5,1,50,80
+Ruins_House_02/Gorgeous Husk,Gorgeous Husk,20,5,15,420,504
+Ruins_House_02/Royal Zombie 1 (1),Husk Dandy,4,1,0,9,15
+Ruins_House_02/Royal Zombie Coward,Cowardly Husk,4,1,0,9,15
+Ruins_House_02/Royal Zombie Coward (1),Cowardly Husk,4,1,0,9,15
+Ruins_House_02/Royal Zombie Fat,Gluttonous Husk,6,1,0,11,18
+Ruins1_01/Ceiling Dropper,Belfly,0,0,0,0,0
+Ruins1_01/Ceiling Dropper (1),Belfly,0,0,0,0,0
+Ruins1_01/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Ruins1_01/Zombie Barger,Husk Bully,3,0,0,3,4
+Ruins1_01/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Ruins1_01/Zombie Leaper,Leaping Husk,3,0,0,3,4
+Ruins1_02/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Ruins1_02/Ruins Sentry 1 (1),Husk Sentry,5,1,0,10,16
+Ruins1_03/_Enemies/Buzzer,Vengefly,3,0,0,3,4
+Ruins1_03/_Enemies/Buzzer (2),Vengefly,3,0,0,3,4
+Ruins1_03/_Props/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Ruins1_03/_Scenery/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Ruins1_03/_Scenery/Ruins Flying Sentry (2),Winged Sentry,2,2,0,12,18
+Ruins1_03/_Scenery/Ruins Flying Sentry (3),Winged Sentry,2,2,0,12,18
+Ruins1_03/_Scenery/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Ruins1_03/_Scenery/Ruins Sentry 1 (1),Husk Sentry,5,1,0,10,16
+Ruins1_03/_Scenery/Ruins Sentry 1 (2),Husk Sentry,5,1,0,10,16
+Ruins1_03/_Scenery/Ruins Sentry 1 (3),Husk Sentry,5,1,0,10,16
+Ruins1_03/Shiny Item,Hallownest Seal,,,,450,450
+Ruins1_03/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Ruins1_03/Zombie Hornhead (1),Husk Hornhead,4,0,0,4,5
+Ruins1_03/Zombie Leaper,Leaping Husk,3,0,0,3,4
+Ruins1_04/_Enemies/Buzzer,Vengefly,3,0,0,3,4
+Ruins1_04/_Enemies/Buzzer (1),Vengefly,3,0,0,3,4
+Ruins1_04/_Enemies/Buzzer (2),Vengefly,3,0,0,3,4
+Ruins1_04/_Enemies/Zombie Barger,Husk Bully,3,0,0,3,4
+Ruins1_04/_Enemies/Zombie Runner,Wandering Husk,3,0,0,3,4
+Ruins1_04/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Ruins1_05/Battle Scene v2/Wave 1/Ruins Sentry FatB,Heavy Sentry,5,1,0,10,16
+Ruins1_05/Battle Scene v2/Wave 2/Ruins Flying SentryB,Winged Sentry,2,2,0,12,18
+Ruins1_05/Battle Scene v2/Wave 2/Ruins SentryB 1,Husk Sentry,5,1,0,10,16
+Ruins1_05/Ceiling Dropper,Belfly,0,0,0,0,0
+Ruins1_05/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Ruins1_05/Ruins Flying Sentry (1),Winged Sentry,2,2,0,12,18
+Ruins1_05/Ruins Flying Sentry Javelin (3),Lance Sentry,2,2,0,12,18
+Ruins1_05/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Ruins1_05b/Geo Rock City 1 (1),Geo Rock,4,5,10,30,30
+Ruins1_05c/Buzzer,Vengefly,3,0,0,3,4
+Ruins1_05c/Buzzer (1),Vengefly,3,0,0,3,4
+Ruins1_05c/Ceiling Dropper (4),Belfly,0,0,0,0,0
+Ruins1_05c/Ceiling Dropper (5),Belfly,0,0,0,0,0
+Ruins1_05c/Ceiling Dropper (6),Belfly,0,0,0,0,0
+Ruins1_05c/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Ruins1_05c/Ruins Flying Sentry Javelin (2),Lance Sentry,2,2,0,12,18
+Ruins1_05c/Ruins Sentry 1 (7),Husk Sentry,5,1,0,10,16
+Ruins1_05c/Ruins Sentry 1 (9),Husk Sentry,5,1,0,10,16
+Ruins1_05c/Ruins Sentry Fat,Heavy Sentry,5,1,0,10,16
+Ruins1_05c/Ruins Sentry Fat (5),Heavy Sentry,5,1,0,10,16
+Ruins1_05c/Zombie Barger,Husk Bully,3,0,0,3,4
+Ruins1_09/Battle Scene/Mage,Soul Twister,10,3,0,25,32
+Ruins1_17/Buzzer (1),Vengefly,3,0,0,3,4
+Ruins1_17/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Ruins1_17/Ruins Flying Sentry (1),Winged Sentry,2,2,0,12,18
+Ruins1_17/Ruins Flying Sentry Javelin,Lance Sentry,2,2,0,12,18
+Ruins1_17/Ruins Flying Sentry Javelin (1),Lance Sentry,2,2,0,12,18
+Ruins1_17/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Ruins1_17/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Ruins1_17/Zombie Leaper,Leaping Husk,3,0,0,3,4
+Ruins1_23/Mage,Soul Twister,10,3,0,25,32
+Ruins1_23/Mage (1),Soul Twister,10,3,0,25,32
+Ruins1_23/Mage Blob 1,Mistake,3,0,0,3,4
+Ruins1_23/Mage Blob 2,Mistake,3,0,0,3,4
+Ruins1_23/Mage Blob 2 (1),Mistake,3,0,0,3,4
+Ruins1_23/Mage Blob 2 (2),Mistake,3,0,0,3,4
+Ruins1_23/Mage Knight,Soul Warrior,50,10,4,200,246
+Ruins1_24_boss/Mage Lord Phase2,Soul Master,0,0,0,0,0
+Ruins1_25/Mage,Soul Twister,10,3,0,25,32
+Ruins1_25/Mage (1),Soul Twister,10,3,0,25,32
+Ruins1_25/Mage Blob 1 (1),Mistake,3,0,0,3,4
+Ruins1_25/Mage Blob 1 (2),Mistake,3,0,0,3,4
+Ruins1_25/Mage Blob 1 (3),Mistake,3,0,0,3,4
+Ruins1_25/Mage Blob 2 (1),Mistake,3,0,0,3,4
+Ruins1_25/Mage Blob 2 (2),Mistake,3,0,0,3,4
+Ruins1_27/_Scenery/Royal Zombie 1,Husk Dandy,4,1,0,9,15
+Ruins1_27/_Scenery/Royal Zombie 1 (1),Husk Dandy,4,1,0,9,15
+Ruins1_27/_Scenery/Royal Zombie Coward,Cowardly Husk,4,1,0,9,15
+Ruins1_27/_Scenery/Royal Zombie Coward (1),Cowardly Husk,4,1,0,9,15
+Ruins1_28/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Ruins1_28/Shiny Item,Wanderer's Journal,,,,200,200
+Ruins1_28/Zombie Barger,Husk Bully,3,0,0,3,4
+Ruins1_28/Zombie Runner,Wandering Husk,3,0,0,3,4
+Ruins1_28/Zombie Runner (1),Wandering Husk,3,0,0,3,4
+Ruins1_30/Mage,Soul Twister,10,3,0,25,32
+Ruins1_30/Mage (1),Soul Twister,10,3,0,25,32
+Ruins1_30/Mage (2),Soul Twister,10,3,0,25,32
+Ruins1_30/Mage Balloon,Folly,5,0,0,5,6
+Ruins1_30/Mage Balloon (1),Folly,5,0,0,5,6
+Ruins1_30/Mage Balloon (2),Folly,5,0,0,5,6
+Ruins1_30/Mage Balloon (3),Folly,5,0,0,5,6
+Ruins1_30/Mage Blob 1,Mistake,3,0,0,3,4
+Ruins1_30/Mage Blob 1 (1),Mistake,3,0,0,3,4
+Ruins1_30/Mage Blob 1 (2),Mistake,3,0,0,3,4
+Ruins1_30/Mage Blob 1 (3),Mistake,3,0,0,3,4
+Ruins1_30/Mage Blob 2,Mistake,3,0,0,3,4
+Ruins1_30/Mage Blob 2 (1),Mistake,3,0,0,3,4
+Ruins1_30/Mage Blob 2 (2),Mistake,3,0,0,3,4
+Ruins1_30/Mage Blob 2 (3),Mistake,3,0,0,3,4
+Ruins1_30/Mage Blob 2 (4),Mistake,3,0,0,3,4
+Ruins1_31b/Mage Knight,Soul Warrior,50,10,4,200,246
+Ruins1_32/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Ruins1_32/Mage Balloon,Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (1),Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (10),Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (11),Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (2),Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (3),Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (4),Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (5),Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (6),Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (7),Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (8),Folly,5,0,0,5,6
+Ruins1_32/Mage Balloon (9),Folly,5,0,0,5,6
+Ruins1_32/Mage Blob 1,Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 1 (1),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 1 (10),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 1 (11),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 1 (2),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 1 (3),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 1 (4),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 1 (6),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 1 (7),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 1 (8),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 1 (9),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 2,Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 2 (1),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 2 (2),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 2 (4),Mistake,3,0,0,3,4
+Ruins1_32/Mage Blob 2 (5),Mistake,3,0,0,3,4
+Ruins1_32/Shiny Item,Hallownest Seal,,,,450,450
+Ruins2_01/Battle Scene/Great Shield Zombie,Great Husk Sentry,0,5,1,50,80
+Ruins2_01/Battle Scene/Ruins Flying Sentry Javelin (1),Lance Sentry,2,2,0,12,18
+Ruins2_01/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Ruins2_01/Royal Zombie 1 (1),Husk Dandy,4,1,0,9,15
+Ruins2_01/Royal Zombie 1 (4),Husk Dandy,4,1,0,9,15
+Ruins2_01/Royal Zombie Coward (1),Cowardly Husk,4,1,0,9,15
+Ruins2_01/Royal Zombie Coward (2),Cowardly Husk,4,1,0,9,15
+Ruins2_01/Royal Zombie Coward (3),Cowardly Husk,4,1,0,9,15
+Ruins2_01/Royal Zombie Fat (2),Gluttonous Husk,6,1,0,11,18
+Ruins2_01/Royal Zombie Fat (3),Gluttonous Husk,6,1,0,11,18
+Ruins2_01/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Ruins2_01/Ruins Flying Sentry Javelin,Lance Sentry,2,2,0,12,18
+Ruins2_01/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Ruins2_01/Ruins Sentry Fat,Heavy Sentry,5,1,0,10,16
+Ruins2_01_b/Royal Zombie 1,Husk Dandy,4,1,0,9,15
+Ruins2_01_b/Royal Zombie Coward,Cowardly Husk,4,1,0,9,15
+Ruins2_01_b/Royal Zombie Fat,Gluttonous Husk,6,1,0,11,18
+Ruins2_01_b/Royal Zombie Fat (1),Gluttonous Husk,6,1,0,11,18
+Ruins2_03/_Enemies/Great Shield Zombie,Great Husk Sentry,0,5,1,50,80
+Ruins2_03/_Enemies/Ruins Flying Sentry Javelin,Lance Sentry,2,2,0,12,18
+Ruins2_03/Shiny Item,Hallownest Seal,,,,450,450
+Ruins2_03b/_Enemies/Great Shield Zombie bottom,Great Husk Sentry,0,5,1,50,80
+Ruins2_03b/_Enemies/Royal Zombie 1,Husk Dandy,4,1,0,9,15
+Ruins2_03b/_Enemies/Royal Zombie 1 (1),Husk Dandy,4,1,0,9,15
+Ruins2_03b/_Enemies/Royal Zombie Coward,Cowardly Husk,4,1,0,9,15
+Ruins2_03b/_Enemies/Royal Zombie Fat,Gluttonous Husk,6,1,0,11,18
+Ruins2_03b/_Enemies/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Ruins2_03b/_Enemies/Ruins Flying Sentry (1),Winged Sentry,2,2,0,12,18
+Ruins2_04/Great Shield Zombie,Great Husk Sentry,0,5,1,50,80
+Ruins2_04/Great Shield Zombie (1),Great Husk Sentry,0,5,1,50,80
+Ruins2_04/Great Shield Zombie (2),Great Husk Sentry,0,5,1,50,80
+Ruins2_04/Great Shield Zombie (3),Great Husk Sentry,0,5,1,50,80
+Ruins2_04/Royal Zombie 1,Husk Dandy,4,1,0,9,15
+Ruins2_04/Royal Zombie 1 (1),Husk Dandy,4,1,0,9,15
+Ruins2_04/Royal Zombie Coward,Cowardly Husk,4,1,0,9,15
+Ruins2_04/Royal Zombie Coward (1),Cowardly Husk,4,1,0,9,15
+Ruins2_04/Royal Zombie Fat,Gluttonous Husk,6,1,0,11,18
+Ruins2_04/Royal Zombie Fat (1),Gluttonous Husk,6,1,0,11,18
+Ruins2_05/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Ruins2_05/Royal Zombie 1,Husk Dandy,4,1,0,9,15
+Ruins2_05/Royal Zombie 1 (1),Husk Dandy,4,1,0,9,15
+Ruins2_05/Royal Zombie 1 (2),Husk Dandy,4,1,0,9,15
+Ruins2_05/Royal Zombie Coward (1),Cowardly Husk,4,1,0,9,15
+Ruins2_05/Royal Zombie Coward (2),Cowardly Husk,4,1,0,9,15
+Ruins2_05/Royal Zombie Coward (3),Cowardly Husk,4,1,0,9,15
+Ruins2_05/Royal Zombie Fat,Gluttonous Husk,6,1,0,11,18
+Ruins2_05/Royal Zombie Fat (1),Gluttonous Husk,6,1,0,11,18
+Ruins2_05/Royal Zombie Fat (2),Gluttonous Husk,6,1,0,11,18
+Ruins2_05/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Ruins2_05/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Ruins2_05/Ruins Sentry 1 (2),Husk Sentry,5,1,0,10,16
+Ruins2_05/Ruins Sentry 1 (3),Husk Sentry,5,1,0,10,16
+Ruins2_05/Ruins Sentry Fat,Heavy Sentry,5,1,0,10,16
+Ruins2_05/Shiny Item,Wanderer's Journal,,,,200,200
+Ruins2_06/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Ruins2_06/Royal Zombie 1 (1),Husk Dandy,4,1,0,9,15
+Ruins2_06/Royal Zombie Fat,Gluttonous Husk,6,1,0,11,18
+Ruins2_06/Ruins Flying Sentry Javelin,Lance Sentry,2,2,0,12,18
+Ruins2_06/Zombie Hornhead,Husk Hornhead,4,0,0,4,5
+Ruins2_07/Buzzer,Vengefly,3,0,0,3,4
+Ruins2_07/Buzzer (1),Vengefly,3,0,0,3,4
+Ruins2_07/Ceiling Dropper,Belfly,0,0,0,0,0
+Ruins2_07/Ceiling Dropper (1),Belfly,0,0,0,0,0
+Ruins2_07/Ceiling Dropper (2),Belfly,0,0,0,0,0
+Ruins2_08/Shiny Item,Hallownest Seal,,,,450,450
+Ruins2_09/Battle Scene/Wave 1/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Ruins2_09/Battle Scene/Wave 1/Ruins Sentry Fat,Heavy Sentry,5,1,0,10,16
+Ruins2_09/Battle Scene/Wave 2/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Ruins2_09/Battle Scene/Wave 2/Ruins Flying Sentry Javelin,Lance Sentry,2,2,0,12,18
+Ruins2_09/Battle Scene/Wave 3/Ruins Flying Sentry (1),Winged Sentry,2,2,0,12,18
+Ruins2_09/Battle Scene/Wave 3/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Ruins2_09/Battle Scene/Wave 3/Ruins Sentry Fat,Heavy Sentry,5,1,0,10,16
+Ruins2_09/Battle Scene/Wave 4/Ruins Flying Sentry (1),Winged Sentry,2,2,0,12,18
+Ruins2_09/Battle Scene/Wave 4/Ruins Flying Sentry Javelin,Lance Sentry,2,2,0,12,18
+Ruins2_09/Battle Scene/Wave 4/Ruins Sentry Fat,Heavy Sentry,5,1,0,10,16
+Ruins2_09/Royal Zombie 1,Husk Dandy,4,1,0,9,15
+Ruins2_09/Royal Zombie Coward,Cowardly Husk,4,1,0,9,15
+Ruins2_09/Royal Zombie Fat,Gluttonous Husk,6,1,0,11,18
+Ruins2_11_boss/Battle Scene/Jar Collector,The Collector,0,0,0,0,0
+Ruins2_Watcher_Room/Royal Zombie Coward,Cowardly Husk,4,1,0,9,15
+Tutorial_01/_Enemies/Buzzer,Vengefly,3,0,0,3,4
+Tutorial_01/_Enemies/Buzzer 1,Vengefly,3,0,0,3,4
+Tutorial_01/_Enemies/Buzzer 2,Vengefly,3,0,0,3,4
+Tutorial_01/_Enemies/Crawler 1,Crawlid,2,0,0,2,3
+Tutorial_01/_Enemies/Crawler 2,Crawlid,2,0,0,2,3
+Tutorial_01/_Enemies/Crawler 3,Crawlid,2,0,0,2,3
+Tutorial_01/_Props/Geo Rock 1,Geo Rock,2,5,5,15,15
+Tutorial_01/_Props/Geo Rock 2,Geo Rock,3,4,6,18,18
+Tutorial_01/_Props/Geo Rock 3,Geo Rock,2,5,5,15,15
+Tutorial_01/_Props/Geo Rock 4,Geo Rock,2,5,5,15,15
+Tutorial_01/_Props/Geo Rock 5,Geo Rock,2,5,5,15,15
+Waterways_01/_Enemies/Ceiling Dropper,Belfly,0,0,0,0,0
+Waterways_01/_Enemies/Ceiling Dropper (1),Belfly,0,0,0,0,0
+Waterways_01/_Enemies/Ceiling Dropper (2),Belfly,0,0,0,0,0
+Waterways_01/_Enemies/Ceiling Dropper (3),Belfly,0,0,0,0,0
+Waterways_01/_Enemies/Ceiling Dropper (4),Belfly,0,0,0,0,0
+Waterways_01/_Enemies/Flip Hopper,Pilflip,5,0,0,5,6
+Waterways_01/_Enemies/Flip Hopper (1),Pilflip,5,0,0,5,6
+Waterways_01/_Enemies/Flip Hopper (2),Pilflip,5,0,0,5,6
+Waterways_01/_Enemies/Flip Hopper (3),Pilflip,5,0,0,5,6
+Waterways_01/_Enemies/Inflater,Hwurmp,5,0,0,5,6
+Waterways_01/_Enemies/Inflater (1),Hwurmp,5,0,0,5,6
+Waterways_01/_Enemies/Inflater (2),Hwurmp,5,0,0,5,6
+Waterways_01/_Enemies/Inflater (3),Hwurmp,5,0,0,5,6
+Waterways_01/_Enemies/Inflater (4),Hwurmp,5,0,0,5,6
+Waterways_01/_Props/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Waterways_01/_Props/Geo Rock City 1 (1),Geo Rock,4,4,10,26,26
+Waterways_02/Ceiling Dropper,Belfly,0,0,0,0,0
+Waterways_02/Egg Sac,Bluggsac,0,0,0,0,0
+Waterways_02/Flip Hopper,Pilflip,5,0,0,5,6
+Waterways_02/Flip Hopper (1),Pilflip,5,0,0,5,6
+Waterways_02/Flip Hopper (2),Pilflip,5,0,0,5,6
+Waterways_02/Fluke Fly,Flukefey,0,0,0,0,0
+Waterways_02/Fluke Fly (1),Flukefey,0,0,0,0,0
+Waterways_02/Flukeman,Flukemon,0,0,0,0,0
+Waterways_02/Flukeman (1),Flukemon,0,0,0,0,0
+Waterways_02/Flukeman (2),Flukemon,0,0,0,0,0
+Waterways_02/Flukeman (3),Flukemon,0,0,0,0,0
+Waterways_04/Ceiling Dropper,Belfly,0,0,0,0,0
+Waterways_04/Egg Sac,Bluggsac,0,0,0,0,0
+Waterways_04/Flukeman,Flukemon,0,0,0,0,0
+Waterways_04/Flukeman (1),Flukemon,0,0,0,0,0
+Waterways_04/Inflater,Hwurmp,5,0,0,5,6
+Waterways_04/Inflater (1),Hwurmp,5,0,0,5,6
+Waterways_04/Inflater (2),Hwurmp,5,0,0,5,6
+Waterways_04/Inflater (3),Hwurmp,5,0,0,5,6
+Waterways_04/Inflater (4),Hwurmp,5,0,0,5,6
+Waterways_04/Inflater (5),Hwurmp,5,0,0,5,6
+Waterways_04/Inflater (6),Hwurmp,5,0,0,5,6
+Waterways_04/Inflater (7),Hwurmp,5,0,0,5,6
+Waterways_04/Inflater (8),Hwurmp,5,0,0,5,6
+Waterways_04b/Ceiling Dropper,Belfly,0,0,0,0,0
+Waterways_04b/Ceiling Dropper (1),Belfly,0,0,0,0,0
+Waterways_04b/Fluke Fly,Flukefey,0,0,0,0,0
+Waterways_04b/Fluke Fly (1),Flukefey,0,0,0,0,0
+Waterways_04b/Fluke Fly (2),Flukefey,0,0,0,0,0
+Waterways_04b/Fluke Fly (3),Flukefey,0,0,0,0,0
+Waterways_04b/Flukeman,Flukemon,0,0,0,0,0
+Waterways_04b/Flukeman (1),Flukemon,0,0,0,0,0
+Waterways_04b/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Waterways_04b/Inflater,Hwurmp,5,0,0,5,6
+Waterways_04b/Inflater (1),Hwurmp,5,0,0,5,6
+Waterways_04b/Inflater (2),Hwurmp,5,0,0,5,6
+Waterways_04b/Inflater (3),Hwurmp,5,0,0,5,6
+Waterways_04b/Inflater (4),Hwurmp,5,0,0,5,6
+Waterways_04b/Inflater (5),Hwurmp,5,0,0,5,6
+Waterways_04b/Inflater (6),Hwurmp,5,0,0,5,6
+Waterways_05_boss/Dung Defender,Dung Defender,0,0,0,0,0
+Waterways_06/Flip Hopper,Pilflip,5,0,0,5,6
+Waterways_06/Flip Hopper (1),Pilflip,5,0,0,5,6
+Waterways_06/Flip Hopper (2),Pilflip,5,0,0,5,6
+Waterways_06/Fluke Fly,Flukefey,0,0,0,0,0
+Waterways_06/Fluke Fly (1),Flukefey,0,0,0,0,0
+Waterways_06/Fluke Fly (2),Flukefey,0,0,0,0,0
+Waterways_07/Ceiling Dropper,Belfly,0,0,0,0,0
+Waterways_07/Egg Sac,Bluggsac,0,0,0,0,0
+Waterways_07/Flip Hopper,Pilflip,5,0,0,5,6
+Waterways_07/Flip Hopper (1),Pilflip,5,0,0,5,6
+Waterways_07/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Waterways_07/Inflater,Hwurmp,5,0,0,5,6
+Waterways_07/Inflater (1),Hwurmp,5,0,0,5,6
+Waterways_07/Inflater (2),Hwurmp,5,0,0,5,6
+Waterways_07/Inflater (3),Hwurmp,5,0,0,5,6
+Waterways_07/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Waterways_07/Ruins Sentry 1 (1),Husk Sentry,5,1,0,10,16
+Waterways_08/Ceiling Dropper,Belfly,0,0,0,0,0
+Waterways_08/Ceiling Dropper (1),Belfly,0,0,0,0,0
+Waterways_08/Ceiling Dropper (2),Belfly,0,0,0,0,0
+Waterways_08/Ceiling Dropper (3),Belfly,0,0,0,0,0
+Waterways_08/Ceiling Dropper (4),Belfly,0,0,0,0,0
+Waterways_08/Fluke Fly,Flukefey,0,0,0,0,0
+Waterways_08/Fluke Fly (1),Flukefey,0,0,0,0,0
+Waterways_08/Fluke Fly (2),Flukefey,0,0,0,0,0
+Waterways_08/Fluke Fly (3),Flukefey,0,0,0,0,0
+Waterways_08/Fluke Fly (4),Flukefey,0,0,0,0,0
+Waterways_08/fluke_baby_01,Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (1),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (10),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (11),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (12),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (13),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (14),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (15),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (16),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (17),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (18),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (19),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (2),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (20),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (21),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (22),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (23),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (24),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (3),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (4),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (5),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (6),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (7),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (8),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_01 (9),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02,Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (1),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (10),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (11),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (12),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (13),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (14),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (15),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (16),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (17),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (18),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (19),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (2),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (20),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (21),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (22),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (23),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (24),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (25),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (26),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (27),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (28),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (29),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (3),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (30),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (31),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (32),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (33),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (34),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (35),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (36),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (37),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (38),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (39),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (4),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (40),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (41),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (5),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (6),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (7),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (8),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_02 (9),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03,Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (1),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (10),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (11),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (2),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (3),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (4),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (46),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (49),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (5),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (50),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (51),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (52),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (53),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (6),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (7),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (8),Fluke Larva,0,0,0,0,0
+Waterways_08/fluke_baby_03 (9),Fluke Larva,0,0,0,0,0
+Waterways_08/Flukeman,Flukemon,0,0,0,0,0
+Waterways_08/Flukeman (1),Flukemon,0,0,0,0,0
+Waterways_08/Flukeman (13),Flukemon,0,0,0,0,0
+Waterways_08/Flukeman (15),Flukemon,0,0,0,0,0
+Waterways_08/Flukeman (16),Flukemon,0,0,0,0,0
+Waterways_08/Flukeman (2),Flukemon,0,0,0,0,0
+Waterways_08/Flukeman (3),Flukemon,0,0,0,0,0
+Waterways_08/Flukeman (4),Flukemon,0,0,0,0,0
+Waterways_08/Flukeman (5),Flukemon,0,0,0,0,0
+Waterways_08/Geo Rock City 1,Geo Rock,4,5,10,30,30
+Waterways_09/Battle Scene/Inflater,Hwurmp,5,0,0,5,6
+Waterways_09/Battle Scene/Inflater (1),Hwurmp,5,0,0,5,6
+Waterways_09/Battle Scene/Inflater (2),Hwurmp,5,0,0,5,6
+Waterways_09/Battle Scene/Inflater (3),Hwurmp,5,0,0,5,6
+Waterways_09/Battle Scene/Inflater (4),Hwurmp,5,0,0,5,6
+Waterways_09/Battle Scene/Inflater (5),Hwurmp,5,0,0,5,6
+Waterways_09/Battle Scene/Inflater (6),Hwurmp,5,0,0,5,6
+Waterways_09/Battle Scene/Inflater (7),Hwurmp,5,0,0,5,6
+Waterways_12_boss/Fluke Mother,Flukemarm,0,0,0,0,0
+Waterways_12_boss/Hatcher Cage (2)/Fluke Fly Spawner,Flukefey,0,0,0,0,0
+Waterways_12_boss/Hatcher Cage (2)/Fluke Fly Spawner (1),Flukefey,0,0,0,0,0
+Waterways_12_boss/Hatcher Cage (2)/Fluke Fly Spawner (2),Flukefey,0,0,0,0,0
+Waterways_12_boss/Hatcher Cage (2)/Fluke Fly Spawner (3),Flukefey,0,0,0,0,0
+Waterways_12_boss/Hatcher Cage (2)/Fluke Fly Spawner (4),Flukefey,0,0,0,0,0
+Waterways_12_boss/Hatcher Cage (2)/Fluke Fly Spawner (5),Flukefey,0,0,0,0,0
+Waterways_13/Battle Scene/Wave 1/Ruins Sentry 1,Husk Sentry,5,1,0,10,16
+Waterways_13/Battle Scene/Wave 1/Ruins Sentry Fat,Heavy Sentry,5,1,0,10,16
+Waterways_13/Battle Scene/Wave 2/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Waterways_13/Battle Scene/Wave 2/Ruins Flying Sentry (1),Winged Sentry,2,2,0,12,18
+Waterways_13/Battle Scene/Wave 3/Ruins Flying Sentry Javelin,Lance Sentry,2,2,0,12,18
+Waterways_13/Battle Scene/Wave 3/Ruins Sentry Fat,Heavy Sentry,5,1,0,10,16
+Waterways_13/Ceiling Dropper,Belfly,0,0,0,0,0
+Waterways_13/Ceiling Dropper (1),Belfly,0,0,0,0,0
+Waterways_13/Inflater,Hwurmp,5,0,0,5,6
+Waterways_13/Inflater (1),Hwurmp,5,0,0,5,6
+Waterways_13/Ruins Flying Sentry,Winged Sentry,2,2,0,12,18
+Waterways_13/Ruins Flying Sentry (1),Winged Sentry,2,2,0,12,18
+Waterways_14/Inflater (1),Hwurmp,5,0,0,5,6
+Waterways_14/Inflater (2),Hwurmp,5,0,0,5,6
+Waterways_14/Inflater (3),Hwurmp,5,0,0,5,6
+Waterways_15/Shiny Item Stand,King's Idol,,,,800,800
+White_Palace_01/White Palace Fly,Wingmould,2,0,0,2,3
+White_Palace_01/White Palace Fly (1),Wingmould,2,0,0,2,3
+White_Palace_01/White Palace Fly (2),Wingmould,2,0,0,2,3
+White_Palace_02/Battle Scene/Royal Gaurd,Kingsmould,0,0,0,0,0
+White_Palace_03_hub/White_Servant_01 (1)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_01 (2)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_01 (3)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_01 (4)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_01 (5)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_01/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_02 (1)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_02 (2)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_02 (3)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_02 (4)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_02/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_03 (1)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_03 (2)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_03 (3)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_03 (4)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_03 (5)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_03_hub/White_Servant_03/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_04/_Scenery/White_Servant_01 (1)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_04/_Scenery/White_Servant_01/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_04/_Scenery/White_Servant_02 (1)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_04/_Scenery/White_Servant_02/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_04/_Scenery/White_Servant_03 (1)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_04/_Scenery/White_Servant_03/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_06/White Palace Fly,Wingmould,2,0,0,2,3
+White_Palace_06/White Palace Fly (2),Wingmould,2,0,0,2,3
+White_Palace_06/White Palace Fly (3),Wingmould,2,0,0,2,3
+White_Palace_06/White Palace Fly (4),Wingmould,2,0,0,2,3
+White_Palace_06/White Palace Fly (5),Wingmould,2,0,0,2,3
+White_Palace_11/Royal Gaurd,Kingsmould,0,0,0,0,0
+White_Palace_12/White_Servant_01/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_12/White_Servant_03/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_13/White Palace Fly,Wingmould,2,0,0,2,3
+White_Palace_13/White Palace Fly (1),Wingmould,2,0,0,2,3
+White_Palace_13/White Palace Fly (2),Wingmould,2,0,0,2,3
+White_Palace_13/White Palace Fly (3),Wingmould,2,0,0,2,3
+White_Palace_13/White Palace Fly (4),Wingmould,2,0,0,2,3
+White_Palace_14/_Scenery/White_Servant_01 (2)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_14/_Scenery/White_Servant_03 (2)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_14/_Scenery/White_Servant_03 (3)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_14/_Scenery/White_Servant_03 (4)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_15/White_Servant_01 (1)/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_15/White_Servant_01/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_15/White_Servant_02/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_15/White_Servant_03/Enemy,Royal Retainer,0,0,0,0,0
+White_Palace_18/White Palace Fly,Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (10),Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (11),Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (12),Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (2),Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (3),Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (4),Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (5),Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (6),Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (7),Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (8),Wingmould,2,0,0,2,3
+White_Palace_18/White Palace Fly (9),Wingmould,2,0,0,2,3
+White_Palace_19/White Palace Fly (13),Wingmould,2,0,0,2,3
+White_Palace_19/White Palace Fly (14),Wingmould,2,0,0,2,3
+White_Palace_19/White Palace Fly (15),Wingmould,2,0,0,2,3
+White_Palace_19/White Palace Fly (16),Wingmould,2,0,0,2,3
+White_Palace_19/White Palace Fly (17),Wingmould,2,0,0,2,3
+White_Palace_19/White Palace Fly (18),Wingmould,2,0,0,2,3
+White_Palace_20/Battle Scene/Wave 1/Royal Gaurd,Kingsmould,0,0,0,0,0
+White_Palace_20/Battle Scene/Wave 1/Royal Gaurd (1),Kingsmould,0,0,0,0,0
+Hollow Knight Boss,Hollow Knight,,,,,
+Absolute Radiance,Absolute Radiance,,,,,
