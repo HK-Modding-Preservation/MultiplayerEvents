@@ -1,10 +1,13 @@
-namespace MultiplayerEvents{
+using HkmpPouch.DataStorage.Counter;
+
+namespace MultiplayerEvents
+{
     public  class TeamData{
         internal string Name;
 
         internal int TeamId;
 
-        internal Counter KillCount,Score;
+        internal CounterClient KillCount,Score;
 
         public TeamData(string Name,int TeamId){
             this.Name = Name;
@@ -13,14 +16,14 @@ namespace MultiplayerEvents{
         }
 
         private void CreateCounters(){
-            KillCount = new Counter(MultiplayerEvents.Instance.pipe, $"{TeamId}KillCount");
+            KillCount = new CounterClient(MultiplayerEvents.Instance.pipe, $"{TeamId}KillCount");
             KillCount.OnUpdate += (s, e) =>
             {
                 GUI.UpdateText();
                 MultiplayerEvents.Instance.LogDebug($"{Name} Kill Count : {e.Count}");
             };
 
-            Score = new Counter(MultiplayerEvents.Instance.pipe, $"{TeamId}score");
+            Score = new CounterClient(MultiplayerEvents.Instance.pipe, $"{TeamId}score");
             Score.OnUpdate += (s, e) =>
             {
                 GUI.UpdateText();

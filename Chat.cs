@@ -1,8 +1,9 @@
-namespace MultiplayerEvents{
+namespace MultiplayerEvents
+{
     public static class Chat{
         public static void AddMessage(string message){
-             if (HkmpPouch.Client.Instance.clientApi != null){
-                HkmpPouch.Client.Instance.clientApi.UiManager.ChatBox.AddMessage(message);
+             if (MultiplayerEvents.Instance.pipe != null && MultiplayerEvents.Instance.pipe.ClientApi != null){
+                MultiplayerEvents.Instance.pipe.ClientApi.UiManager.ChatBox.AddMessage(message);
              }
         }
     }

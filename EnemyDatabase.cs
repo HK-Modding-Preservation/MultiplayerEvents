@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MultiplayerEvents
+﻿namespace MultiplayerEvents
 {
     /// taken from https://github.com/Kerr1291/EnemyRandomizer/blob/master/EnemyRandomizerDll/EnemyRandomizer/EnemyRandomizerDatabase.cs and modified slightly
     internal class EnemyDatabase

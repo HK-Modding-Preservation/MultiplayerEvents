@@ -6,7 +6,7 @@ namespace MultiplayerEvents
     {
         public override string GetVersion() => Satchel.AssemblyUtils.GetAssemblyVersionHash();
         internal static MultiplayerEvents Instance;
-        internal HkmpPipe pipe = new HkmpPipe("MultiplayerEvents",false);
+        internal PipeClient pipe = new PipeClient("MultiplayerEvents");
         internal Dictionary<int,TeamData> Teams = new();
         internal TeamData CurrentTeam;
         private bool listening = false;
@@ -25,9 +25,9 @@ namespace MultiplayerEvents
         private void ModHooks_HeroUpdateHook()
         {
             ListenToClientEvents();
-            if (HkmpPouch.Client.Instance.clientApi != null && lastTeam != (int)HkmpPouch.Client.Instance.clientApi.ClientManager.Team)
+            if (pipe != null && pipe.ClientApi != null && lastTeam != (int)pipe.ClientApi.ClientManager.Team)
             {
-                var team = ((int)HkmpPouch.Client.Instance.clientApi.ClientManager.Team);
+                var team = ((int)pipe.ClientApi.ClientManager.Team);
                 if(Teams.TryGetValue(team,out var t)){
                     CurrentTeam = Teams[team];
                     lastTeam = team;
@@ -39,9 +39,9 @@ namespace MultiplayerEvents
         private void ListenToClientEvents()
         {
             if (listening) { return;  }
-            if (HkmpPouch.Client.Instance.clientApi == null) { return; }
-            HkmpPouch.Client.Instance.clientApi.ClientManager.ConnectEvent += ClientManager_ConnectEvent;
-            HkmpPouch.Client.Instance.clientApi.ClientManager.DisconnectEvent += ClientManager_DisconnectEvent;
+            if (pipe == null || pipe.ClientApi == null) { return; }
+            pipe.ClientApi.ClientManager.ConnectEvent += ClientManager_ConnectEvent;
+            pipe.ClientApi.ClientManager.DisconnectEvent += ClientManager_DisconnectEvent;
             listening = true;
         }
 

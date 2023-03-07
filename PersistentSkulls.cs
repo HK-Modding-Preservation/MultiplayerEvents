@@ -1,20 +1,23 @@
-namespace MultiplayerEvents{
+using HkmpPouch.DataStorage.AppendOnlyList;
+
+namespace MultiplayerEvents
+{
     public static class PersistentSkulls{
 
-        internal static Dictionary<string, AppendOnlyList> SceneDeaths = new();
+        internal static Dictionary<string, AppendOnlyListClient> SceneDeaths = new();
         internal static Dictionary<string, GameObject> CurrentSkulls = new();
         internal static GameObject Skull;
-        internal static AppendOnlyList CurrentScene;
+        internal static AppendOnlyListClient CurrentScene;
         static PersistentSkulls(){
             ModHooks.HeroUpdateHook += ModHooks_HeroUpdateHook;
             ModHooks.BeforePlayerDeadHook += ModHooks_BeforePlayerDeadHook;
             UnityEngine.SceneManagement.SceneManager.activeSceneChanged += SceneManager_activeSceneChanged;
         }
         
-        public static AppendOnlyList GetDeathListForScene(string scene) {
-            AppendOnlyList dl;
+        public static AppendOnlyListClient GetDeathListForScene(string scene) {
+            AppendOnlyListClient dl;
             if (!SceneDeaths.TryGetValue(scene, out dl)) { 
-                dl = new AppendOnlyList(MultiplayerEvents.Instance.pipe,scene);
+                dl = new AppendOnlyListClient(MultiplayerEvents.Instance.pipe,scene);
                 SceneDeaths[scene] = dl;
             }
             return dl;

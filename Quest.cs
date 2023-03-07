@@ -1,4 +1,5 @@
-namespace MultiplayerEvents{
+namespace MultiplayerEvents
+{
     public abstract class CounterQuest{
         public string Name = "Quest_Name";
         public int Count = 0;
