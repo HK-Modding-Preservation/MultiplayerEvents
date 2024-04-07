@@ -8,12 +8,21 @@ namespace MultiplayerEvents
         internal static Dictionary<string, GameObject> CurrentSkulls = new();
         internal static GameObject Skull;
         internal static AppendOnlyListClient CurrentScene;
-        static PersistentSkulls(){
+
+        public static void Hook() {
             ModHooks.HeroUpdateHook += ModHooks_HeroUpdateHook;
             ModHooks.BeforePlayerDeadHook += ModHooks_BeforePlayerDeadHook;
             UnityEngine.SceneManagement.SceneManager.activeSceneChanged += SceneManager_activeSceneChanged;
         }
-        
+
+        public static void Unhook()
+        {
+            ModHooks.HeroUpdateHook -= ModHooks_HeroUpdateHook;
+            ModHooks.BeforePlayerDeadHook -= ModHooks_BeforePlayerDeadHook;
+            UnityEngine.SceneManagement.SceneManager.activeSceneChanged -= SceneManager_activeSceneChanged;
+            CurrentScene.OnUpdate -= Dl_OnUpdate;
+        }
+
         public static AppendOnlyListClient GetDeathListForScene(string scene) {
             AppendOnlyListClient dl;
             if (!SceneDeaths.TryGetValue(scene, out dl)) { 

@@ -20,6 +20,7 @@ namespace MultiplayerEvents
             ModHooks.AfterPlayerDeadHook += ModHooks_AfterPlayerDeadHook;
             ModHooks.HeroUpdateHook += ModHooks_HeroUpdateHook;
             GUI.Init();
+            PersistentSkulls.Hook();
         }
 
         private void ModHooks_HeroUpdateHook()
