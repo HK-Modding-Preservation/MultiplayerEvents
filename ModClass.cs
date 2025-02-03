@@ -21,6 +21,8 @@ namespace MultiplayerEvents
             var persistentSkulls = new PersistentSkulls();
             persistentSkulls.Init();
 
+            var deathLink = new DeathLink();
+            deathLink.Init();
             //new JobManager().Init();
         }
 

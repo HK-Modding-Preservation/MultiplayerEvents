@@ -325,9 +325,12 @@
     <Reference Include="HkmpPouch">
       <HintPath>$(HollowKnightRefs)/Mods/HkmpPouch/HkmpPouch.dll</HintPath>
     </Reference>
-    <Reference Include="Hkmp">
-      <HintPath>$(HollowKnightRefs)/Mods/Hkmp/Hkmp.dll</HintPath>
-    </Reference>
+	  <Reference Include="Hkmp">
+		  <HintPath>$(HollowKnightRefs)/Mods/Hkmp/Hkmp.dll</HintPath>
+	  </Reference>
+	  <Reference Include="HKmirror">
+		  <HintPath>$(HollowKnightRefs)/Mods/HKmirror/HKmirror.dll</HintPath>
+	  </Reference>
     <Reference Include="MagicUI">
       <HintPath>$(HollowKnightRefs)/Mods/MagicUI/MagicUI.dll</HintPath>
     </Reference>
