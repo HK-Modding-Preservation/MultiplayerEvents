@@ -331,14 +331,26 @@
     <Reference Include="MagicUI">
       <HintPath>$(HollowKnightRefs)/Mods/MagicUI/MagicUI.dll</HintPath>
     </Reference>
-    <Reference Include="Satchel">
-      <HintPath>$(HollowKnightRefs)/Mods/Satchel/Satchel.dll</HintPath>
-    </Reference>
+	  <Reference Include="Satchel">
+		  <HintPath>$(HollowKnightRefs)/Mods/Satchel/Satchel.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Sfcore">
+		  <HintPath>$(HollowKnightRefs)/Mods/Sfcore/Sfcore.dll</HintPath>
+	  </Reference>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
     <None Include="ReadMe.md" />
     <None Include="Resources\.gitignore" />
     <EmbeddedResource Include="*.json" />
+    <EmbeddedResource Include="Assets\*" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EnemyModule\EnemyNameMap.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="JobsModule\Abilities\" />
+    <Folder Include="Assets\" />
+    <Folder Include="JobsModule\Objects\" />
   </ItemGroup>
 </Project>

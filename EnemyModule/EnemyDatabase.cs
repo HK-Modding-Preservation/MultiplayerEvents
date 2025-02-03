@@ -1,4 +1,4 @@
-﻿namespace MultiplayerEvents
+﻿namespace MultiplayerEvents.EnemyModule
 {
     /// taken from https://github.com/Kerr1291/EnemyRandomizer/blob/master/EnemyRandomizerDll/EnemyRandomizer/EnemyRandomizerDatabase.cs and modified slightly
     internal class EnemyDatabase

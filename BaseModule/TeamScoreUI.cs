@@ -1,16 +1,13 @@
-﻿using MagicUI.Elements;
+﻿using MagicUI.Core;
+using MagicUI.Elements;
 
-namespace MultiplayerEvents
+namespace MultiplayerEvents.BaseModule
 {
-    public static class GUI
+    public class TeamScoreUI
     {
-        public static TextObject mainText;
-        public static string team;
-        private static LayoutRoot layout;
-        public static void Init(){
-            On.HeroController.Awake += HeroController_Awake;
-        }
-        private static void HeroController_Awake(On.HeroController.orig_Awake orig, HeroController self)
+        public TextObject mainText;
+        private LayoutRoot layout;
+        internal void Init()
         {
             if (layout == null)
             {
@@ -18,11 +15,9 @@ namespace MultiplayerEvents
                 layout.RenderDebugLayoutBounds = false;
                 Setup(layout);
             }
-
-            orig(self);
-
         }
-        public static void Setup(LayoutRoot layout)
+
+        public void Setup(LayoutRoot layout)
         {
 
             mainText = new TextObject(layout)
@@ -36,14 +31,16 @@ namespace MultiplayerEvents
             };
 
         }
-        
-        public static void UpdateText()
+
+        public void UpdateText(TeamData team)
         {
             if (mainText == null) return;
-            var team = MultiplayerEvents.Instance.CurrentTeam;
-            if(team.TeamId > 0){
+            if (team.TeamId > 0)
+            {
                 mainText.Text = $"TEAM : {team.Name} | SCORE : {team.Score?.Count} | KILLCOUNT : {team.KillCount?.Count}";
-            } else {
+            }
+            else
+            {
                 mainText.Text = $"Select a team to join Multiplayer quests";
             }
         }

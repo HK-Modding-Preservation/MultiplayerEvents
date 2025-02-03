@@ -1,21 +1,47 @@
 using HkmpPouch.DataStorage.AppendOnlyList;
+using MultiplayerEvents.MultiplayerModule;
 
-namespace MultiplayerEvents
+namespace MultiplayerEvents.BaseModule
 {
-    public static class PersistentSkulls{
+    public class PersistentSkulls
+    {
 
-        internal static Dictionary<string, AppendOnlyListClient> SceneDeaths = new();
-        internal static Dictionary<string, GameObject> CurrentSkulls = new();
-        internal static GameObject Skull;
-        internal static AppendOnlyListClient CurrentScene;
+        internal Dictionary<string, AppendOnlyListClient> SceneDeaths = new();
+        internal Dictionary<string, GameObject> CurrentSkulls = new();
+        internal GameObject Skull;
+        internal AppendOnlyListClient CurrentScene;
+        private PipeClient pipe { get => MainPipe.Instance.pipe; }
 
-        public static void Hook() {
+        public void Init()
+        {
+            pipe.OnReady += Pipe_OnReady;
+        }
+
+        private void Pipe_OnReady(object sender, EventArgs e)
+        {
+            pipe.ClientApi.ClientManager.ConnectEvent += ClientManager_ConnectEvent;
+            pipe.ClientApi.ClientManager.DisconnectEvent += ClientManager_DisconnectEvent;
+
+        }
+
+        private void ClientManager_DisconnectEvent()
+        {
+            Unhook();
+        }
+
+        private void ClientManager_ConnectEvent()
+        {
+            Hook();
+        }
+
+        public void Hook()
+        {
             ModHooks.HeroUpdateHook += ModHooks_HeroUpdateHook;
             ModHooks.BeforePlayerDeadHook += ModHooks_BeforePlayerDeadHook;
             UnityEngine.SceneManagement.SceneManager.activeSceneChanged += SceneManager_activeSceneChanged;
         }
 
-        public static void Unhook()
+        public void Unhook()
         {
             ModHooks.HeroUpdateHook -= ModHooks_HeroUpdateHook;
             ModHooks.BeforePlayerDeadHook -= ModHooks_BeforePlayerDeadHook;
@@ -23,25 +49,27 @@ namespace MultiplayerEvents
             CurrentScene.OnUpdate -= Dl_OnUpdate;
         }
 
-        public static AppendOnlyListClient GetDeathListForScene(string scene) {
+        public AppendOnlyListClient GetDeathListForScene(string scene)
+        {
             AppendOnlyListClient dl;
-            if (!SceneDeaths.TryGetValue(scene, out dl)) { 
-                dl = new AppendOnlyListClient(MultiplayerEvents.Instance.pipe,scene);
+            if (!SceneDeaths.TryGetValue(scene, out dl))
+            {
+                dl = new AppendOnlyListClient(pipe, scene);
                 SceneDeaths[scene] = dl;
             }
             return dl;
         }
-        private static void Dl_OnUpdate(object sender, AppendOnlyListUpdateEventArgs e)
+        private void Dl_OnUpdate(object sender, AppendOnlyListUpdateEventArgs e)
         {
             var dataList = e.data;
-            foreach(var data in dataList)
+            foreach (var data in dataList)
             {
-                var splitData = data.Split( new char[] { '|' } , 2);
-                if(splitData.Length > 0 && Skull != null)
+                var splitData = data.Split(new char[] { '|' }, 2);
+                if (splitData.Length > 0 && Skull != null)
                 {
-                    if(!CurrentSkulls.TryGetValue(data, out var sk))
+                    if (!CurrentSkulls.TryGetValue(data, out var sk))
                     {
-                        var newSkull = GameObject.Instantiate(Skull);
+                        var newSkull = UnityEngine.Object.Instantiate(Skull);
                         newSkull.transform.position = new Vector3(float.Parse(splitData[0]), float.Parse(splitData[1]), Skull.transform.position.z);
                         CurrentSkulls[data] = newSkull;
                     }
@@ -50,25 +78,26 @@ namespace MultiplayerEvents
             CurrentScene.OnUpdate -= Dl_OnUpdate;
         }
 
-        private static void SceneManager_activeSceneChanged(UnityEngine.SceneManagement.Scene arg0, UnityEngine.SceneManagement.Scene arg1)
+        private void SceneManager_activeSceneChanged(UnityEngine.SceneManagement.Scene arg0, UnityEngine.SceneManagement.Scene arg1)
         {
             CurrentSkulls = new();
             CurrentScene = GetDeathListForScene(arg1.name);
             CurrentScene.OnUpdate += Dl_OnUpdate;
             CurrentScene.GetAll();
         }
-        private static void ModHooks_BeforePlayerDeadHook()
+        private void ModHooks_BeforePlayerDeadHook()
         {
             var x = HeroController.instance.transform.position.x.ToString("0.00", CultureInfo.InvariantCulture);
             var y = HeroController.instance.transform.position.y.ToString("0.00", CultureInfo.InvariantCulture);
             CurrentScene.Add($"{x}|{y}", 600);
         }
-        private static void ModHooks_HeroUpdateHook()
+        private void ModHooks_HeroUpdateHook()
         {
             AcquireSkull();
         }
-        public static void AcquireSkull(){
-            if(Skull == null)
+        public void AcquireSkull()
+        {
+            if (Skull == null)
             {
                 GameObject heroDeath = HeroController.instance.transform.Find("Hero Death").gameObject;
                 PlayMakerFSM heroDeathAnim = heroDeath.LocateMyFSM("Hero Death Anim");
