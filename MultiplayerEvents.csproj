@@ -337,6 +337,9 @@
 	  <Reference Include="Satchel">
 		  <HintPath>$(HollowKnightRefs)/Mods/Satchel/Satchel.dll</HintPath>
 	  </Reference>
+	  <Reference Include="AbilityChanger">
+		  <HintPath>$(HollowKnightRefs)/Mods/AbilityChanger/AbilityChanger.dll</HintPath>
+	  </Reference>
 	  <Reference Include="Sfcore">
 		  <HintPath>$(HollowKnightRefs)/Mods/Sfcore/Sfcore.dll</HintPath>
 	  </Reference>
@@ -352,8 +355,6 @@
     <EmbeddedResource Include="EnemyModule\EnemyNameMap.json" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="JobsModule\Abilities\" />
     <Folder Include="Assets\" />
-    <Folder Include="JobsModule\Objects\" />
   </ItemGroup>
 </Project>

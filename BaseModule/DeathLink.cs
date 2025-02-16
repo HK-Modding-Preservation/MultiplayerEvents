@@ -1,5 +1,4 @@
-﻿using GlobalEnums;
-using HKMirror.Reflection.SingletonClasses;
+﻿using HKMirror.Reflection.SingletonClasses;
 using MultiplayerEvents.MultiplayerModule;
 
 namespace MultiplayerEvents.BaseModule
@@ -12,6 +11,8 @@ namespace MultiplayerEvents.BaseModule
         private bool DeathLinkTeam { get => MultiplayerEvents.Settings.DeathLinkTeam; }
 
         private string DeathEventName = "DeathLink";
+        private bool isDeathLinkDeath = false;
+
         public void Init()
         {
             pipe.OnReady += Pipe_OnReady;
@@ -21,6 +22,7 @@ namespace MultiplayerEvents.BaseModule
         {
 
             ModHooks.BeforePlayerDeadHook += ModHooks_BeforePlayerDeadHook;
+            ModHooks.AfterPlayerDeadHook += ModHooks_AfterPlayerDeadHook;
             pipe.OnRecieve += Pipe_OnRecieve;
         }
 
@@ -34,7 +36,7 @@ namespace MultiplayerEvents.BaseModule
             if (player == null) { return; }
             if (DeathLinkEnabled)
             {
-                if((!DeathLinkTeam || sameTeam) && (!DeathLinkRoom || sameRoom))
+                if ((!DeathLinkTeam || sameTeam) && (!DeathLinkRoom || sameRoom))
                 {
                     KillLocalPlayer();
                 }
@@ -43,16 +45,24 @@ namespace MultiplayerEvents.BaseModule
 
         private void KillLocalPlayer()
         {
+            isDeathLinkDeath = true;
             PlayerData.instance.TakeHealth(int.MaxValue);
             _ = CoroutineHelper.GetRunner().StartCoroutine(HeroControllerR.Die());
         }
 
         private void ModHooks_BeforePlayerDeadHook()
         {
-            if (DeathLinkEnabled)
+            if (DeathLinkEnabled && !isDeathLinkDeath)
             {
                 pipe.Broadcast(DeathEventName, DeathEventName, false);
             }
         }
+
+
+        private void ModHooks_AfterPlayerDeadHook()
+        {
+            isDeathLinkDeath = false;
+        }
+
     }
 }

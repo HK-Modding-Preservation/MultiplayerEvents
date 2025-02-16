@@ -1,21 +1,32 @@
-﻿using MultiplayerEvents.JobsModule.Base;
-using MultiplayerEvents.JobsModule.Jobs;
+﻿using MultiplayerEvents.JobsModule.Abilities.MinorHeal;
+using MultiplayerEvents.JobsModule.Base;
 using MultiplayerEvents.MultiplayerModule;
 
 namespace MultiplayerEvents.JobsModule
 {
     public class JobManager
     {
-        private Assassin assassin { get; set; } = new Assassin();
-        private Charger charger { get; set; } = new Charger();
-        private Healer healer { get; set; } = new Healer();
 
-        public List<BaseJob> AvailableJobs;
+        public List<BaseJob> AvailableJobs = new List<BaseJob>();
+
+        public List<BaseAbilities> AvailableAbilities;
         private PipeClient pipe { get => MainPipe.Instance.pipe; }
 
         internal void Init()
         {
-            AvailableJobs = new List<BaseJob>() { assassin, charger, healer };
+            /*
+            AvailableJobs.Add(new Healer());
+            AvailableJobs.Add(new Charger());
+            AvailableJobs.Add(new Assassin());
+            */
+            AvailableAbilities = new List<BaseAbilities>()
+            {
+                new MinorHeal()
+            };
+            foreach(BaseAbilities ability in AvailableAbilities)
+            {
+                ability.Give();
+            }
             On.HeroController.CharmUpdate += HeroController_CharmUpdate;
             pipe.OnRecieve += Pipe_OnRecieve;
         }

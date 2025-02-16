@@ -1,4 +1,5 @@
 ﻿using MultiplayerEvents.BaseModule;
+using MultiplayerEvents.JobsModule;
 using MultiplayerEvents.QuestsModule;
 
 namespace MultiplayerEvents
@@ -23,7 +24,7 @@ namespace MultiplayerEvents
 
             var deathLink = new DeathLink();
             deathLink.Init();
-            //new JobManager().Init();
+            new JobManager().Init();
         }
 
 

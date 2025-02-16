@@ -3,7 +3,7 @@
     public class GlobalModSettings
     {
         public bool DeathLinkEnabled = true;
-        public bool DeathLinkTeam = false;
+        public bool DeathLinkTeam = true;
         public bool DeathLinkRoom = true;
     }
 }

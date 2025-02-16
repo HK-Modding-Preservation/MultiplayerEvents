@@ -8,5 +8,7 @@
         internal static string AssassinName = "Assassin";
         internal static string ChargerDescription = "Dutiful soldier";
         internal static string ChargerName = "Knight";
+        internal static string MinorHealDescription = "Minor heal";
+        internal static string MinorHealName = "Minor heal";
     }
 }
