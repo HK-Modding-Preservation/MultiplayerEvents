@@ -24,7 +24,7 @@ namespace MultiplayerEvents
 
             var deathLink = new DeathLink();
             deathLink.Init();
-            new JobManager().Init();
+            new SkillManager().Init();
         }
 
 

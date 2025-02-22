@@ -1,13 +1,15 @@
-﻿using MultiplayerEvents.JobsModule.Base;
+﻿using MultiplayerEvents.JobsModule.Abilities.MinorHeal;
+using MultiplayerEvents.JobsModule.Base.Skills;
+using MultiplayerEvents.JobsModule.Skills.MinorInvisibility;
 
 namespace MultiplayerEvents.JobsModule
 {
     internal static class AbilityStore
     {
         // default kit swaps based on job
-        internal static BaseAbilities MinorHeal;
-        internal static BaseAbilities MinorInvisibility;
-        internal static BaseAbilities MinorInvulnerability;
+        internal static BaseSkill MinorHeal = new MinorHealSkill();
+        internal static BaseSkill MinorInvisibility = new MinorInvisibilitySkill();
+        internal static BaseSkill MinorInvulnerability;
 
     }
 }
