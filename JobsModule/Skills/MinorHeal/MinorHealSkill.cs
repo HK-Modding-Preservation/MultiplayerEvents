@@ -1,9 +1,9 @@
-﻿using MultiplayerEvents.JobsModule.Base.PlayerManipulator;
-using MultiplayerEvents.JobsModule.Base.Skills;
+﻿using MultiplayerEvents.JobsModule.Base.Skills;
 using MultiplayerEvents.JobsModule.Objects.AreaOfEffect;
 using MultiplayerEvents.JobsModule.Objects.Base;
 using MultiplayerEvents.JobsModule.Objects.GameObjectManagers;
 using MultiplayerEvents.JobsModule.Objects.Trigger;
+using MultiplayerEvents.PlayerManipulator;
 using UnityEngine.SocialPlatforms;
 
 namespace MultiplayerEvents.JobsModule.Abilities.MinorHeal

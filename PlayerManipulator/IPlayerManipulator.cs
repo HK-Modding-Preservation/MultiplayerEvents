@@ -1,4 +1,4 @@
-﻿namespace MultiplayerEvents.JobsModule.Base.PlayerManipulator
+﻿namespace MultiplayerEvents.PlayerManipulator
 {
     public interface IPlayerManipulator
     {
@@ -7,7 +7,8 @@
         public void MakeVisible();
     }
 
-    public interface ILocalPlayerManipulator : IPlayerManipulator {
+    public interface ILocalPlayerManipulator : IPlayerManipulator
+    {
 
         public void AddHealth(int amount);
     }

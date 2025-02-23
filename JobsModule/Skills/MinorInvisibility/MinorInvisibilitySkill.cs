@@ -1,5 +1,5 @@
-﻿using MultiplayerEvents.JobsModule.Base.PlayerManipulator;
-using MultiplayerEvents.JobsModule.Base.Skills;
+﻿using MultiplayerEvents.JobsModule.Base.Skills;
+using MultiplayerEvents.PlayerManipulator;
 
 namespace MultiplayerEvents.JobsModule.Skills.MinorInvisibility
 {

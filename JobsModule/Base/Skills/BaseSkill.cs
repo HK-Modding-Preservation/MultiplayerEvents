@@ -1,8 +1,8 @@
 ﻿using AbilityChanger;
 using MultiplayerEvents.JobsModule.Base.AbilityChanger;
 using MultiplayerEvents.JobsModule.Base.Charms;
-using MultiplayerEvents.JobsModule.Base.PlayerManipulator;
 using MultiplayerEvents.MultiplayerModule;
+using MultiplayerEvents.PlayerManipulator;
 
 namespace MultiplayerEvents.JobsModule.Base.Skills
 {

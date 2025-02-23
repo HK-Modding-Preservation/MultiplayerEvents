@@ -1,5 +1,6 @@
 ﻿using AbilityChanger.Base;
-using MultiplayerEvents.JobsModule.Base.PlayerManipulator;
+using MultiplayerEvents.JobsModule.Base.AbilityChanger;
+using MultiplayerEvents.PlayerManipulator;
 using Satchel.Futils;
 using static AbilityChanger.AbilityChanger;
 

@@ -1,4 +1,4 @@
-﻿namespace MultiplayerEvents.JobsModule.Base.PlayerManipulator
+﻿namespace MultiplayerEvents.PlayerManipulator
 {
     public class LocalPlayerManipulator : ILocalPlayerManipulator
     {
