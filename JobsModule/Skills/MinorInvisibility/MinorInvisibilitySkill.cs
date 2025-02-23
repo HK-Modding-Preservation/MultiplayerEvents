@@ -1,9 +1,5 @@
-﻿using MultiplayerEvents.JobsModule.Base.Skills;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MultiplayerEvents.JobsModule.Base.PlayerManipulator;
+using MultiplayerEvents.JobsModule.Base.Skills;
 
 namespace MultiplayerEvents.JobsModule.Skills.MinorInvisibility
 {
@@ -17,24 +13,26 @@ namespace MultiplayerEvents.JobsModule.Skills.MinorInvisibility
 
         public override Sprite GetIcon() => AssetManager.AssassinSprite;
 
+        public float SkillDuration = 5f;
+
+        public void ApplySkill(IPlayerManipulator player)
+        {
+            player.MakeInvisible();
+            CoroutineHelper.WaitForSecondsBeforeInvoke(SkillDuration, () =>
+            {
+                player.MakeVisible();
+            });
+        }
         public override void OnTriggerLocal()
         {
             pipe.Broadcast(AbilityId, "", true, true);
-            HeroController.instance.gameObject.GetComponent<Renderer>().enabled = false;
-            CoroutineHelper.WaitForSecondsBeforeInvoke(10f, () =>
-            {
-            HeroController.instance.gameObject.GetComponent<Renderer>().enabled = true;
-            });
+            ApplySkill(new LocalPlayerManipulator());
         }
 
         public override void OnTriggerRemote(EventContainer data)
         {
             var player = pipe.ClientApi.ClientManager.GetPlayer(data.FromPlayer);
-            player.PlayerContainer.SetActive(false);
-            CoroutineHelper.WaitForSecondsBeforeInvoke(10f, () =>
-            {
-                player.PlayerContainer.SetActive(true);
-            });
+            ApplySkill(new RemotePlayerManipulator(player));
         }
     }
 }

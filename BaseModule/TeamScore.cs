@@ -81,7 +81,7 @@ namespace MultiplayerEvents.BaseModule
         private void ModHooks_OnReceiveDeathEventHook(EnemyDeathEffects enemyDeathEffects, bool eventAlreadyReceived, ref float? attackDirection, ref bool resetDeathEvent, ref bool spellBurn, ref bool isWatery)
         {
             if (eventAlreadyReceived) { return; }
-            if(CurrentTeam == null) { return; }
+            if (CurrentTeam == null) { return; }
             CurrentTeam.KillCount.Increment(1);
             ushort points = 1;
             var enemyName = enemyDeathEffects.gameObject.GetName(true);

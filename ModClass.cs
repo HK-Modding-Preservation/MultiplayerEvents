@@ -4,7 +4,7 @@ using MultiplayerEvents.QuestsModule;
 
 namespace MultiplayerEvents
 {
-    public partial class MultiplayerEvents : Mod, IGlobalSettings<GlobalModSettings>, ICustomMenuMod
+    public partial class MultiplayerEvents : Mod
     {
 
         internal static MultiplayerEvents Instance;
@@ -24,7 +24,9 @@ namespace MultiplayerEvents
 
             var deathLink = new DeathLink();
             deathLink.Init();
-            new SkillManager().Init();
+
+            var skillManager = new SkillManager();
+            skillManager.Init();
         }
 
 

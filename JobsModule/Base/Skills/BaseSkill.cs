@@ -1,6 +1,7 @@
 ﻿using AbilityChanger;
 using MultiplayerEvents.JobsModule.Base.AbilityChanger;
 using MultiplayerEvents.JobsModule.Base.Charms;
+using MultiplayerEvents.JobsModule.Base.PlayerManipulator;
 using MultiplayerEvents.MultiplayerModule;
 
 namespace MultiplayerEvents.JobsModule.Base.Skills
@@ -13,8 +14,8 @@ namespace MultiplayerEvents.JobsModule.Base.Skills
         public abstract string AbilityId { get; }
         public abstract int GetCost();
         public abstract Sprite GetIcon();
-        public abstract void OnTriggerLocal();
-        public abstract void OnTriggerRemote(EventContainer data);
+        public abstract void OnTriggerLocal(ILocalPlayerManipulator player);
+        public abstract void OnTriggerRemote(IPlayerManipulator player, EventContainer data);
         public virtual string GetName() => $"{AbilityId}";
         public abstract string GetDescription();
         public virtual Sprite GetAbilityIcon() => GetIcon();
@@ -51,7 +52,8 @@ namespace MultiplayerEvents.JobsModule.Base.Skills
         {
             if (e.Data.EventName == AbilityId)
             {
-                OnTriggerRemote(e.Data);
+                var player = pipe.ClientApi.ClientManager.GetPlayer(e.Data.FromPlayer);
+                OnTriggerRemote(new RemotePlayerManipulator(player), e.Data);
             }
         }
 

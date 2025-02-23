@@ -1,8 +1,10 @@
-﻿using MultiplayerEvents.JobsModule.Base.Skills;
+﻿using MultiplayerEvents.JobsModule.Base.PlayerManipulator;
+using MultiplayerEvents.JobsModule.Base.Skills;
 using MultiplayerEvents.JobsModule.Objects.AreaOfEffect;
 using MultiplayerEvents.JobsModule.Objects.Base;
 using MultiplayerEvents.JobsModule.Objects.GameObjectManagers;
 using MultiplayerEvents.JobsModule.Objects.Trigger;
+using UnityEngine.SocialPlatforms;
 
 namespace MultiplayerEvents.JobsModule.Abilities.MinorHeal
 {
@@ -20,35 +22,37 @@ namespace MultiplayerEvents.JobsModule.Abilities.MinorHeal
             GameObjectManager _manager = new AlwaysFreshGameObjectManager(_prefabFactory);
             AreaOfEffect = new AreaOfEffectFactory(_manager);
         }
-        private void AreaTrigger(Collider2D other)
+        private void AreaTrigger(IPlayerManipulator player)
         {
-            HeroController.instance.AddHealth(1);
+            if (player is ILocalPlayerManipulator localPlayer)
+            {
+                localPlayer.AddHealth(1);
+            }
         }
-        public AreaOfEffectConfig GetConfigFor(GameObject parent, bool isLocal)
+        public AreaOfEffectConfig GetConfigFor(IPlayerManipulator player)
         {
             return (new AreaOfEffectConfig
             {
                 AutoRemove = false,
                 AutoRemoveSeconds = 1,
                 TriggerConfig = new TriggerConfig { MultiTrigger = false, Layer = GlobalEnums.PhysLayers.HERO_DETECTOR },
-                OnTrigger = isLocal ? null : AreaTrigger,
-                Parent = parent,
+                OnTrigger = ((Collider2D other) => AreaTrigger(player)),
+                Parent = player.GetMainObject(),
                 Xoffset = 0,
                 Yoffset = 0
             });
         }
-        public override void OnTriggerLocal()
+        public override void OnTriggerLocal(ILocalPlayerManipulator player)
         {
             pipe.Broadcast(AbilityId, "", true, true);
             //spawn heal radius at same position as HeroController.instance.gameObject
-            AreaOfEffect.CreateEffect(GetConfigFor(HeroController.instance.gameObject, true));
+            AreaOfEffect.CreateEffect(GetConfigFor(player));
         }
 
-        public override void OnTriggerRemote(EventContainer data)
+        public override void OnTriggerRemote(IPlayerManipulator player, EventContainer data)
         {
-            var player = pipe.ClientApi.ClientManager.GetPlayer(data.FromPlayer);
             //spawn heal radius at same position as player.PlayerObject
-            AreaOfEffect.CreateEffect(GetConfigFor(player.PlayerObject, false));
+            AreaOfEffect.CreateEffect(GetConfigFor(player));
         }
 
     }

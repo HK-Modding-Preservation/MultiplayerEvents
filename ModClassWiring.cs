@@ -1,9 +1,9 @@
 ﻿namespace MultiplayerEvents
 {
-    public partial class MultiplayerEvents : Mod, IGlobalSettings<GlobalModSettings>, ICustomMenuMod
+    public partial class MultiplayerEvents : IGlobalSettings<GlobalModSettings>, ILocalSettings<LocalModSettings>, ICustomMenuMod
     {
 
-        private string getVersionSafely()
+        private string GetVersionSafely()
         {
             return Satchel.AssemblyUtils.GetAssemblyVersionHash();
         }
@@ -12,7 +12,7 @@
             var version = "Satchel not found";
             try
             {
-                version = getVersionSafely();
+                version = GetVersionSafely();
             }
             catch (Exception e)
             {
@@ -21,21 +21,26 @@
             return version;
         }
 
-        public static GlobalModSettings Settings { get; set; } = new GlobalModSettings();
+        public static GlobalModSettings GlobalSettings { get; set; } = new GlobalModSettings();
+        public static LocalModSettings LocalSettings { get; set; } = new LocalModSettings();
         public void OnLoadGlobal(GlobalModSettings s)
         {
-            Settings = s;
+            GlobalSettings = s;
         }
 
-        public GlobalModSettings OnSaveGlobal()
+        public GlobalModSettings OnSaveGlobal() => MultiplayerEvents.GlobalSettings;
+
+        public void OnLoadLocal(LocalModSettings s)
         {
-            return MultiplayerEvents.Settings;
+            MultiplayerEvents.LocalSettings = s;
         }
 
+        public LocalModSettings OnSaveLocal() => MultiplayerEvents.LocalSettings;
         public bool ToggleButtonInsideMenu { get; } = false;
         public MenuScreen GetMenuScreen(MenuScreen modListMenu, ModToggleDelegates? toggle)
         {
             return BetterMenu.GetMenu(modListMenu);
         }
+
     }
 }

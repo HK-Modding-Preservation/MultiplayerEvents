@@ -6,9 +6,9 @@ namespace MultiplayerEvents.BaseModule
     public class DeathLink
     {
         private PipeClient pipe { get => MainPipe.Instance.pipe; }
-        private bool DeathLinkRoom { get => MultiplayerEvents.Settings.DeathLinkRoom; }
-        private bool DeathLinkEnabled { get => MultiplayerEvents.Settings.DeathLinkEnabled; }
-        private bool DeathLinkTeam { get => MultiplayerEvents.Settings.DeathLinkTeam; }
+        private bool DeathLinkRoom { get => MultiplayerEvents.GlobalSettings.DeathLinkRoom; }
+        private bool DeathLinkEnabled { get => MultiplayerEvents.GlobalSettings.DeathLinkEnabled; }
+        private bool DeathLinkTeam { get => MultiplayerEvents.GlobalSettings.DeathLinkTeam; }
 
         private string DeathEventName = "DeathLink";
         private bool isDeathLinkDeath = false;
