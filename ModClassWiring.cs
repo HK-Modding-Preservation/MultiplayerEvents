@@ -35,9 +35,18 @@ namespace MultiplayerEvents
         public void OnLoadLocal(LocalModSettings s)
         {
             MultiplayerEvents.LocalSettings = s;
+            if (MultiplayerEvents.LocalSettings.CharmStates != null && skillManager != null)
+            {
+                skillManager.RestoreCharmStates(MultiplayerEvents.LocalSettings.CharmStates);
+            }
+
         }
 
-        public LocalModSettings OnSaveLocal() => MultiplayerEvents.LocalSettings;
+        public LocalModSettings OnSaveLocal()
+        {
+            return MultiplayerEvents.LocalSettings;
+
+        }
         public bool ToggleButtonInsideMenu { get; } = false;
         public MenuScreen GetMenuScreen(MenuScreen modListMenu, ModToggleDelegates? toggle)
         {

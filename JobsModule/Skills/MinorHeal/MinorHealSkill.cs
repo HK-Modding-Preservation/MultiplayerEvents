@@ -4,13 +4,12 @@ using MultiplayerEvents.JobsModule.Objects.Base;
 using MultiplayerEvents.JobsModule.Objects.GameObjectManagers;
 using MultiplayerEvents.JobsModule.Objects.Trigger;
 using MultiplayerEvents.MultiplayerModule.PlayerManipulator;
-using UnityEngine.SocialPlatforms;
 
 namespace MultiplayerEvents.JobsModule.Abilities.MinorHeal
 {
     public class MinorHealSkill : FocusSkill
     {
-        public override string AbilityId => "MinorHeal";
+        public override string AbilityId => "MinorHealSkill";
         public override int GetCost() => 1;
         public override Sprite GetIcon() => AssetManager.MinorHealSprite;
         public override string GetDescription() => FlavorTexts.MinorHealDescription;
@@ -26,6 +25,7 @@ namespace MultiplayerEvents.JobsModule.Abilities.MinorHeal
         {
             if (player is ILocalPlayerManipulator localPlayer)
             {
+                localPlayer.HealEffect();
                 localPlayer.AddHealth(1);
             }
         }
@@ -33,7 +33,7 @@ namespace MultiplayerEvents.JobsModule.Abilities.MinorHeal
         {
             return (new AreaOfEffectConfig
             {
-                AutoRemove = false,
+                AutoRemove = true,
                 AutoRemoveSeconds = 1,
                 TriggerConfig = new TriggerConfig { MultiTrigger = false, Layer = GlobalEnums.PhysLayers.HERO_DETECTOR },
                 OnTrigger = ((Collider2D other) => AreaTrigger(player)),

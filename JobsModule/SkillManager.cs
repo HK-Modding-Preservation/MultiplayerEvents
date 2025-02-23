@@ -6,11 +6,7 @@ namespace MultiplayerEvents.JobsModule
     public class SkillManager
     {
 
-        public List<BaseSkill> AvailableAbilities = new List<BaseSkill>()
-            {
-                AbilityStore.MinorHeal,
-                AbilityStore.MinorInvisibility
-            };
+        public List<BaseSkill> AvailableAbilities = [];
 
         internal Dictionary<string, EasyCharmState> GetCharmStates()
         {
@@ -35,11 +31,22 @@ namespace MultiplayerEvents.JobsModule
 
         internal void Init()
         {
-
+            AvailableAbilities = new List<BaseSkill>()
+            {
+                AbilityStore.MinorHeal,
+                AbilityStore.MinorInvisibility,
+                AbilityStore.MinorInvulnerability
+            };
             foreach (BaseSkill ability in AvailableAbilities)
             {
                 ability.Charm.GiveCharm();
             }
+            On.HeroController.CharmUpdate += HeroController_CharmUpdate;
+        }
+
+        private void HeroController_CharmUpdate(On.HeroController.orig_CharmUpdate orig, HeroController self)
+        {
+            MultiplayerEvents.LocalSettings.CharmStates = GetCharmStates();
         }
 
     }

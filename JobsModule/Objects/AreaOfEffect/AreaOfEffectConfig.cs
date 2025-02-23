@@ -3,7 +3,7 @@ using MultiplayerEvents.JobsModule.Objects.Trigger;
 
 namespace MultiplayerEvents.JobsModule.Objects.AreaOfEffect
 {
-    public class AreaOfEffectConfig : IEffectConfig
+    public class AreaOfEffectConfig : BaseEffectConfig
     {
         public TriggerConfig TriggerConfig;
         public bool AutoRemove;

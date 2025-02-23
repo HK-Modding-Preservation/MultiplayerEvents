@@ -9,7 +9,7 @@ namespace MultiplayerEvents.JobsModule.Skills.MinorInvisibility
 
         public override int GetCost() => 1;
 
-        public override string GetDescription() => FlavorTexts.AssassinDescription;
+        public override string GetDescription() => FlavorTexts.MinorInvisibilityDescription;
 
         public override Sprite GetIcon() => AssetManager.AssassinSprite;
 
@@ -29,7 +29,7 @@ namespace MultiplayerEvents.JobsModule.Skills.MinorInvisibility
             ApplySkill(player);
         }
 
-        public override void OnTriggerRemote(IPlayerManipulator player,EventContainer data)
+        public override void OnTriggerRemote(IPlayerManipulator player, EventContainer data)
         {
             ApplySkill(player);
         }

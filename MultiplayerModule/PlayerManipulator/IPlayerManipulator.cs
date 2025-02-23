@@ -11,5 +11,10 @@
     {
 
         public void AddHealth(int amount);
+        public void HealEffect();
+
+        public void DamageEvasionEffect();
+        public void MakeInvulnerable();
+        public void MakeVulnerable();
     }
 }

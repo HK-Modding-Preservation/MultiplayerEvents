@@ -8,24 +8,22 @@ namespace MultiplayerEvents
     {
 
         internal static MultiplayerEvents Instance;
+        private TeamScore teamScore = new();
+        private QuestManager questManager = new();
+        private PersistentSkulls persistentSkulls = new();
+        private DeathLink deathLink = new();
+        private SkillManager skillManager = new();
 
-        public override void Initialize()
+        public MultiplayerEvents()
         {
             Instance = this;
-
-            var teamScore = new TeamScore();
+        }
+        public override void Initialize()
+        {
             teamScore.Init();
-
-            var questManager = new QuestManager();
             questManager.Init();
-
-            var persistentSkulls = new PersistentSkulls();
             persistentSkulls.Init();
-
-            var deathLink = new DeathLink();
             deathLink.Init();
-
-            var skillManager = new SkillManager();
             skillManager.Init();
         }
 
