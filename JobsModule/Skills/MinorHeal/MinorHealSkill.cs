@@ -3,7 +3,7 @@ using MultiplayerEvents.JobsModule.Objects.AreaOfEffect;
 using MultiplayerEvents.JobsModule.Objects.Base;
 using MultiplayerEvents.JobsModule.Objects.GameObjectManagers;
 using MultiplayerEvents.JobsModule.Objects.Trigger;
-using MultiplayerEvents.PlayerManipulator;
+using MultiplayerEvents.MultiplayerModule.PlayerManipulator;
 using UnityEngine.SocialPlatforms;
 
 namespace MultiplayerEvents.JobsModule.Abilities.MinorHeal

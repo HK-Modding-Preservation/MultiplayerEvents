@@ -1,4 +1,4 @@
-﻿namespace MultiplayerEvents.PlayerManipulator
+﻿namespace MultiplayerEvents.MultiplayerModule.PlayerManipulator
 {
     public interface IPlayerManipulator
     {

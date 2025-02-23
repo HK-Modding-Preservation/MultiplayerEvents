@@ -1,6 +1,6 @@
 ﻿using Hkmp.Api.Client;
 
-namespace MultiplayerEvents.PlayerManipulator
+namespace MultiplayerEvents.MultiplayerModule.PlayerManipulator
 {
     public class RemotePlayerManipulator(IClientPlayer player) : IPlayerManipulator
     {
