@@ -23,16 +23,15 @@ namespace MultiplayerEvents.JobsModule.Skills.MinorInvisibility
                 player.MakeVisible();
             });
         }
-        public override void OnTriggerLocal()
+        public override void OnTriggerLocal(ILocalPlayerManipulator player)
         {
             pipe.Broadcast(AbilityId, "", true, true);
-            ApplySkill(new LocalPlayerManipulator());
+            ApplySkill(player);
         }
 
-        public override void OnTriggerRemote(EventContainer data)
+        public override void OnTriggerRemote(IPlayerManipulator player,EventContainer data)
         {
-            var player = pipe.ClientApi.ClientManager.GetPlayer(data.FromPlayer);
-            ApplySkill(new RemotePlayerManipulator(player));
+            ApplySkill(player);
         }
     }
 }

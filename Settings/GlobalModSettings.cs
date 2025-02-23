@@ -1,4 +1,4 @@
-﻿namespace MultiplayerEvents
+﻿namespace MultiplayerEvents.Settings
 {
     public class GlobalModSettings
     {

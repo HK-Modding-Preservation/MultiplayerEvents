@@ -1,4 +1,4 @@
-﻿namespace MultiplayerEvents
+﻿namespace MultiplayerEvents.Settings
 {
     internal static class BetterMenu
     {
@@ -10,19 +10,19 @@
                 new HorizontalOption(
                     "DeathLink", "Links your life to others",
                     new string[] { "Disabled", "Enabled" },
-                    (setting) => { MultiplayerEvents.GlobalSettings.DeathLinkEnabled = (setting == 1); },
+                    (setting) => { MultiplayerEvents.GlobalSettings.DeathLinkEnabled = setting == 1; },
                     () => MultiplayerEvents.GlobalSettings.DeathLinkEnabled ? 1 : 0,
                     Id:"DeathLink"),
                  new HorizontalOption(
                     "DeathLink Room?", "Links your life only to others in the same room",
                     new string[] { "Disabled", "Enabled" },
-                    (setting) => { MultiplayerEvents.GlobalSettings.DeathLinkRoom = (setting == 1); },
+                    (setting) => { MultiplayerEvents.GlobalSettings.DeathLinkRoom = setting == 1; },
                     () => MultiplayerEvents.GlobalSettings.DeathLinkRoom ? 1 : 0,
                     Id:"DeathLink"),
                  new HorizontalOption(
                     "DeathLink Team?", "Links your life only to others in the same team",
                     new string[] { "Disabled", "Enabled" },
-                    (setting) => { MultiplayerEvents.GlobalSettings.DeathLinkTeam = (setting == 1); },
+                    (setting) => { MultiplayerEvents.GlobalSettings.DeathLinkTeam = setting == 1; },
                     () => MultiplayerEvents.GlobalSettings.DeathLinkTeam ? 1 : 0,
                     Id:"DeathLink")
             });

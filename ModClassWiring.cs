@@ -1,4 +1,6 @@
-﻿namespace MultiplayerEvents
+﻿using MultiplayerEvents.Settings;
+
+namespace MultiplayerEvents
 {
     public partial class MultiplayerEvents : IGlobalSettings<GlobalModSettings>, ILocalSettings<LocalModSettings>, ICustomMenuMod
     {

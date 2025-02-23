@@ -22,6 +22,10 @@ namespace MultiplayerEvents.JobsModule.Base.Skills
 
         private bool lastEquipState = false;
 
+        public void OnTriggerLocal()
+        {
+            OnTriggerLocal(LocalPlayerManipulator.Instance);
+        }
         protected BaseSkill()
         {
             Charm = new BaseSkillCharm(this);

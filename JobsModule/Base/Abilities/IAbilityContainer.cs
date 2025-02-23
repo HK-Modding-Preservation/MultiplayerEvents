@@ -1,4 +1,6 @@
-﻿namespace MultiplayerEvents.JobsModule.Base.AbilityChanger
+﻿using MultiplayerEvents.JobsModule.Base.PlayerManipulator;
+
+namespace MultiplayerEvents.JobsModule.Base.AbilityChanger
 {
     public interface IAbilityContainer
     {

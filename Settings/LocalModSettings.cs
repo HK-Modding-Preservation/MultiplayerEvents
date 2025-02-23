@@ -1,6 +1,6 @@
 ﻿using SFCore;
 
-namespace MultiplayerEvents
+namespace MultiplayerEvents.Settings
 {
     public class LocalModSettings
     {
