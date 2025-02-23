@@ -45,13 +45,11 @@ namespace MultiplayerEvents.JobsModule.Abilities.MinorHeal
         public override void OnTriggerLocal(ILocalPlayerManipulator player)
         {
             pipe.Broadcast(AbilityId, "", true, true);
-            //spawn heal radius at same position as HeroController.instance.gameObject
             AreaOfEffect.CreateEffect(GetConfigFor(player));
         }
 
         public override void OnTriggerRemote(IPlayerManipulator player, EventContainer data)
         {
-            //spawn heal radius at same position as player.PlayerObject
             AreaOfEffect.CreateEffect(GetConfigFor(player));
         }
 
